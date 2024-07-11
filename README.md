@@ -1,8 +1,8 @@
 # Respositorio para los test de la Escuela 2024
 
-## Se dejaran aqui los "equeletos" de los archivos" necesarios para que funcionen los test
+## Se dejaran aquí los "esqueletos" de los archivos" necesarios para que funcionen los test
 
-### tests/cases_px.txt
+- tests/cases_px.txt
 
 ```txt
 %PREG
@@ -109,7 +109,7 @@ secreto
 
 ```
 
-### cases_urls.txt
+- cases_urls.txt
 
 ```txt
 P1,https://raw.githubusercontent.com/{usuario_github_del_repo}/{nombre_repo}/{rama}/tests/cases_p1.txt
@@ -119,7 +119,7 @@ P4,https://raw.githubusercontent.com/{usuario_github_del_repo}/{nombre_repo}/{ra
 P5,https://raw.githubusercontent.com/{usuario_github_del_repo}/{nombre_repo}/{rama}/tests/cases_p5.txt
 ```
 
-### colab_lms.py (modificar linea 4 variable `PATH_CASES`)
+- colab_lms.py (modificar linea 4 variable `PATH_CASES`)
 
 ```py
 PATH_CASES = 'https://raw.githubusercontent.com/{usuario_github_del_repo}/{nombre_repo}/{rama}/cases_urls.txt'
