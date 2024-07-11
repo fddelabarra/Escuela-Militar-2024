@@ -1,0 +1,49 @@
+%PREG
+Pregunta 1
+%NAME
+Case 1
+%TYPE
+publico
+%PRECODE
+
+%INPUT
+
+%CODE
+
+%OUTPUT
+
+%NAME
+Case 2
+%TYPE
+publico
+%PRECODE
+
+%INPUT
+
+%CODE
+
+%OUTPUT
+
+%NAME
+Case 1
+%TYPE
+secreto
+%PRECODE
+
+%INPUT
+
+%CODE
+
+%OUTPUT
+
+%NAME
+Case 2
+%TYPE
+secreto
+%PRECODE
+
+%INPUT
+
+%CODE
+
+%OUTPUT
