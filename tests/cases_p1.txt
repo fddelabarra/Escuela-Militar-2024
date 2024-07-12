@@ -16,7 +16,7 @@ Case 2
 publico
 %PRECODE
 %INPUT
-Nombre
+Nombre,
 %CODE
 %OUTPUT
 Nombre
@@ -26,7 +26,7 @@ Case 1
 secreto
 %PRECODE
 %INPUT
-nose
+nose,
 %CODE
 %OUTPUT
 df3e792e7f43582415006f1fdc2746ab
@@ -36,7 +36,7 @@ Case 2
 secreto
 %PRECODE
 %INPUT
-No tengo idea
+No tengo idea,
 %CODE
 %OUTPUT
 b0c4b67fe7b6be264965552414c0ff3f
