@@ -8,7 +8,9 @@ publico
 %INPUT
 Hola Mundo,
 %CODE
+print(funcion1('Fran'))
 %OUTPUT
+Fran
 Hola Mundo
 %NAME
 Case 2
