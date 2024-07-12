@@ -16,10 +16,10 @@ Case 2
 publico
 %PRECODE
 %INPUT
-Nombre,
+Nombre1,
 %CODE
 %OUTPUT
-Nombre
+Nombre1
 %NAME
 Case 1
 %TYPE
