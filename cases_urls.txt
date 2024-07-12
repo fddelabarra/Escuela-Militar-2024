@@ -1,2 +1,1 @@
 P1,https://raw.githubusercontent.com/fddelabarra/Escuela-Militar-2024/rama_prueba/tests/cases_p1.txt
-P2,https://raw.githubusercontent.com/fddelabarra/Escuela-Militar-2024/rama_prueba/tests/cases_p2.txt
