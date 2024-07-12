@@ -5,45 +5,38 @@ Case 1
 %TYPE
 publico
 %PRECODE
-
 %INPUT
-
+Hola Mundo,
 %CODE
-
 %OUTPUT
-
+Hola Mundo
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
-
 %INPUT
-
+Nombre
 %CODE
-
 %OUTPUT
-
+Nombre
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
-
 %INPUT
-
+nose
 %CODE
-
 %OUTPUT
-
+df3e792e7f43582415006f1fdc2746ab
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
-
 %INPUT
-
+No tengo idea
 %CODE
-
 %OUTPUT
+b0c4b67fe7b6be264965552414c0ff3f
