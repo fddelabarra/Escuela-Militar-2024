@@ -6,39 +6,96 @@ Case 1
 publico
 %PRECODE
 %INPUT
-Hola Mundo,
+
 %CODE
-print(funcion1('Fran'))
 %OUTPUT
-Fran
-Hola Mundo
+
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-Nombre1,
+
 %CODE
 %OUTPUT
-Nombre1
+
+%NAME
+Case 3
+%TYPE
+publico
+%PRECODE
+%INPUT
+
+%CODE
+%OUTPUT
+
+%NAME
+Case 4
+%TYPE
+publico
+%PRECODE
+%INPUT
+
+%CODE
+%OUTPUT
+
+%NAME
+Case 5
+%TYPE
+publico
+%PRECODE
+%INPUT
+
+%CODE
+%OUTPUT
+
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-nose,
+
 %CODE
 %OUTPUT
-df3e792e7f43582415006f1fdc2746ab
+
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-No tengo idea,
+
 %CODE
 %OUTPUT
-b0c4b67fe7b6be264965552414c0ff3f
+
+%NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+%INPUT
+
+%CODE
+%OUTPUT
+
+%NAME
+Case 4
+%TYPE
+secreto
+%PRECODE
+%INPUT
+
+%CODE
+%OUTPUT
+
+%NAME
+Case 5
+%TYPE
+secreto
+%PRECODE
+%INPUT
+
+%CODE
+%OUTPUT

@@ -1,1 +1,5 @@
-P1,https://raw.githubusercontent.com/fddelabarra/Escuela-Militar-2024/rama_prueba/tests/cases_p1.txt
+P1,https://raw.githubusercontent.com/fddelabarra/Escuela-Militar-2024/Guia-1/tests/cases_p1.txt
+P2,https://raw.githubusercontent.com/fddelabarra/Escuela-Militar-2024/Guia-1/tests/cases_p2.txt
+P3,https://raw.githubusercontent.com/fddelabarra/Escuela-Militar-2024/Guia-1/tests/cases_p3.txt
+P4,https://raw.githubusercontent.com/fddelabarra/Escuela-Militar-2024/Guia-1/tests/cases_p4.txt
+P5,https://raw.githubusercontent.com/fddelabarra/Escuela-Militar-2024/Guia-1/tests/cases_p5.txt

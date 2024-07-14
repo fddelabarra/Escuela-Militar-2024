@@ -1,0 +1,101 @@
+%PREG
+Pregunta 1
+%NAME
+Case 1
+%TYPE
+publico
+%PRECODE
+%INPUT
+
+%CODE
+%OUTPUT
+
+%NAME
+Case 2
+%TYPE
+publico
+%PRECODE
+%INPUT
+
+%CODE
+%OUTPUT
+
+%NAME
+Case 3
+%TYPE
+publico
+%PRECODE
+%INPUT
+
+%CODE
+%OUTPUT
+
+%NAME
+Case 4
+%TYPE
+publico
+%PRECODE
+%INPUT
+
+%CODE
+%OUTPUT
+
+%NAME
+Case 5
+%TYPE
+publico
+%PRECODE
+%INPUT
+
+%CODE
+%OUTPUT
+
+%NAME
+Case 1
+%TYPE
+secreto
+%PRECODE
+%INPUT
+
+%CODE
+%OUTPUT
+
+%NAME
+Case 2
+%TYPE
+secreto
+%PRECODE
+%INPUT
+
+%CODE
+%OUTPUT
+
+%NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+%INPUT
+
+%CODE
+%OUTPUT
+
+%NAME
+Case 4
+%TYPE
+secreto
+%PRECODE
+%INPUT
+
+%CODE
+%OUTPUT
+
+%NAME
+Case 5
+%TYPE
+secreto
+%PRECODE
+%INPUT
+
+%CODE
+%OUTPUT
