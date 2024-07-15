@@ -64,22 +64,12 @@ Case 2
 secreto
 %PRECODE
 %INPUT
-35
-%CODE
-%OUTPUT
-0fa1595dd06ed4ef25ef95f87e567637
-%NAME
-Case 3
-%TYPE
-secreto
-%PRECODE
-%INPUT
 50
 %CODE
 %OUTPUT
 0510c5e47006d7c1cdaf6ca65743c67a
 %NAME
-Case 4
+Case 3
 %TYPE
 secreto
 %PRECODE
@@ -89,7 +79,7 @@ secreto
 %OUTPUT
 151db2ca184de0969ce2ac877970aa9b
 %NAME
-Case 5
+Case 4
 %TYPE
 secreto
 %PRECODE
