@@ -13,7 +13,6 @@ publico
 %CODE
 %OUTPUT
 9
-
 %NAME
 Case 2
 %TYPE
@@ -27,7 +26,6 @@ publico
 %CODE
 %OUTPUT
 10
-
 %NAME
 Case 3
 %TYPE
@@ -41,7 +39,6 @@ publico
 %CODE
 %OUTPUT
 12
-
 %NAME
 Case 1
 %TYPE
@@ -55,7 +52,6 @@ secreto
 %CODE
 %OUTPUT
 578d498d3d4753edc2897e0674c4e826
-
 %NAME
 Case 2
 %TYPE
@@ -69,7 +65,6 @@ secreto
 %CODE
 %OUTPUT
 2e98c8ace99cb9d60a73fc5b906c2d72
-
 %NAME
 Case 3
 %TYPE
@@ -83,7 +78,6 @@ secreto
 %CODE
 %OUTPUT
 da018699fc52576a8eb49b090f6899b3
-
 %NAME
 Case 4
 %TYPE
@@ -97,7 +91,6 @@ secreto
 %CODE
 %OUTPUT
 9ec68cd49ecd1b5a9700e1d0e26cbe8b
-
 %NAME
 Case 5
 %TYPE
