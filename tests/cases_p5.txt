@@ -1,14 +1,18 @@
 %PREG
-Pregunta 1
+Pregunta 5
 %NAME
 Case 1
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+300
+450
+150
+100
 %CODE
 %OUTPUT
+9
 
 %NAME
 Case 2
@@ -16,9 +20,13 @@ Case 2
 publico
 %PRECODE
 %INPUT
-
+500
+300
+200
+100
 %CODE
 %OUTPUT
+10
 
 %NAME
 Case 3
@@ -26,29 +34,13 @@ Case 3
 publico
 %PRECODE
 %INPUT
-
+600
+400
+200
+100
 %CODE
 %OUTPUT
-
-%NAME
-Case 4
-%TYPE
-publico
-%PRECODE
-%INPUT
-
-%CODE
-%OUTPUT
-
-%NAME
-Case 5
-%TYPE
-publico
-%PRECODE
-%INPUT
-
-%CODE
-%OUTPUT
+12
 
 %NAME
 Case 1
@@ -56,9 +48,13 @@ Case 1
 secreto
 %PRECODE
 %INPUT
-
+800
+200
+400
+100
 %CODE
 %OUTPUT
+578d498d3d4753edc2897e0674c4e826
 
 %NAME
 Case 2
@@ -66,9 +62,13 @@ Case 2
 secreto
 %PRECODE
 %INPUT
-
+1000
+500
+300
+200
 %CODE
 %OUTPUT
+2e98c8ace99cb9d60a73fc5b906c2d72
 
 %NAME
 Case 3
@@ -76,9 +76,13 @@ Case 3
 secreto
 %PRECODE
 %INPUT
-
+1200
+800
+400
+200
 %CODE
 %OUTPUT
+da018699fc52576a8eb49b090f6899b3
 
 %NAME
 Case 4
@@ -86,9 +90,13 @@ Case 4
 secreto
 %PRECODE
 %INPUT
-
+200
+300
+100
+50
 %CODE
 %OUTPUT
+9ec68cd49ecd1b5a9700e1d0e26cbe8b
 
 %NAME
 Case 5
@@ -96,6 +104,10 @@ Case 5
 secreto
 %PRECODE
 %INPUT
-
+700
+300
+400
+100
 %CODE
 %OUTPUT
+3b0e86722ff7d4a642cb05185d1db889
