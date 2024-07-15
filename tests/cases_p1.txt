@@ -6,96 +6,97 @@ Case 1
 publico
 %PRECODE
 %INPUT
-
+Hola Mundo,
 %CODE
 %OUTPUT
-
+Hola Mundo
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+Buenos dias,
 %CODE
 %OUTPUT
-
+Buenos dias
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+012345,
 %CODE
 %OUTPUT
-
+012345
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+¡Hola!,
 %CODE
 %OUTPUT
-
+¡Hola!
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+Texto con  muchos       espacios,
 %CODE
 %OUTPUT
-
+Texto con  muchos       espacios
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+PalabrasEnCamelCase,
 %CODE
 %OUTPUT
-
+7d2c24da0433f1c8921a979e3c04a716
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+123abc456,
 %CODE
 %OUTPUT
-
+01debcd5a4d1397d9351721763ff465e
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+Con numeros: 1; 2; 3,
 %CODE
 %OUTPUT
-
+4a29da383a9d31ecb06ce3016f0e49c5
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+Texto con signos de puntuacion.,
 %CODE
 %OUTPUT
-
+9ab6ad3f423c6dd4a2e2d772cda0963f
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+Cadena larga con muchas palabras y diferentes caracteres para probar el output del programa y asegurarnos que todo funciona correctamente.,
 %CODE
 %OUTPUT
+f36d781180c944be40e5ddc0373a7330
