@@ -6,97 +6,96 @@ Case 1
 publico
 %PRECODE
 %INPUT
-6,
+
 %CODE
 %OUTPUT
-El numero es par
+
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-15,
+
 %CODE
 %OUTPUT
-El numero es impar
+
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-100,
+
 %CODE
 %OUTPUT
-El numero es par
+
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-101,
+
 %CODE
 %OUTPUT
-El numero es impar
+
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-500,
+
 %CODE
 %OUTPUT
-El numero es par
+
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1234,
+
 %CODE
 %OUTPUT
-be5581be1cdd994a77559f39b585fd01
+
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-1235,
+
 %CODE
 %OUTPUT
-9b6bfad18882b3c49ff9018453b97989
+
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-3333,
+
 %CODE
 %OUTPUT
-9b6bfad18882b3c49ff9018453b97989
+
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-6666,
+
 %CODE
 %OUTPUT
-be5581be1cdd994a77559f39b585fd01
+
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-7777,
+
 %CODE
 %OUTPUT
-9b6bfad18882b3c49ff9018453b97989
