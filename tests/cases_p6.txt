@@ -6,96 +6,97 @@ Case 1
 publico
 %PRECODE
 %INPUT
-
+2.5,4.1,6.6,5.7,
 %CODE
 %OUTPUT
-
+aprobo
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+4.4,3.3,1.4,4.4,
 %CODE
 %OUTPUT
-
+reprobo con mala nota
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+6.2,6.1,2.2,5.1,
 %CODE
 %OUTPUT
-
+aprobo
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+6.3,5.5,5.9,6.0,
 %CODE
 %OUTPUT
-
+aprobo con buena nota
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+5.3,3.9,2.4,4.0,
 %CODE
 %OUTPUT
-
+reprobo
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+6.3,4.8,2.8,3.6,
 %CODE
 %OUTPUT
-
+607209bb54776e3d326bc956110db0c1
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+1.5,6.3,3.7,5.9,
 %CODE
 %OUTPUT
-
+607209bb54776e3d326bc956110db0c1
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+6.1,6.8,5.9,6.2,
 %CODE
 %OUTPUT
-
+bf89671117d68f8f4a5950b7d851298c
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+1.6,2.2,2.6,6.9,
 %CODE
 %OUTPUT
-
+8d63c99a6414af03477af002c56bd5ee
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+3.5,4.0,4.2,4.100000000000001,
 %CODE
 %OUTPUT
+607209bb54776e3d326bc956110db0c1
