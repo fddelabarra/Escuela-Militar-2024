@@ -6,7 +6,7 @@ Case 1
 publico
 %PRECODE
 %INPUT
-jugo\n20\n
+jugo,20,
 %CODE
 %OUTPUT
 puedes comprar un jugo en caja.
@@ -16,7 +16,7 @@ Case 2
 publico
 %PRECODE
 %INPUT
-bebida\n8\n
+bebida,8,
 %CODE
 %OUTPUT
 puedes comprar agua.
@@ -26,7 +26,7 @@ Case 3
 publico
 %PRECODE
 %INPUT
-jugo\n35\n
+jugo,35,
 %CODE
 %OUTPUT
 puedes comprar un jugo natural.
@@ -36,7 +36,7 @@ Case 4
 publico
 %PRECODE
 %INPUT
-bebida\n30\n
+bebida,30,
 %CODE
 %OUTPUT
 puedes comprar una bebida grande.
@@ -46,7 +46,7 @@ Case 1
 secreto
 %PRECODE
 %INPUT
-jugo\n5\n
+jugo,5,
 %CODE
 %OUTPUT
 182a64cb6236e7b1444e0bbe674295ac
@@ -56,7 +56,7 @@ Case 2
 secreto
 %PRECODE
 %INPUT
-bebida\n15\n
+bebida,15,
 %CODE
 %OUTPUT
 5c9f836240b358ce6d8b06786c22ee28
@@ -66,7 +66,7 @@ Case 3
 secreto
 %PRECODE
 %INPUT
-jugo\n30\n
+jugo,30,
 %CODE
 %OUTPUT
 2410c4d6382f443598468b28b169860a
