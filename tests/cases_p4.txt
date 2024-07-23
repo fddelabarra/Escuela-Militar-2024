@@ -6,96 +6,77 @@ Case 1
 publico
 %PRECODE
 %INPUT
-
+80,60,95,
 %CODE
 %OUTPUT
-
+Puedes viajar a Iquique
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+40,25,55,
 %CODE
 %OUTPUT
-
+Puedes viajar a Talca
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+70,50,90,
 %CODE
 %OUTPUT
-
+Puedes viajar a Iquique
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+50,30,70,
 %CODE
 %OUTPUT
-
-%NAME
-Case 5
-%TYPE
-publico
-%PRECODE
-%INPUT
-
-%CODE
-%OUTPUT
-
+Puedes viajar a Valdivia
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+10,5,30,
 %CODE
 %OUTPUT
-
+9b3739299f03191eae68324267f716fa
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+90,70,100,
 %CODE
 %OUTPUT
-
+685aa4d2ac9d99b77cf09f6acce46fde
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+60,40,80,
 %CODE
 %OUTPUT
-
+9b3739299f03191eae68324267f716fa
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+30,25,50,
 %CODE
 %OUTPUT
-
-%NAME
-Case 5
-%TYPE
-secreto
-%PRECODE
-%INPUT
-
-%CODE
-%OUTPUT
+4e07a6037d4356fd40b9b5204baa1972
