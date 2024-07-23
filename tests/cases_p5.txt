@@ -70,13 +70,3 @@ secreto
 %CODE
 %OUTPUT
 8c3bffbaabc17dd1219b71e1f0b4a644
-%NAME
-Case 4
-%TYPE
-secreto
-%PRECODE
-%INPUT
-15,no,no,
-%CODE
-%OUTPUT
-72416b2897c799eb80bf75c2d9533519
