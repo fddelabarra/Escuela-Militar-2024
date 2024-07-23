@@ -36,10 +36,10 @@ Case 4
 publico
 %PRECODE
 %INPUT
-15,si,no,
+5,no,no,
 %CODE
 %OUTPUT
-Puedes preparar Ensalada de Verduras
+No tienes suficientes recursos para preparar un platillo
 %NAME
 Case 1
 %TYPE
