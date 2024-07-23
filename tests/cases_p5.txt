@@ -56,7 +56,7 @@ Case 2
 secreto
 %PRECODE
 %INPUT
-70,si,no,
+60,si,no,
 %CODE
 %OUTPUT
 12043a5fb0b59f36c00f899515e31ab4
@@ -66,10 +66,10 @@ Case 3
 secreto
 %PRECODE
 %INPUT
-30,no,si,
+45,no,si,
 %CODE
 %OUTPUT
-12043a5fb0b59f36c00f899515e31ab4
+8c3bffbaabc17dd1219b71e1f0b4a644
 %NAME
 Case 4
 %TYPE
