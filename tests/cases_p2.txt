@@ -6,97 +6,96 @@ Case 1
 publico
 %PRECODE
 %INPUT
-19,
+
 %CODE
 %OUTPUT
-adulto
+
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
--200,
+
 %CODE
 %OUTPUT
-edad erronea
+
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-65,
+
 %CODE
 %OUTPUT
-adulto mayor
+
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-18,
+
 %CODE
 %OUTPUT
-adulto
+
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-0,
+
 %CODE
 %OUTPUT
-nino
+
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
--136,
+
 %CODE
 %OUTPUT
-f933a82b21e0a0ec98cf4aa453f53a42
+
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-17,
+
 %CODE
 %OUTPUT
-d97ba39e09db381d6dcbebbd966266b6
+
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-42,
+
 %CODE
 %OUTPUT
-62b4bf2c35174d8ec1ec0f04a8a237ca
+
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-94,
+
 %CODE
 %OUTPUT
-a4d98660705cbffbf798cfbed38b20be
+
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-13,
+
 %CODE
 %OUTPUT
-d97ba39e09db381d6dcbebbd966266b6
