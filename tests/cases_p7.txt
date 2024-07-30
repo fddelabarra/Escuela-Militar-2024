@@ -6,96 +6,123 @@ Case 1
 publico
 %PRECODE
 %INPUT
-
+5,
 %CODE
 %OUTPUT
-
+1 x 5 = 5
+2 x 5 = 10
+3 x 5 = 15
+4 x 5 = 20
+5 x 5 = 25
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+10,
 %CODE
 %OUTPUT
-
+1 x 10 = 10
+2 x 10 = 20
+3 x 10 = 30
+4 x 10 = 40
+5 x 10 = 50
+6 x 10 = 60
+7 x 10 = 70
+8 x 10 = 80
+9 x 10 = 90
+10 x 10 = 100
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+12
 %CODE
 %OUTPUT
-
+1 x 12 = 12
+2 x 12 = 24
+3 x 12 = 36
+4 x 12 = 48
+5 x 12 = 60
+6 x 12 = 72
+7 x 12 = 84
+8 x 12 = 96
+9 x 12 = 108
+10 x 12 = 120
+11 x 12 = 132
+12 x 12 = 144
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+3,
 %CODE
 %OUTPUT
-
+1 x 3 = 3
+2 x 3 = 6
+3 x 3 = 9
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+1,
 %CODE
 %OUTPUT
-
+1 x 1 = 1
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+22,
 %CODE
 %OUTPUT
-
+cfac29b24a9d15488b44c72e31b56e8b
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+100,
 %CODE
 %OUTPUT
-
+02eb5ba42ad7c1b143d6c304cbd4d11e
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+263
 %CODE
 %OUTPUT
-
+9152b48b4b1c2d2c91c4e3decb877c07
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+4732,
 %CODE
 %OUTPUT
-
+bde44ef4bb7f349ade54c63527fa43bc
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+77,
 %CODE
 %OUTPUT
+eed98d8366ec18b819c2ea7baaf38f0a
