@@ -6,96 +6,102 @@ Case 1
 publico
 %PRECODE
 %INPUT
-
+oso,caballo,oso,ciervo,mono,oso,pajaro,ciervo,end,
 %CODE
 %OUTPUT
-
+osos: 3
+ciervos: 2
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+oso,perro,gato,ciervo,elefante,oso,tigre,ciervo,ciervo,leon,oso,lobo,end,
 %CODE
 %OUTPUT
-
+osos: 3
+ciervos: 3
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+oso,ciervo,gato,ciervo,oso,oso,ciervo,perro,oso,ciervo,ciervo,oso,pajaro,oso,oso,end,
 %CODE
 %OUTPUT
-
+osos: 7
+ciervos: 5
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+oso,ciervo,oso,oso,oso,ciervo,ciervo,ciervo,oso,oso,oso,ciervo,end,
 %CODE
 %OUTPUT
-
+osos: 7
+ciervos: 5
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+oso,ciervo,elefante,oso,ciervo,oso,pajaro,ciervo,oso,perro,ciervo,oso,gato,oso,ciervo,pajaro,ciervo,oso,oso,ciervo,gato,oso,end,
 %CODE
 %OUTPUT
-
+osos: 9
+ciervos: 7
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+oso,ciervo,elefante,gato,oso,pajaro,ciervo,oso,perro,ciervo,gato,oso,pajaro,ciervo,oso,oso,elefante,ciervo,oso,oso,pajaro,oso,conejo,ciervo,oso,elefante,oso,pajaro,ciervo,oso,oso,gato,ciervo,oso,oso,pajaro,oso,caballo,ciervo,end,
 %CODE
 %OUTPUT
-
+425b90de1cd928fe435fa4f1916e0240
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+ciervo,elefante,oso,pajaro,gato,oso,ciervo,oso,perro,ciervo,gato,oso,pajaro,ciervo,oso,oso,elefante,ciervo,oso,oso,pajaro,oso,conejo,ciervo,oso,elefante,oso,pajaro,ciervo,oso,oso,gato,ciervo,oso,oso,pajaro,oso,caballo,ciervo,zorro,oso,end,
 %CODE
 %OUTPUT
-
+68df675bddbe6ce34294febff5fbf423
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+oso,ciervo,elefante,oso,pajaro,gato,ciervo,oso,ciervo,oso,pajaro,gato,oso,perro,ciervo,oso,pajaro,oso,elefante,ciervo,oso,oso,conejo,ciervo,oso,pajaro,ciervo,oso,oso,elefante,oso,pajaro,oso,ciervo,oso,oso,pajaro,oso,end,
 %CODE
 %OUTPUT
-
+3a65e32162b483d24958c8e935d89783
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+elefante,oso,ciervo,ciervo,oso,gato,oso,ciervo,pajaro,oso,ciervo,oso,conejo,pajaro,oso,oso,ciervo,elefante,oso,pajaro,ciervo,oso,pajaro,ciervo,oso,oso,pajaro,gato,ciervo,oso,elefante,pajaro,oso,oso,end,
 %CODE
 %OUTPUT
-
+a9980b96d9f04aeb99613176304a22c6
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+ciervo,elefante,oso,oso,ciervo,oso,pajaro,ciervo,oso,perro,ciervo,oso,gato,pajaro,oso,ciervo,pajaro,elefante,oso,ciervo,pajaro,oso,gato,ciervo,oso,elefante,pajaro,oso,oso,ciervo,oso,ciervo,pajaro,oso,oso,ciervo,oso,end,
 %CODE
 %OUTPUT
+b034dfcfe65798a24a33e53f762cb45f
