@@ -51,7 +51,7 @@ publico
 Completo,4,10,
 %CODE
 %OUTPUT
-leto\n
+leta\n
 
 %NAME
 Case 1
