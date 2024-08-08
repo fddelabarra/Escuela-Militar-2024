@@ -7,7 +7,7 @@ publico
 Hola mundo,2,8,
 %CODE
 %OUTPUT
-la mund
+la mund\n
 
 %NAME
 Case 2
@@ -18,7 +18,7 @@ publico
 Python es divertido,7,15,
 %CODE
 %OUTPUT
-es divert
+es divert,
 
 %NAME
 Case 3
@@ -29,7 +29,7 @@ publico
 Programar,4,7,
 %CODE
 %OUTPUT
-rama
+rama\n
 
 %NAME
 Case 4
@@ -40,7 +40,7 @@ publico
 Secreto,1,3,
 %CODE
 %OUTPUT
-ecr
+ecr,
 
 %NAME
 Case 5
@@ -51,7 +51,7 @@ publico
 Completo,4,10,
 %CODE
 %OUTPUT
-leto
+leto\n
 
 %NAME
 Case 1
