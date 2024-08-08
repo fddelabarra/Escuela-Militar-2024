@@ -7,7 +7,7 @@ publico
 Hola mundo,2,8,
 %CODE
 %OUTPUT
-la mun
+la mund
 
 %NAME
 Case 2
@@ -18,7 +18,7 @@ publico
 Python es divertido,7,15,
 %CODE
 %OUTPUT
-es diver
+es divert
 
 %NAME
 Case 3
@@ -26,10 +26,10 @@ Case 3
 publico
 %PRECODE
 %INPUT
-Abracadabra,3,7,
+Programar,4,7,
 %CODE
 %OUTPUT
-acada
+rama
 
 %NAME
 Case 4
@@ -37,10 +37,10 @@ Case 4
 publico
 %PRECODE
 %INPUT
-Esto es un secreto,5,10,
+Secreto,1,3,
 %CODE
 %OUTPUT
-es un
+ecr
 
 %NAME
 Case 5
@@ -48,10 +48,10 @@ Case 5
 publico
 %PRECODE
 %INPUT
-Nunca pares de aprender,0,5,
+Completo,4,10,
 %CODE
 %OUTPUT
-Nunca
+leto
 
 %NAME
 Case 1
