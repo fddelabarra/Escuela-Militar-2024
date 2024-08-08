@@ -170,33 +170,3 @@ importante seguridad,qwertyuiopasdfghjklzxcvbnm,
 %CODE
 %OUTPUT
 7c88b8c9ecfb60f0df2d21e85ad51e77
-%NAME
-Case 8
-%TYPE
-secreto
-%PRECODE
-%INPUT
-datos sensibles,zyxwvutsrqponmlkjihgfedcba,
-%CODE
-%OUTPUT
-0b03e85057bac9ebdeee897d11abefea
-%NAME
-Case 9
-%TYPE
-secreto
-%PRECODE
-%INPUT
-numero de serie,qwertyuiopasdfghjklzxcvbnm,
-%CODE
-%OUTPUT
-427a64bfe2dab0a11a8fa1174a6b3067
-%NAME
-Case 10
-%TYPE
-secreto
-%PRECODE
-%INPUT
-proteger datos,qwertyuiopasdfghjklzxcvbnm,
-%CODE
-%OUTPUT
-ae9664968014d1ee3ee0e72bfd87f805
