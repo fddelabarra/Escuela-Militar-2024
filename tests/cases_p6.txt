@@ -29,7 +29,7 @@ publico
 abracadabra abracadabra,abra,cadabra,
 %CODE
 %OUTPUT
-cadabracadabra cadabracadabra
+cadabracadcadabra cadabracadcadabra
 %NAME
 Case 4
 %TYPE
@@ -49,7 +49,7 @@ publico
 Me encanta el helado,el,la,
 %CODE
 %OUTPUT
-Me encanta la helado
+Me encanta la hlaado
 %NAME
 Case 1
 %TYPE
