@@ -1,3 +1,5 @@
+%PREG
+Pregunta 6
 %NAME
 Case 1
 %TYPE
