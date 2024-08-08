@@ -6,96 +6,197 @@ Case 1
 publico
 %PRECODE
 %INPUT
-
+paralelepipedo,
 %CODE
 %OUTPUT
-
+49
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+CaSA NUevA,
 %CODE
 %OUTPUT
-
+26
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+abracadabra,
 %CODE
 %OUTPUT
-
+25
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+HELLOworld,
 %CODE
 %OUTPUT
-
+11
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+guitarra,
 %CODE
 %OUTPUT
-
+14
+%NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+%INPUT
+SuPERcalifragilisticoespialidoso,
+%CODE
+%OUTPUT
+252
+%NAME
+Case 7
+%TYPE
+publico
+%PRECODE
+%INPUT
+marAvilloso,
+%CODE
+%OUTPUT
+27
+%NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+%INPUT
+INFORMATICA,
+%CODE
+%OUTPUT
+27
+%NAME
+Case 9
+%TYPE
+publico
+%PRECODE
+%INPUT
+EducAcION,
+%CODE
+%OUTPUT
+19
+%NAME
+Case 10
+%TYPE
+publico
+%PRECODE
+%INPUT
+aEiOu,
+%CODE
+%OUTPUT
+10
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+PlAtAnO,
 %CODE
 %OUTPUT
-
+2737b49252e2a4c0fe4c342e92b13285
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+Universidad,
 %CODE
 %OUTPUT
-
+2fc57d6f63a9ee7e2f21a26fa522e3b6
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+pROGRAmAcION,
 %CODE
 %OUTPUT
-
+4fbafd6948b6529caa2b78e476359875
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+algoritmo,
 %CODE
 %OUTPUT
-
+5b6b41ed9b343fed9cd05a66d36650f0
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+Desarrollo,
 %CODE
 %OUTPUT
+3bb50ff8eeb7ad116724b56a820139fa
+%NAME
+Case 6
+%TYPE
+secreto
+%PRECODE
+%INPUT
+ORQUESTA,
+%CODE
+%OUTPUT
+367764329430db34be92fd14a7a770ee
+%NAME
+Case 7
+%TYPE
+secreto
+%PRECODE
+%INPUT
+PROCESADOR,
+%CODE
+%OUTPUT
+dbbf8220893d497d403bb9cdf49db7a4
+%NAME
+Case 8
+%TYPE
+secreto
+%PRECODE
+%INPUT
+EsCrItUrA,
+%CODE
+%OUTPUT
+cf4278314ef8e4b996e1b798d8eb92cf
+%NAME
+Case 9
+%TYPE
+secreto
+%PRECODE
+%INPUT
+ElEctRoDomestico,
+%CODE
+%OUTPUT
+2d999528ef1dd9ae433698abf3fe7f43
+%NAME
+Case 10
+%TYPE
+secreto
+%PRECODE
+%INPUT
+Interesante,
+%CODE
+%OUTPUT
+2a52a5e65fc3c43f409550dfad1f904f
