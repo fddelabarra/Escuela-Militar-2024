@@ -21,7 +21,7 @@ h3ll0w0rld,
 %CODE
 %OUTPUT
 300
-hllwrld
+hllwrldd
 %NAME
 Case 3
 %TYPE
