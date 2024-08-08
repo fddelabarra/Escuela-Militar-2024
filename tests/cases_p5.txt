@@ -8,7 +8,6 @@ Hola mundo,2,8,
 %CODE
 %OUTPUT
 la mund\n
-
 %NAME
 Case 2
 %TYPE
@@ -19,7 +18,6 @@ Python es divertido,7,15,
 %CODE
 %OUTPUT
 es divert,
-
 %NAME
 Case 3
 %TYPE
@@ -30,7 +28,6 @@ Programar,4,7,
 %CODE
 %OUTPUT
 rama\n
-
 %NAME
 Case 4
 %TYPE
@@ -41,7 +38,6 @@ Secreto,1,3,
 %CODE
 %OUTPUT
 ecr,
-
 %NAME
 Case 5
 %TYPE
@@ -52,7 +48,6 @@ Completo,4,10,
 %CODE
 %OUTPUT
 leta\n
-
 %NAME
 Case 1
 %TYPE
@@ -63,7 +58,6 @@ Un perro feliz,3,8,
 %CODE
 %OUTPUT
 482608e4786a250ea3e0f4bd497ce9b5
-
 %NAME
 Case 2
 %TYPE
@@ -74,7 +68,6 @@ Los gatos son curiosos,5,14,
 %CODE
 %OUTPUT
 47ba2c3730646f52d529b861079f0723
-
 %NAME
 Case 3
 %TYPE
@@ -85,7 +78,6 @@ Las estrellas brillan,4,10,
 %CODE
 %OUTPUT
 317cd37e22f53aec5a74b77bd40accd0
-
 %NAME
 Case 4
 %TYPE
@@ -96,7 +88,6 @@ El sol sale cada dia,0,12,
 %CODE
 %OUTPUT
 c8f1ae0acd0e004d6ba4683597ec939f
-
 %NAME
 Case 5
 %TYPE
