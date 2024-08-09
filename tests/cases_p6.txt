@@ -1,23 +1,25 @@
+%PREG
+Pregunta 6
 %NAME
 Case 1
 %TYPE
 publico
 %PRECODE
 %INPUT
-Hola hola mundo hola,hola,hi,
+hola hola mundo hola,hola,hi,
 %CODE
 %OUTPUT
-Hola hi mundo hi
+hola hola mundo hola
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-Python es genial Python,Python,Java,
+python es genial python,python,java,
 %CODE
 %OUTPUT
-Java es genial Java
+java es genial java
 %NAME
 Case 3
 %TYPE
@@ -44,60 +46,60 @@ Case 5
 publico
 %PRECODE
 %INPUT
-Me encanta el helado,el,la,
+me encanta el helado,el,la,
 %CODE
 %OUTPUT
-Me encanta la hlaado
+me encanta la hlaado
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-El gato y el perro,el,un,
+el gato y el perro,el,un,
 %CODE
 %OUTPUT
-El gato y el perro
+un gato y un perro
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-Casa grande casa pequeña,casa,hogar,
+casa grande casa pequeña,casa,hogar,
 %CODE
 %OUTPUT
-Casa grande casa pequeña
+hogar grande hogar pequeña
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-Café con leche,con,y,
+cafe con leche,con,y,
 %CODE
 %OUTPUT
-Café con leche
+cafe con leche
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-Un mar azul,mar,océano,
+un mar azul,mar,oceano,
 %CODE
 %OUTPUT
-Un mar azul
+un mar azul
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-Nube blanca nube negra,nube,tormenta,
+nube blanca nube negra,nube,tormenta,
 %CODE
 %OUTPUT
-Nube blanca nube negra
+tormenta blanca tormenta negra
 %NAME
 Case 1
 %TYPE
@@ -124,10 +126,10 @@ Case 3
 secreto
 %PRECODE
 %INPUT
-montaña montaña montaña,montaña,colina,
+montana montana montana,montana,colina,
 %CODE
 %OUTPUT
-1fca3edca9babe53ad472d04c94dc82e
+f0855766c395fd02366c9dbeca462bf2
 %NAME
 Case 4
 %TYPE
@@ -164,10 +166,10 @@ Case 7
 secreto
 %PRECODE
 %INPUT
-noche noche día,noche,madrugada,
+noche noche dia,noche,madrugada,
 %CODE
 %OUTPUT
-5a0acd4a22a54406364e30f0e623888c
+66517ee26b15ae6c69816210d35164d8
 %NAME
 Case 8
 %TYPE
