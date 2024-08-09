@@ -21,7 +21,7 @@ h3ll0w0rld,
 %CODE
 %OUTPUT
 300
-hllwrldd
+hllwrld
 %NAME
 Case 3
 %TYPE
@@ -55,6 +55,61 @@ publico
 %OUTPUT
 0000
 abc
+%NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+%INPUT
+letrasysolo4d1g1tos,
+%CODE
+%OUTPUT
+411
+letrasysolodgtos
+%NAME
+Case 7
+%TYPE
+publico
+%PRECODE
+%INPUT
+abcdef,
+%CODE
+%OUTPUT
+
+abcdef
+%NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+%INPUT
+123456,
+%CODE
+%OUTPUT
+123456
+
+%NAME
+Case 9
+%TYPE
+publico
+%PRECODE
+%INPUT
+no123digits,
+%CODE
+%OUTPUT
+123
+nodigits
+%NAME
+Case 10
+%TYPE
+publico
+%PRECODE
+%INPUT
+987zyx654wvu,
+%CODE
+%OUTPUT
+987654
+zyxwvu
 %NAME
 Case 1
 %TYPE
@@ -105,3 +160,53 @@ f3l1c1d4d y 4l3gr14,
 %CODE
 %OUTPUT
 3ec32446f9097eccff97ae0a2975881e
+%NAME
+Case 6
+%TYPE
+secreto
+%PRECODE
+%INPUT
+solo letras,
+%CODE
+%OUTPUT
+7a3191bbc10c44ba4e8c6be16d94b09a
+%NAME
+Case 7
+%TYPE
+secreto
+%PRECODE
+%INPUT
+1234567890,
+%CODE
+%OUTPUT
+69d04dbd25756d032139f746b193d6ff
+%NAME
+Case 8
+%TYPE
+secreto
+%PRECODE
+%INPUT
+a1b1c1d1e1f1g1,
+%CODE
+%OUTPUT
+7243492848d28492f99ba755e96eb390
+%NAME
+Case 9
+%TYPE
+secreto
+%PRECODE
+%INPUT
+1a2b3c4d5e,
+%CODE
+%OUTPUT
+9a27e38bd85c614767e4a6e62b1313c0
+%NAME
+Case 10
+%TYPE
+secreto
+%PRECODE
+%INPUT
+000abc111xyz,
+%CODE
+%OUTPUT
+cd981f07c573a757db77ccceaccdddfe
