@@ -6,197 +6,196 @@ Case 1
 publico
 %PRECODE
 %INPUT
-hola hola mundo hola,hola,hi,
+
 %CODE
 %OUTPUT
-hola hola mundo hola
+
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-python es genial python,python,java,
+
 %CODE
 %OUTPUT
-java es genial java
+
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-abracadabra abracadabra,abra,cadabra,
+
 %CODE
 %OUTPUT
-cadabracadcadabra cadabracadcadabra
+
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-uno dos tres uno dos tres,uno,uno,
+
 %CODE
 %OUTPUT
-uno dos tres uno dos tres
+
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-me encanta el helado,el,la,
+
 %CODE
 %OUTPUT
-me encanta la hlaado
+
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-el gato y el perro,el,un,
+
 %CODE
 %OUTPUT
-un gato y un perro
+
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-casa grande casa pequeña,casa,hogar,
+
 %CODE
 %OUTPUT
-hogar grande hogar pequeña
+
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-cafe con leche,con,y,
+
 %CODE
 %OUTPUT
-cafe con leche
+
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-un mar azul,mar,oceano,
+
 %CODE
 %OUTPUT
-un mar azul
+
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-nube blanca nube negra,nube,tormenta,
+
 %CODE
 %OUTPUT
-tormenta blanca tormenta negra
+
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-gato gato perro gato,gato,felino,
+
 %CODE
 %OUTPUT
-1a2aebf180584b166d28aec3c19d30b8
+
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-casa casa casa,casa,hogar,
+
 %CODE
 %OUTPUT
-4a59f19c890565fe49b8c7ccb1e10448
+
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-montana montana montana,montana,colina,
+
 %CODE
 %OUTPUT
-f0855766c395fd02366c9dbeca462bf2
+
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-sombrero sombrero sombrero sombrero,sombrero,gorra,
+
 %CODE
 %OUTPUT
-4092aa6db74eac84ea161872ad062549
+
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-libro libro libro libro libro,libro,cuaderno,
+
 %CODE
 %OUTPUT
-ce41d81a20612f034e6845e24d5108ce
+
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-sol sol luna,sol,estrella,
+
 %CODE
 %OUTPUT
-e3c8a01f3b7195cc10090459b3f150d2
+
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-noche noche dia,noche,madrugada,
+
 %CODE
 %OUTPUT
-66517ee26b15ae6c69816210d35164d8
+
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-rojo rojo verde rojo,rojo,azul,
+
 %CODE
 %OUTPUT
-3d7c7c4743c48565263ba99056db6c49
+
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-estrella estrella estrella estrella,estrella,cometa,
+
 %CODE
 %OUTPUT
-936342b966229efbe635d7c2c666252e
+
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-luz luz sombra,luz,oscuridad,
+
 %CODE
 %OUTPUT
-42e54e5e5683dfcc2ff4abe205b174e2

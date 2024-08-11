@@ -6,167 +6,196 @@ Case 1
 publico
 %PRECODE
 %INPUT
-hola mundo,zyxwvutsrqponmlkjihgfedcba,
+
 %CODE
 %OUTPUT
-sloz nfmwl
+
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-hay 3 enemigos al frente,qwertyuiopasdfghjklzxcvbnm,
+
 %CODE
 %OUTPUT
-iqn 3 tftdougl qs yktfzt
+
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-mensaje secreto,zyxwvutsrqponmlkjihgfedcba,
+
 %CODE
 %OUTPUT
-nvmhzqv hvxivgl
+
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-cifrado por sustitucion,qwertyuiopasdfghjklzxcvbn,
+
 %CODE
 %OUTPUT
-eoykqrg hgk lxlzozxeogf
+
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-amigo invisible,zyxwvutsrqponmlkjihgfedcba,
+
 %CODE
 %OUTPUT
-znrtl rmerhryov
+
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-esto es una prueba,qwertyuiopasdfghjklzxcvbnm,
+
 %CODE
 %OUTPUT
-tlzg tl xfq hkxtwq
+
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-no se puede descifrar,qwertyuiopasdfghjklzxcvbnm,
+
 %CODE
 %OUTPUT
-fg lt hxtrt rtleoykqk
+
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-proteger informacion,zyxwvutsrqponmlkjihgfedcba,
+
 %CODE
 %OUTPUT
-kilgvtvi rmulinzxrlm
+
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-la clave es segura,qwertyuiopasdfghjklzxcvbnm,
+
 %CODE
 %OUTPUT
-sq esqct tl ltuxkq
+
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-mensaje confidencial,zyxwvutsrqponmlkjihgfedcba,
+
 %CODE
 %OUTPUT
-nvmhzqv xlmurwvmxrzo
+
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-hola como estas,qwertyuiopasdfghjklzxcvbnm,
+
 %CODE
 %OUTPUT
-8e00133f280b430962eb197115bcecbb
+
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-encriptar mensajes,zyxwvutsrqponmlkjihgfedcba,
+
 %CODE
 %OUTPUT
-8d78475abc206a22db6b0da7f27accfc
+
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-clave segura,qwertyuiopasdfghjklzxcvbnm,
+
 %CODE
 %OUTPUT
-add9023f0ea5576ebeb153b7179e12c4
+
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-cifrado de sustitucion,zyxwvutsrqponmlkjihgfedcba,
+
 %CODE
 %OUTPUT
-6d08eecdb0e2eab9ad87e0bb10a9346c
+
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-mantener confidencialidad,qwertyuiopasdfghjklzxcvbnm,
+
 %CODE
 %OUTPUT
-f070cd5cb9766d515ba29921b711477f
+
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-cifrar mensaje,zyxwvutsrqponmlkjihgfedcba,
+
 %CODE
 %OUTPUT
-1eb51907c014f220da6c3832959e3ffa
+
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-importante seguridad,qwertyuiopasdfghjklzxcvbnm,
+
 %CODE
 %OUTPUT
-7c88b8c9ecfb60f0df2d21e85ad51e77
+
+%NAME
+Case 8
+%TYPE
+secreto
+%PRECODE
+%INPUT
+
+%CODE
+%OUTPUT
+
+%NAME
+Case 9
+%TYPE
+secreto
+%PRECODE
+%INPUT
+
+%CODE
+%OUTPUT
+
+%NAME
+Case 10
+%TYPE
+secreto
+%PRECODE
+%INPUT
+
+%CODE
+%OUTPUT

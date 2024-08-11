@@ -6,197 +6,196 @@ Case 1
 publico
 %PRECODE
 %INPUT
-paralelepipedo,
+
 %CODE
 %OUTPUT
-prllppd
+
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-hola mundo,
+
 %CODE
 %OUTPUT
-hl mnd
+
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-ingenieria,
+
 %CODE
 %OUTPUT
-ngnr
+
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-computadora,
+
 %CODE
 %OUTPUT
-cmptdr
+
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-programacion,
+
 %CODE
 %OUTPUT
-prgrmcn
+
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-aprendizaje,
+
 %CODE
 %OUTPUT
-prndzj
+
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-inteligencia,
+
 %CODE
 %OUTPUT
-ntlgnc
+
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-artificial,
+
 %CODE
 %OUTPUT
-rtfcl
+
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-analisis,
+
 %CODE
 %OUTPUT
-nlss
+
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-matematica,
+
 %CODE
 %OUTPUT
-mtmtc
+
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-estadistica,
+
 %CODE
 %OUTPUT
-b9f182894b6a796a8358a502223a0e04
+
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-lenguaje,
+
 %CODE
 %OUTPUT
-5e5a15c32a14662088afdc27d3022a4d
+
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-estructuras,
+
 %CODE
 %OUTPUT
-b5b48d273aa90bc50b2dac2b2f28d96b
+
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-variables,
+
 %CODE
 %OUTPUT
-8ec3d753f1b0ff8ff60d35e9488522cd
+
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-funciones,
+
 %CODE
 %OUTPUT
-74fa89974bd3d49c0cad59d822eaa75b
+
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-clases,
+
 %CODE
 %OUTPUT
-7f3c703efe846d886b4f786143ea7a7a
+
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-objetos,
+
 %CODE
 %OUTPUT
-189ed87b309a442e30611629accd3235
+
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-esto es polimorfismo,
+
 %CODE
 %OUTPUT
-dbf5c2c2649f83cbccc2d8f423df75d1
+
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-probando tests,
+
 %CODE
 %OUTPUT
-c86273e892bbe124fba0e858998fdb60
+
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-probando largo de una oracion en este codigo,
+
 %CODE
 %OUTPUT
-ffddc1aac59c798d5ad0c91d9ad08d32
