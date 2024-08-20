@@ -8,6 +8,7 @@ publico
 from random import seed
 seed(101)
 %INPUT
+hola mundo
 %CODE
 %OUTPUT
 Mensaje Cifrado: krod pxqgr
@@ -20,6 +21,7 @@ publico
 from random import seed
 seed(202)
 %INPUT
+mensaje de prueba
 %CODE
 %OUTPUT
 Mensaje Cifrado: ogpuclg fg rtwgdc
@@ -32,6 +34,7 @@ publico
 from random import seed
 seed(303)
 %INPUT
+zorro rapido
 %CODE
 %OUTPUT
 Mensaje Cifrado: apssp sbqjep
@@ -44,6 +47,7 @@ publico
 from random import seed
 seed(404)
 %INPUT
+gato perezoso
 %CODE
 %OUTPUT
 Mensaje Cifrado: hbup qfsfaptp
@@ -56,6 +60,7 @@ publico
 from random import seed
 seed(505)
 %INPUT
+cifrado y descifrado
 %CODE
 %OUTPUT
 Mensaje Cifrado: djgsbep z eftdjgsbep
@@ -68,6 +73,7 @@ publico
 from random import seed
 seed(606)
 %INPUT
+prueba con espacios
 %CODE
 %OUTPUT
 Mensaje Cifrado: suxhed frq hvsdflrv
@@ -80,6 +86,7 @@ publico
 from random import seed
 seed(707)
 %INPUT
+casos de prueba
 %CODE
 %OUTPUT
 Mensaje Cifrado: dbtpt ef qsvfcb
@@ -92,6 +99,7 @@ publico
 from random import seed
 seed(808)
 %INPUT
+alfabeto completo
 %CODE
 %OUTPUT
 Mensaje Cifrado: cnhcdgvq eqorngvq
@@ -104,6 +112,7 @@ publico
 from random import seed
 seed(909)
 %INPUT
+test aleatorio
 %CODE
 %OUTPUT
 Mensaje Cifrado: uftu bmfbupsjp
@@ -116,6 +125,7 @@ publico
 from random import seed
 seed(1001)
 %INPUT
+cifrado seguro
 %CODE
 %OUTPUT
 Mensaje Cifrado: djgsbep tfhvsp
@@ -128,6 +138,7 @@ secreto
 from random import seed
 seed(1102)
 %INPUT
+mensaje secreto
 %CODE
 %OUTPUT
 6cb063d7ad3bfaa1f648b3cc09fa6cee
@@ -139,6 +150,7 @@ secreto
 from random import seed
 seed(1203)
 %INPUT
+prueba oculta
 %CODE
 %OUTPUT
 45566708331fb569ad366961da4383ff
@@ -150,6 +162,7 @@ secreto
 from random import seed
 seed(1304)
 %INPUT
+contenido cifrado
 %CODE
 %OUTPUT
 56da35b6fa9aa4afbdf81c427a9a9c44
@@ -161,6 +174,7 @@ secreto
 from random import seed
 seed(1405)
 %INPUT
+descifra esto
 %CODE
 %OUTPUT
 88e06156b63097b3ac9289295f2e8079
@@ -172,6 +186,7 @@ secreto
 from random import seed
 seed(1506)
 %INPUT
+vuelve a leer
 %CODE
 %OUTPUT
 3baa27e712359d2bc5be633cc7bac13d
@@ -183,6 +198,7 @@ secreto
 from random import seed
 seed(1607)
 %INPUT
+mantener seguro
 %CODE
 %OUTPUT
 e58f518a8da8f923a0e34599afbfb0f9
@@ -194,6 +210,7 @@ secreto
 from random import seed
 seed(1708)
 %INPUT
+alfabeto simple
 %CODE
 %OUTPUT
 fb16da992b2f685a42666aac21498363
@@ -205,6 +222,7 @@ secreto
 from random import seed
 seed(1809)
 %INPUT
+codificacion
 %CODE
 %OUTPUT
 bb7043bb0ca578ab26e45d7359a8abbf
@@ -216,6 +234,7 @@ secreto
 from random import seed
 seed(1900)
 %INPUT
+encuentra la pista
 %CODE
 %OUTPUT
 796b43f05dccf1ff1743c382f2e07b76
@@ -227,6 +246,7 @@ secreto
 from random import seed
 seed(2001)
 %INPUT
+rompiendo el cifrado
 %CODE
 %OUTPUT
 9f1c205083a881ae707f404c737af1b3
