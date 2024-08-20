@@ -5,19 +5,21 @@ Case 1
 %TYPE
 publico
 %PRECODE
+from random import seed
+seed(101)
 %INPUT
-hola mundo
 %CODE
 %OUTPUT
-Mensaje Cifrado: ipmb nvoep
+Mensaje Cifrado: krod pxqgr
 Mensaje Descifrado: hola mundo
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
+from random import seed
+seed(202)
 %INPUT
-mensaje de prueba
 %CODE
 %OUTPUT
 Mensaje Cifrado: ogpuclg fg rtwgdc
@@ -27,30 +29,33 @@ Case 3
 %TYPE
 publico
 %PRECODE
+from random import seed
+seed(303)
 %INPUT
-zorro rapido
 %CODE
 %OUTPUT
-Mensaje Cifrado: cruur udslgr
+Mensaje Cifrado: apssp sbqjep
 Mensaje Descifrado: zorro rapido
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
+from random import seed
+seed(404)
 %INPUT
-gato perezoso
 %CODE
 %OUTPUT
-Mensaje Cifrado: jdwr shuhcrvr
+Mensaje Cifrado: hbup qfsfaptp
 Mensaje Descifrado: gato perezoso
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
+from random import seed
+seed(505)
 %INPUT
-cifrado y descifrado
 %CODE
 %OUTPUT
 Mensaje Cifrado: djgsbep z eftdjgsbep
@@ -60,73 +65,80 @@ Case 6
 %TYPE
 publico
 %PRECODE
+from random import seed
+seed(606)
 %INPUT
-prueba con espacios
 %CODE
 %OUTPUT
-Mensaje Cifrado: rtwgdc eqp gurcekqu
+Mensaje Cifrado: suxhed frq hvsdflrv
 Mensaje Descifrado: prueba con espacios
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
+from random import seed
+seed(707)
 %INPUT
-casos de prueba
 %CODE
 %OUTPUT
-Mensaje Cifrado: fdvrv gh suxhed
+Mensaje Cifrado: dbtpt ef qsvfcb
 Mensaje Descifrado: casos de prueba
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
+from random import seed
+seed(808)
 %INPUT
-alfabeto completo
 %CODE
 %OUTPUT
-Mensaje Cifrado: bmgbcfup dpnqmfup
+Mensaje Cifrado: cnhcdgvq eqorngvq
 Mensaje Descifrado: alfabeto completo
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
+from random import seed
+seed(909)
 %INPUT
-test aleatorio
 %CODE
 %OUTPUT
-Mensaje Cifrado: vguv cngcvqtkq
+Mensaje Cifrado: uftu bmfbupsjp
 Mensaje Descifrado: test aleatorio
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
+from random import seed
+seed(1001)
 %INPUT
-cifrado seguro
 %CODE
 %OUTPUT
-Mensaje Cifrado: fliudgr vhjxur
+Mensaje Cifrado: djgsbep tfhvsp
 Mensaje Descifrado: cifrado seguro
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
+from random import seed
+seed(1102)
 %INPUT
-mensaje secreto
 %CODE
 %OUTPUT
-6a9665ebdfa0ebe7a6473c3abd8bc56e
+6cb063d7ad3bfaa1f648b3cc09fa6cee
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
+from random import seed
+seed(1203)
 %INPUT
-prueba oculta
 %CODE
 %OUTPUT
 45566708331fb569ad366961da4383ff
@@ -135,18 +147,20 @@ Case 3
 %TYPE
 secreto
 %PRECODE
+from random import seed
+seed(1304)
 %INPUT
-contenido cifrado
 %CODE
 %OUTPUT
-17bf6b106a6c432873b5c20b0adda53a
+56da35b6fa9aa4afbdf81c427a9a9c44
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
+from random import seed
+seed(1405)
 %INPUT
-descifra esto
 %CODE
 %OUTPUT
 88e06156b63097b3ac9289295f2e8079
@@ -155,18 +169,20 @@ Case 5
 %TYPE
 secreto
 %PRECODE
+from random import seed
+seed(1506)
 %INPUT
-vuelve a leer
 %CODE
 %OUTPUT
-7486c68c2cf1574d93f64da9f45ea873
+3baa27e712359d2bc5be633cc7bac13d
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
+from random import seed
+seed(1607)
 %INPUT
-mantener seguro
 %CODE
 %OUTPUT
 e58f518a8da8f923a0e34599afbfb0f9
@@ -175,8 +191,9 @@ Case 7
 %TYPE
 secreto
 %PRECODE
+from random import seed
+seed(1708)
 %INPUT
-alfabeto simple
 %CODE
 %OUTPUT
 fb16da992b2f685a42666aac21498363
@@ -185,18 +202,20 @@ Case 8
 %TYPE
 secreto
 %PRECODE
+from random import seed
+seed(1809)
 %INPUT
-codificacion
 %CODE
 %OUTPUT
-cbb91581c08209b218e315ec5c36001a
+bb7043bb0ca578ab26e45d7359a8abbf
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
+from random import seed
+seed(1900)
 %INPUT
-encuentra la pista
 %CODE
 %OUTPUT
 796b43f05dccf1ff1743c382f2e07b76
@@ -205,8 +224,9 @@ Case 10
 %TYPE
 secreto
 %PRECODE
+from random import seed
+seed(2001)
 %INPUT
-rompiendo el cifrado
 %CODE
 %OUTPUT
-68babb6973d22e3318bbbcd2f2f2208b
+9f1c205083a881ae707f404c737af1b3
