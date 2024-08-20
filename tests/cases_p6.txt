@@ -8,39 +8,39 @@ publico
 from random import seed
 seed(101)
 %INPUT
-30,100,
+35,110,
 %CODE
 %OUTPUT
 Turno 1:
-    Poder del jugador: 44
-    Poder del enemigo: 94
+    Poder del jugador: 49
+    Poder del enemigo: 104
 Turno 2:
-    Poder del jugador: 57
-    Poder del enemigo: 87
+    Poder del jugador: 62
+    Poder del enemigo: 97
 Turno 3:
-    Poder del jugador: 69
-    Poder del enemigo: 82
+    Poder del jugador: 74
+    Poder del enemigo: 92
 Turno 4:
-    Poder del jugador: 84
-    Poder del enemigo: 73
+    Poder del jugador: 89
+    Poder del enemigo: 83
 Turno 5:
-    Poder del jugador: 92
-    Poder del enemigo: 64
+    Poder del jugador: 97
+    Poder del enemigo: 74
 Turno 6:
-    Poder del jugador: 100
-    Poder del enemigo: 57
+    Poder del jugador: 105
+    Poder del enemigo: 67
 Turno 7:
-    Poder del jugador: 112
-    Poder del enemigo: 47
+    Poder del jugador: 117
+    Poder del enemigo: 57
 Turno 8:
-    Poder del jugador: 120
-    Poder del enemigo: 40
+    Poder del jugador: 125
+    Poder del enemigo: 50
 Turno 9:
-    Poder del jugador: 132
-    Poder del enemigo: 35
+    Poder del jugador: 137
+    Poder del enemigo: 45
 Turno 10:
-    Poder del jugador: 141
-    Poder del enemigo: 29
+    Poder del jugador: 146
+    Poder del enemigo: 39
 Resultado final: Perdiste
 %NAME
 Case 2
@@ -50,39 +50,39 @@ publico
 from random import seed
 seed(202)
 %INPUT
-50,150,
+40,120,
 %CODE
 %OUTPUT
 Turno 1:
-    Poder del jugador: 61
-    Poder del enemigo: 140
-Turno 2:
-    Poder del jugador: 73
-    Poder del enemigo: 132
-Turno 3:
-    Poder del jugador: 81
-    Poder del enemigo: 126
-Turno 4:
-    Poder del jugador: 96
-    Poder del enemigo: 118
-Turno 5:
-    Poder del jugador: 101
+    Poder del jugador: 51
     Poder del enemigo: 110
-Turno 6:
-    Poder del jugador: 113
+Turno 2:
+    Poder del jugador: 63
     Poder del enemigo: 102
+Turno 3:
+    Poder del jugador: 71
+    Poder del enemigo: 96
+Turno 4:
+    Poder del jugador: 86
+    Poder del enemigo: 88
+Turno 5:
+    Poder del jugador: 91
+    Poder del enemigo: 80
+Turno 6:
+    Poder del jugador: 103
+    Poder del enemigo: 72
 Turno 7:
-    Poder del jugador: 118
-    Poder del enemigo: 93
+    Poder del jugador: 108
+    Poder del enemigo: 63
 Turno 8:
-    Poder del jugador: 128
-    Poder del enemigo: 87
+    Poder del jugador: 118
+    Poder del enemigo: 57
 Turno 9:
-    Poder del jugador: 136
-    Poder del enemigo: 79
+    Poder del jugador: 126
+    Poder del enemigo: 49
 Turno 10:
-    Poder del jugador: 151
-    Poder del enemigo: 70
+    Poder del jugador: 141
+    Poder del enemigo: 40
 Resultado final: Perdiste
 %NAME
 Case 3
@@ -92,39 +92,39 @@ publico
 from random import seed
 seed(303)
 %INPUT
-40,80,
+45,130,
 %CODE
 %OUTPUT
 Turno 1:
-    Poder del jugador: 45
-    Poder del enemigo: 74
+    Poder del jugador: 50
+    Poder del enemigo: 124
 Turno 2:
-    Poder del jugador: 53
-    Poder del enemigo: 69
+    Poder del jugador: 58
+    Poder del enemigo: 119
 Turno 3:
-    Poder del jugador: 67
-    Poder del enemigo: 60
+    Poder del jugador: 72
+    Poder del enemigo: 110
 Turno 4:
-    Poder del jugador: 76
-    Poder del enemigo: 51
+    Poder del jugador: 81
+    Poder del enemigo: 101
 Turno 5:
-    Poder del jugador: 89
-    Poder del enemigo: 43
+    Poder del jugador: 94
+    Poder del enemigo: 93
 Turno 6:
-    Poder del jugador: 96
-    Poder del enemigo: 35
+    Poder del jugador: 101
+    Poder del enemigo: 85
 Turno 7:
-    Poder del jugador: 108
-    Poder del enemigo: 26
+    Poder del jugador: 113
+    Poder del enemigo: 76
 Turno 8:
-    Poder del jugador: 114
-    Poder del enemigo: 19
+    Poder del jugador: 119
+    Poder del enemigo: 69
 Turno 9:
-    Poder del jugador: 127
-    Poder del enemigo: 10
+    Poder del jugador: 132
+    Poder del enemigo: 60
 Turno 10:
-    Poder del jugador: 142
-    Poder del enemigo: 5
+    Poder del jugador: 147
+    Poder del enemigo: 55
 Resultado final: Perdiste
 %NAME
 Case 4
@@ -134,39 +134,39 @@ publico
 from random import seed
 seed(404)
 %INPUT
-25,120,
+50,140,
 %CODE
 %OUTPUT
 Turno 1:
-    Poder del jugador: 31
-    Poder del enemigo: 112
-Turno 2:
-    Poder del jugador: 36
-    Poder del enemigo: 103
-Turno 3:
-    Poder del jugador: 42
-    Poder del enemigo: 93
-Turno 4:
     Poder del jugador: 56
-    Poder del enemigo: 88
+    Poder del enemigo: 132
+Turno 2:
+    Poder del jugador: 61
+    Poder del enemigo: 123
+Turno 3:
+    Poder del jugador: 67
+    Poder del enemigo: 113
+Turno 4:
+    Poder del jugador: 81
+    Poder del enemigo: 108
 Turno 5:
-    Poder del jugador: 66
-    Poder del enemigo: 82
+    Poder del jugador: 91
+    Poder del enemigo: 102
 Turno 6:
-    Poder del jugador: 77
-    Poder del enemigo: 77
+    Poder del jugador: 102
+    Poder del enemigo: 97
 Turno 7:
-    Poder del jugador: 82
-    Poder del enemigo: 67
+    Poder del jugador: 107
+    Poder del enemigo: 87
 Turno 8:
-    Poder del jugador: 97
-    Poder del enemigo: 59
+    Poder del jugador: 122
+    Poder del enemigo: 79
 Turno 9:
-    Poder del jugador: 103
-    Poder del enemigo: 50
+    Poder del jugador: 128
+    Poder del enemigo: 70
 Turno 10:
-    Poder del jugador: 108
-    Poder del enemigo: 44
+    Poder del jugador: 133
+    Poder del enemigo: 64
 Resultado final: Perdiste
 %NAME
 Case 5
@@ -176,39 +176,39 @@ publico
 from random import seed
 seed(505)
 %INPUT
-35,90,
+55,150,
 %CODE
 %OUTPUT
 Turno 1:
-    Poder del jugador: 42
-    Poder del enemigo: 83
+    Poder del jugador: 62
+    Poder del enemigo: 143
 Turno 2:
-    Poder del jugador: 51
-    Poder del enemigo: 76
+    Poder del jugador: 71
+    Poder del enemigo: 136
 Turno 3:
-    Poder del jugador: 61
-    Poder del enemigo: 66
+    Poder del jugador: 81
+    Poder del enemigo: 126
 Turno 4:
-    Poder del jugador: 73
-    Poder del enemigo: 59
+    Poder del jugador: 93
+    Poder del enemigo: 119
 Turno 5:
-    Poder del jugador: 86
-    Poder del enemigo: 50
-Turno 6:
-    Poder del jugador: 101
-    Poder del enemigo: 43
-Turno 7:
     Poder del jugador: 106
-    Poder del enemigo: 35
+    Poder del enemigo: 110
+Turno 6:
+    Poder del jugador: 121
+    Poder del enemigo: 103
+Turno 7:
+    Poder del jugador: 126
+    Poder del enemigo: 95
 Turno 8:
-    Poder del jugador: 120
-    Poder del enemigo: 27
+    Poder del jugador: 140
+    Poder del enemigo: 87
 Turno 9:
-    Poder del jugador: 134
-    Poder del enemigo: 18
+    Poder del jugador: 154
+    Poder del enemigo: 78
 Turno 10:
-    Poder del jugador: 149
-    Poder del enemigo: 8
+    Poder del jugador: 169
+    Poder del enemigo: 68
 Resultado final: Perdiste
 %NAME
 Case 6
@@ -218,39 +218,39 @@ publico
 from random import seed
 seed(606)
 %INPUT
-45,110,
+60,160,
 %CODE
 %OUTPUT
 Turno 1:
-    Poder del jugador: 50
-    Poder del enemigo: 103
-Turno 2:
     Poder del jugador: 65
-    Poder del enemigo: 95
-Turno 3:
+    Poder del enemigo: 153
+Turno 2:
     Poder del jugador: 80
-    Poder del enemigo: 88
+    Poder del enemigo: 145
+Turno 3:
+    Poder del jugador: 95
+    Poder del enemigo: 138
 Turno 4:
-    Poder del jugador: 87
-    Poder del enemigo: 80
+    Poder del jugador: 102
+    Poder del enemigo: 130
 Turno 5:
-    Poder del jugador: 99
-    Poder del enemigo: 72
+    Poder del jugador: 114
+    Poder del enemigo: 122
 Turno 6:
-    Poder del jugador: 106
-    Poder del enemigo: 62
+    Poder del jugador: 121
+    Poder del enemigo: 112
 Turno 7:
-    Poder del jugador: 113
-    Poder del enemigo: 52
+    Poder del jugador: 128
+    Poder del enemigo: 102
 Turno 8:
-    Poder del jugador: 122
-    Poder del enemigo: 47
+    Poder del jugador: 137
+    Poder del enemigo: 97
 Turno 9:
-    Poder del jugador: 132
-    Poder del enemigo: 39
+    Poder del jugador: 147
+    Poder del enemigo: 89
 Turno 10:
-    Poder del jugador: 142
-    Poder del enemigo: 34
+    Poder del jugador: 157
+    Poder del enemigo: 84
 Resultado final: Perdiste
 %NAME
 Case 7
@@ -260,39 +260,39 @@ publico
 from random import seed
 seed(707)
 %INPUT
-55,130,
+65,170,
 %CODE
 %OUTPUT
 Turno 1:
-    Poder del jugador: 60
-    Poder del enemigo: 121
+    Poder del jugador: 70
+    Poder del enemigo: 161
 Turno 2:
-    Poder del jugador: 75
-    Poder del enemigo: 114
+    Poder del jugador: 85
+    Poder del enemigo: 154
 Turno 3:
-    Poder del jugador: 88
-    Poder del enemigo: 104
+    Poder del jugador: 98
+    Poder del enemigo: 144
 Turno 4:
-    Poder del jugador: 101
-    Poder del enemigo: 96
+    Poder del jugador: 111
+    Poder del enemigo: 136
 Turno 5:
-    Poder del jugador: 116
-    Poder del enemigo: 91
+    Poder del jugador: 126
+    Poder del enemigo: 131
 Turno 6:
-    Poder del jugador: 129
-    Poder del enemigo: 82
+    Poder del jugador: 139
+    Poder del enemigo: 122
 Turno 7:
-    Poder del jugador: 142
-    Poder del enemigo: 72
+    Poder del jugador: 152
+    Poder del enemigo: 112
 Turno 8:
-    Poder del jugador: 151
-    Poder del enemigo: 67
+    Poder del jugador: 161
+    Poder del enemigo: 107
 Turno 9:
-    Poder del jugador: 163
-    Poder del enemigo: 59
+    Poder del jugador: 173
+    Poder del enemigo: 99
 Turno 10:
-    Poder del jugador: 168
-    Poder del enemigo: 49
+    Poder del jugador: 178
+    Poder del enemigo: 89
 Resultado final: Perdiste
 %NAME
 Case 8
@@ -302,39 +302,39 @@ publico
 from random import seed
 seed(808)
 %INPUT
-60,140,
+70,180,
 %CODE
 %OUTPUT
 Turno 1:
-    Poder del jugador: 70
-    Poder del enemigo: 132
+    Poder del jugador: 80
+    Poder del enemigo: 172
 Turno 2:
-    Poder del jugador: 85
-    Poder del enemigo: 125
+    Poder del jugador: 95
+    Poder del enemigo: 165
 Turno 3:
-    Poder del jugador: 92
-    Poder del enemigo: 117
+    Poder del jugador: 102
+    Poder del enemigo: 157
 Turno 4:
-    Poder del jugador: 100
-    Poder del enemigo: 110
+    Poder del jugador: 110
+    Poder del enemigo: 150
 Turno 5:
-    Poder del jugador: 111
-    Poder del enemigo: 102
+    Poder del jugador: 121
+    Poder del enemigo: 142
 Turno 6:
-    Poder del jugador: 119
-    Poder del enemigo: 93
+    Poder del jugador: 129
+    Poder del enemigo: 133
 Turno 7:
-    Poder del jugador: 134
-    Poder del enemigo: 87
+    Poder del jugador: 144
+    Poder del enemigo: 127
 Turno 8:
-    Poder del jugador: 139
-    Poder del enemigo: 80
+    Poder del jugador: 149
+    Poder del enemigo: 120
 Turno 9:
-    Poder del jugador: 145
-    Poder del enemigo: 70
-Turno 10:
     Poder del jugador: 155
-    Poder del enemigo: 65
+    Poder del enemigo: 110
+Turno 10:
+    Poder del jugador: 165
+    Poder del enemigo: 105
 Resultado final: Perdiste
 %NAME
 Case 9
@@ -344,76 +344,82 @@ publico
 from random import seed
 seed(909)
 %INPUT
-20,75,
+75,190,
 %CODE
 %OUTPUT
 Turno 1:
-    Poder del jugador: 28
-    Poder del enemigo: 65
+    Poder del jugador: 83
+    Poder del enemigo: 180
 Turno 2:
-    Poder del jugador: 39
-    Poder del enemigo: 55
+    Poder del jugador: 94
+    Poder del enemigo: 170
 Turno 3:
-    Poder del jugador: 47
-    Poder del enemigo: 49
+    Poder del jugador: 102
+    Poder del enemigo: 164
 Turno 4:
-    Poder del jugador: 52
-    Poder del enemigo: 40
+    Poder del jugador: 107
+    Poder del enemigo: 155
 Turno 5:
-    Poder del jugador: 61
-    Poder del enemigo: 32
+    Poder del jugador: 116
+    Poder del enemigo: 147
 Turno 6:
-    Poder del jugador: 76
-    Poder del enemigo: 24
+    Poder del jugador: 131
+    Poder del enemigo: 139
 Turno 7:
-    Poder del jugador: 89
-    Poder del enemigo: 16
+    Poder del jugador: 144
+    Poder del enemigo: 131
 Turno 8:
-    Poder del jugador: 97
-    Poder del enemigo: 8
+    Poder del jugador: 152
+    Poder del enemigo: 123
 Turno 9:
-    Poder del jugador: 111
-    Poder del enemigo: 0
-Resultado final: Ganaste
+    Poder del jugador: 166
+    Poder del enemigo: 115
+Turno 10:
+    Poder del jugador: 179
+    Poder del enemigo: 110
+Resultado final: Perdiste
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 from random import seed
-seed(1001)
+seed(1010)
 %INPUT
-10,60,
+80,200,
 %CODE
 %OUTPUT
 Turno 1:
-    Poder del jugador: 15
-    Poder del enemigo: 54
+    Poder del jugador: 95
+    Poder del enemigo: 191
 Turno 2:
-    Poder del jugador: 21
-    Poder del enemigo: 45
+    Poder del jugador: 103
+    Poder del enemigo: 182
 Turno 3:
-    Poder del jugador: 32
-    Poder del enemigo: 39
+    Poder del jugador: 109
+    Poder del enemigo: 174
 Turno 4:
-    Poder del jugador: 43
-    Poder del enemigo: 29
+    Poder del jugador: 120
+    Poder del enemigo: 166
 Turno 5:
-    Poder del jugador: 53
-    Poder del enemigo: 20
+    Poder del jugador: 127
+    Poder del enemigo: 160
 Turno 6:
-    Poder del jugador: 68
-    Poder del enemigo: 12
+    Poder del jugador: 138
+    Poder del enemigo: 150
 Turno 7:
-    Poder del jugador: 82
-    Poder del enemigo: 6
+    Poder del jugador: 146
+    Poder del enemigo: 145
 Turno 8:
-    Poder del jugador: 96
-    Poder del enemigo: 1
+    Poder del jugador: 159
+    Poder del enemigo: 135
 Turno 9:
-    Poder del jugador: 101
-    Poder del enemigo: -9
-Resultado final: Ganaste
+    Poder del jugador: 172
+    Poder del enemigo: 128
+Turno 10:
+    Poder del jugador: 181
+    Poder del enemigo: 119
+Resultado final: Perdiste
 %NAME
 Case 1
 %TYPE
@@ -422,115 +428,115 @@ secreto
 from random import seed
 seed(1102)
 %INPUT
-60,200,
+55,190,
 %CODE
 %OUTPUT
-79d0afbdb7063716a6ea6c43e1188b12
+2df88a9d5490548a1d0569d19f736784
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 from random import seed
-seed(1203)
+seed(2204)
 %INPUT
-30,180,
+50,180,
 %CODE
 %OUTPUT
-4253f083d743642590f3e32876cf484f
+d4d3beb88f3f24a9326214ed63464216
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 from random import seed
-seed(1304)
+seed(3306)
 %INPUT
-25,160,
+45,170,
 %CODE
 %OUTPUT
-00f023950ce428459582b18f1854b8e3
+51ffa400fa8ca13858f6c904a7196d95
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 from random import seed
-seed(1405)
+seed(4408)
 %INPUT
-55,190,
+40,160,
 %CODE
 %OUTPUT
-0b4470090ce45a85deb2897a276ba25c
+823b5a564686ee68b53b9f97d0db8f39
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 from random import seed
-seed(1506)
+seed(5510)
 %INPUT
-20,170,
+35,150,
 %CODE
 %OUTPUT
-590dc46ee2eea507dd2bc3d9d3f1b393
+66912f9276fd2539f29c6ede386f878a
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 from random import seed
-seed(1607)
+seed(6612)
 %INPUT
-45,150,
+30,140,
 %CODE
 %OUTPUT
-8c710b32d8c896e1804731dfbd68f90c
+4bc2141d3646e4e1cb154d05c8d01edc
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 from random import seed
-seed(1708)
+seed(7714)
 %INPUT
-35,140,
+25,130,
 %CODE
 %OUTPUT
-eed01d2eda81df6c131d5cf3b01b622c
+77d00e3a3a5e4a86bd99c57caf4b7959
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 from random import seed
-seed(1809)
+seed(8816)
 %INPUT
-50,130,
+20,120,
 %CODE
 %OUTPUT
-66954d95be2fa6e0098515dfa4f0892d
+2ed0c791dbdd4f60e61c070cca080d3a
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 from random import seed
-seed(1900)
+seed(9918)
 %INPUT
-40,120,
+15,110,
 %CODE
 %OUTPUT
-3ed7fbd67607d465d77e3d99f6842e8c
+829e748f2c889d57eddc53f48958b749
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 from random import seed
-seed(2001)
+seed(11020)
 %INPUT
-15,100,
+10,100,
 %CODE
 %OUTPUT
-e49dbe6cf1ef6a97b37243e1549ea01c
+2be6873ab26443c2caee70f22acacd6e
