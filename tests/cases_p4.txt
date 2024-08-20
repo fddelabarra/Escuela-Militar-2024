@@ -10,8 +10,6 @@ publico
 %CODE
 %OUTPUT
 509
-%PREG
-Pregunta 1
 %NAME
 Case 2
 %TYPE
@@ -22,8 +20,6 @@ publico
 %CODE
 %OUTPUT
 Velocidad incorrecta, tiene que ser mayor a 0
-%PREG
-Pregunta 1
 %NAME
 Case 3
 %TYPE
@@ -34,8 +30,6 @@ publico
 %CODE
 %OUTPUT
 Angulo incorrecto, tiene que estar entre 0 y 180
-%PREG
-Pregunta 1
 %NAME
 Case 4
 %TYPE
@@ -46,8 +40,6 @@ publico
 %CODE
 %OUTPUT
 Ambos valores son incorrectos
-%PREG
-Pregunta 1
 %NAME
 Case 5
 %TYPE
@@ -58,8 +50,6 @@ publico
 %CODE
 %OUTPUT
 63
-%PREG
-Pregunta 1
 %NAME
 Case 6
 %TYPE
@@ -70,8 +60,6 @@ publico
 %CODE
 %OUTPUT
 Velocidad incorrecta, tiene que ser mayor a 0
-%PREG
-Pregunta 1
 %NAME
 Case 7
 %TYPE
@@ -82,8 +70,6 @@ publico
 %CODE
 %OUTPUT
 0
-%PREG
-Pregunta 1
 %NAME
 Case 8
 %TYPE
@@ -94,8 +80,6 @@ publico
 %CODE
 %OUTPUT
 0
-%PREG
-Pregunta 1
 %NAME
 Case 9
 %TYPE
@@ -106,8 +90,6 @@ publico
 %CODE
 %OUTPUT
 163
-%PREG
-Pregunta 1
 %NAME
 Case 10
 %TYPE
@@ -128,8 +110,6 @@ secreto
 %CODE
 %OUTPUT
 2485938240bf200c26bb356bbbb0fa32
-%PREG
-Pregunta 1
 %NAME
 Case 2
 %TYPE
@@ -140,8 +120,6 @@ secreto
 %CODE
 %OUTPUT
 7c5aba41f53293b712fd86d08ed5b36e
-%PREG
-Pregunta 1
 %NAME
 Case 3
 %TYPE
@@ -152,8 +130,6 @@ secreto
 %CODE
 %OUTPUT
 3977a34a21a2ddb5f2255ec45dc1ccb4
-%PREG
-Pregunta 1
 %NAME
 Case 4
 %TYPE
@@ -164,8 +140,6 @@ secreto
 %CODE
 %OUTPUT
 18e7b58d69d55d698eb6f87482a55a71
-%PREG
-Pregunta 1
 %NAME
 Case 5
 %TYPE
@@ -176,8 +150,6 @@ secreto
 %CODE
 %OUTPUT
 146fbb8287b7c404806493fdd83073c4
-%PREG
-Pregunta 1
 %NAME
 Case 6
 %TYPE
@@ -188,8 +160,6 @@ secreto
 %CODE
 %OUTPUT
 61de977d0a60d512eb5d675fc7fc3b5f
-%PREG
-Pregunta 1
 %NAME
 Case 7
 %TYPE
@@ -200,8 +170,6 @@ secreto
 %CODE
 %OUTPUT
 46a7cca16366fc9d6a92ee77d0f2ee9c
-%PREG
-Pregunta 1
 %NAME
 Case 8
 %TYPE
@@ -212,8 +180,6 @@ secreto
 %CODE
 %OUTPUT
 9e0c9fbe684c115ea5223e35e3c4c6be
-%PREG
-Pregunta 1
 %NAME
 Case 9
 %TYPE
@@ -224,8 +190,6 @@ secreto
 %CODE
 %OUTPUT
 21c80892a4c9e90665c8a43dc01c5a0b
-%PREG
-Pregunta 1
 %NAME
 Case 10
 %TYPE
