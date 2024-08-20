@@ -6,196 +6,514 @@ Case 1
 publico
 %PRECODE
 %INPUT
-
+30
+100
 %CODE
 %OUTPUT
-
+Turno 1:
+    Poder del jugador: 45
+    Poder del enemigo: 95
+Turno 2:
+    Poder del jugador: 50
+    Poder del enemigo: 85
+Turno 3:
+    Poder del jugador: 59
+    Poder del enemigo: 79
+Turno 4:
+    Poder del jugador: 67
+    Poder del enemigo: 73
+Turno 5:
+    Poder del jugador: 73
+    Poder del enemigo: 63
+Turno 6:
+    Poder del jugador: 86
+    Poder del enemigo: 58
+Turno 7:
+    Poder del jugador: 100
+    Poder del enemigo: 50
+Turno 8:
+    Poder del jugador: 105
+    Poder del enemigo: 45
+Turno 9:
+    Poder del jugador: 111
+    Poder del enemigo: 39
+Turno 10:
+    Poder del jugador: 119
+    Poder del enemigo: 30
+Resultado final: Perdiste
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+50
+150
 %CODE
 %OUTPUT
-
+Turno 1:
+    Poder del jugador: 64
+    Poder del enemigo: 145
+Turno 2:
+    Poder del jugador: 77
+    Poder del enemigo: 139
+Turno 3:
+    Poder del jugador: 92
+    Poder del enemigo: 129
+Turno 4:
+    Poder del jugador: 105
+    Poder del enemigo: 121
+Turno 5:
+    Poder del jugador: 113
+    Poder del enemigo: 113
+Turno 6:
+    Poder del jugador: 127
+    Poder del enemigo: 106
+Turno 7:
+    Poder del jugador: 132
+    Poder del enemigo: 100
+Turno 8:
+    Poder del jugador: 143
+    Poder del enemigo: 93
+Turno 9:
+    Poder del jugador: 152
+    Poder del enemigo: 87
+Turno 10:
+    Poder del jugador: 160
+    Poder del enemigo: 80
+Resultado final: Perdiste
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+40
+80
 %CODE
 %OUTPUT
-
+Turno 1:
+    Poder del jugador: 46
+    Poder del enemigo: 75
+Turno 2:
+    Poder del jugador: 57
+    Poder del enemigo: 70
+Turno 3:
+    Poder del jugador: 67
+    Poder del enemigo: 63
+Turno 4:
+    Poder del jugador: 81
+    Poder del enemigo: 56
+Turno 5:
+    Poder del jugador: 86
+    Poder del enemigo: 46
+Turno 6:
+    Poder del jugador: 98
+    Poder del enemigo: 37
+Turno 7:
+    Poder del jugador: 104
+    Poder del enemigo: 29
+Turno 8:
+    Poder del jugador: 110
+    Poder del enemigo: 20
+Turno 9:
+    Poder del jugador: 119
+    Poder del enemigo: 10
+Turno 10:
+    Poder del jugador: 133
+    Poder del enemigo: 3
+Resultado final: Perdiste
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+25
+120
 %CODE
 %OUTPUT
-
+Turno 1:
+    Poder del jugador: 39
+    Poder del enemigo: 114
+Turno 2:
+    Poder del jugador: 45
+    Poder del enemigo: 109
+Turno 3:
+    Poder del jugador: 60
+    Poder del enemigo: 103
+Turno 4:
+    Poder del jugador: 69
+    Poder del enemigo: 98
+Turno 5:
+    Poder del jugador: 77
+    Poder del enemigo: 93
+Turno 6:
+    Poder del jugador: 88
+    Poder del enemigo: 86
+Turno 7:
+    Poder del jugador: 100
+    Poder del enemigo: 76
+Turno 8:
+    Poder del jugador: 110
+    Poder del enemigo: 70
+Turno 9:
+    Poder del jugador: 120
+    Poder del enemigo: 63
+Turno 10:
+    Poder del jugador: 128
+    Poder del enemigo: 53
+Resultado final: Perdiste
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+35
+90
 %CODE
 %OUTPUT
-
+Turno 1:
+    Poder del jugador: 44
+    Poder del enemigo: 80
+Turno 2:
+    Poder del jugador: 59
+    Poder del enemigo: 70
+Turno 3:
+    Poder del jugador: 65
+    Poder del enemigo: 61
+Turno 4:
+    Poder del jugador: 80
+    Poder del enemigo: 55
+Turno 5:
+    Poder del jugador: 93
+    Poder del enemigo: 45
+Turno 6:
+    Poder del jugador: 101
+    Poder del enemigo: 39
+Turno 7:
+    Poder del jugador: 113
+    Poder del enemigo: 31
+Turno 8:
+    Poder del jugador: 122
+    Poder del enemigo: 21
+Turno 9:
+    Poder del jugador: 135
+    Poder del enemigo: 15
+Turno 10:
+    Poder del jugador: 150
+    Poder del enemigo: 8
+Resultado final: Perdiste
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+45
+110
 %CODE
 %OUTPUT
-
+Turno 1:
+    Poder del jugador: 50
+    Poder del enemigo: 104
+Turno 2:
+    Poder del jugador: 55
+    Poder del enemigo: 97
+Turno 3:
+    Poder del jugador: 66
+    Poder del enemigo: 90
+Turno 4:
+    Poder del jugador: 72
+    Poder del enemigo: 84
+Turno 5:
+    Poder del jugador: 86
+    Poder del enemigo: 74
+Turno 6:
+    Poder del jugador: 96
+    Poder del enemigo: 68
+Turno 7:
+    Poder del jugador: 111
+    Poder del enemigo: 60
+Turno 8:
+    Poder del jugador: 122
+    Poder del enemigo: 50
+Turno 9:
+    Poder del jugador: 134
+    Poder del enemigo: 44
+Turno 10:
+    Poder del jugador: 143
+    Poder del enemigo: 38
+Resultado final: Perdiste
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+55
+130
 %CODE
 %OUTPUT
-
+Turno 1:
+    Poder del jugador: 63
+    Poder del enemigo: 120
+Turno 2:
+    Poder del jugador: 76
+    Poder del enemigo: 111
+Turno 3:
+    Poder del jugador: 85
+    Poder del enemigo: 101
+Turno 4:
+    Poder del jugador: 99
+    Poder del enemigo: 93
+Turno 5:
+    Poder del jugador: 113
+    Poder del enemigo: 85
+Turno 6:
+    Poder del jugador: 123
+    Poder del enemigo: 79
+Turno 7:
+    Poder del jugador: 130
+    Poder del enemigo: 70
+Turno 8:
+    Poder del jugador: 142
+    Poder del enemigo: 65
+Turno 9:
+    Poder del jugador: 147
+    Poder del enemigo: 60
+Turno 10:
+    Poder del jugador: 154
+    Poder del enemigo: 50
+Resultado final: Perdiste
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+60
+140
 %CODE
 %OUTPUT
-
+Turno 1:
+    Poder del jugador: 67
+    Poder del enemigo: 130
+Turno 2:
+    Poder del jugador: 78
+    Poder del enemigo: 121
+Turno 3:
+    Poder del jugador: 84
+    Poder del enemigo: 113
+Turno 4:
+    Poder del jugador: 95
+    Poder del enemigo: 104
+Turno 5:
+    Poder del jugador: 107
+    Poder del enemigo: 95
+Turno 6:
+    Poder del jugador: 116
+    Poder del enemigo: 86
+Turno 7:
+    Poder del jugador: 121
+    Poder del enemigo: 76
+Turno 8:
+    Poder del jugador: 127
+    Poder del enemigo: 66
+Turno 9:
+    Poder del jugador: 140
+    Poder del enemigo: 59
+Turno 10:
+    Poder del jugador: 155
+    Poder del enemigo: 52
+Resultado final: Perdiste
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+20
+75
 %CODE
 %OUTPUT
-
+Turno 1:
+    Poder del jugador: 26
+    Poder del enemigo: 68
+Turno 2:
+    Poder del jugador: 37
+    Poder del enemigo: 62
+Turno 3:
+    Poder del jugador: 49
+    Poder del enemigo: 57
+Turno 4:
+    Poder del jugador: 58
+    Poder del enemigo: 48
+Turno 5:
+    Poder del jugador: 65
+    Poder del enemigo: 39
+Turno 6:
+    Poder del jugador: 71
+    Poder del enemigo: 29
+Turno 7:
+    Poder del jugador: 80
+    Poder del enemigo: 19
+Turno 8:
+    Poder del jugador: 93
+    Poder del enemigo: 10
+Turno 9:
+    Poder del jugador: 101
+    Poder del enemigo: 4
+Turno 10:
+    Poder del jugador: 111
+    Poder del enemigo: -2
+Resultado final: Ganaste
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+10
+60
 %CODE
 %OUTPUT
-
+Turno 1:
+    Poder del jugador: 23
+    Poder del enemigo: 51
+Turno 2:
+    Poder del jugador: 28
+    Poder del enemigo: 42
+Turno 3:
+    Poder del jugador: 38
+    Poder del enemigo: 34
+Turno 4:
+    Poder del jugador: 43
+    Poder del enemigo: 29
+Turno 5:
+    Poder del jugador: 53
+    Poder del enemigo: 22
+Turno 6:
+    Poder del jugador: 61
+    Poder del enemigo: 17
+Turno 7:
+    Poder del jugador: 69
+    Poder del enemigo: 8
+Turno 8:
+    Poder del jugador: 75
+    Poder del enemigo: 3
+Turno 9:
+    Poder del jugador: 87
+    Poder del enemigo: -2
+Resultado final: Ganaste
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+60
+200
 %CODE
 %OUTPUT
-
+e7a3125b4a3b79ad992dec57508f1ddf
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+30
+180
 %CODE
 %OUTPUT
-
+bcb74ec38ded21c92bb6ca4e6a6daa3a
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+25
+160
 %CODE
 %OUTPUT
-
+c33b98c40b55c7d180f96a44e6e406f9
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+55
+190
 %CODE
 %OUTPUT
-
+c1b98e1861f0f9cfc6c8d1617033c709
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+20
+170
 %CODE
 %OUTPUT
-
+5c99fbcb77f21ee5bc9b1803e661d1e9
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+45
+150
 %CODE
 %OUTPUT
-
+622c1413d86d9477b4ea995871bffe04
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+35
+140
 %CODE
 %OUTPUT
-
+820363cd9326b0f0fe4074462be18a17
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+50
+130
 %CODE
 %OUTPUT
-
+18bb0bc02873318c00f9b74bdabdccc2
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+40
+120
 %CODE
 %OUTPUT
-
+84d22a947bd1ec1f8e2ab615847fa7e7
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+15
+100
 %CODE
 %OUTPUT
+33eb61c1a9c359d6d72e30c6864bfea2
