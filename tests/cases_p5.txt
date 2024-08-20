@@ -112,7 +112,7 @@ publico
 from random import seed
 seed(909)
 %INPUT
-test aleatorio
+test aleatorio,
 %CODE
 %OUTPUT
 Mensaje Cifrado: uftu bmfbupsjp
@@ -125,7 +125,7 @@ publico
 from random import seed
 seed(1001)
 %INPUT
-cifrado seguro
+cifrado seguro,
 %CODE
 %OUTPUT
 Mensaje Cifrado: djgsbep tfhvsp
@@ -138,7 +138,7 @@ secreto
 from random import seed
 seed(1102)
 %INPUT
-mensaje secreto
+mensaje secreto,
 %CODE
 %OUTPUT
 6cb063d7ad3bfaa1f648b3cc09fa6cee
@@ -150,7 +150,7 @@ secreto
 from random import seed
 seed(1203)
 %INPUT
-prueba oculta
+prueba oculta,
 %CODE
 %OUTPUT
 45566708331fb569ad366961da4383ff
@@ -162,7 +162,7 @@ secreto
 from random import seed
 seed(1304)
 %INPUT
-contenido cifrado
+contenido cifrado,
 %CODE
 %OUTPUT
 56da35b6fa9aa4afbdf81c427a9a9c44
@@ -174,7 +174,7 @@ secreto
 from random import seed
 seed(1405)
 %INPUT
-descifra esto
+descifra esto,
 %CODE
 %OUTPUT
 88e06156b63097b3ac9289295f2e8079
@@ -186,7 +186,7 @@ secreto
 from random import seed
 seed(1506)
 %INPUT
-vuelve a leer
+vuelve a leer,
 %CODE
 %OUTPUT
 3baa27e712359d2bc5be633cc7bac13d
@@ -198,7 +198,7 @@ secreto
 from random import seed
 seed(1607)
 %INPUT
-mantener seguro
+mantener seguro,
 %CODE
 %OUTPUT
 e58f518a8da8f923a0e34599afbfb0f9
@@ -210,7 +210,7 @@ secreto
 from random import seed
 seed(1708)
 %INPUT
-alfabeto simple
+alfabeto simple,
 %CODE
 %OUTPUT
 fb16da992b2f685a42666aac21498363
@@ -222,7 +222,7 @@ secreto
 from random import seed
 seed(1809)
 %INPUT
-codificacion
+codificacion,
 %CODE
 %OUTPUT
 bb7043bb0ca578ab26e45d7359a8abbf
@@ -234,7 +234,7 @@ secreto
 from random import seed
 seed(1900)
 %INPUT
-encuentra la pista
+encuentra la pista,
 %CODE
 %OUTPUT
 796b43f05dccf1ff1743c382f2e07b76
@@ -246,7 +246,7 @@ secreto
 from random import seed
 seed(2001)
 %INPUT
-rompiendo el cifrado
+rompiendo el cifrado,
 %CODE
 %OUTPUT
 9f1c205083a881ae707f404c737af1b3
