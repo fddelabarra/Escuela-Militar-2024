@@ -1,238 +1,200 @@
-%PREG
-Pregunta 4
 %NAME
 Case 1
 %TYPE
 publico
 %PRECODE
 %INPUT
-100.0, 90.0
+Hola mundo,2,8,
 %CODE
 %OUTPUT
-509
-%PREG
-Pregunta 1
+la mund
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
--10.0, 90.0
+Python es divertido,7,15,
 %CODE
 %OUTPUT
-Velocidad incorrecta, tiene que ser mayor a 0
-%PREG
-Pregunta 1
+es divert
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-100.0, 200.0
+Programar,4,7,
 %CODE
 %OUTPUT
-Angulo incorrecto, tiene que estar entre 0 y 180
-%PREG
-Pregunta 1
+rama
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
--10.0, 200.0
+Secreto,1,3,
 %CODE
 %OUTPUT
-Ambos valores son incorrectos
-%PREG
-Pregunta 1
+ecr
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-50.0, 45.0
+Completo,4,10,
 %CODE
 %OUTPUT
-63
-%PREG
-Pregunta 1
+leto
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-0.0, 45.0
+Desarrollador,3,9,
 %CODE
 %OUTPUT
-Velocidad incorrecta, tiene que ser mayor a 0
-%PREG
-Pregunta 1
+arrolla
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-30.0, 0.0
+Increíble,0,4,
 %CODE
 %OUTPUT
-0
-%PREG
-Pregunta 1
+Incre
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-150.0, 180.0
+Maravilloso,5,12,
 %CODE
 %OUTPUT
-0
-%PREG
-Pregunta 1
+illoso
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-80.0, 135.0
+Computadora,2,6,
 %CODE
 %OUTPUT
-163
-%PREG
-Pregunta 1
+mputa
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-60.0, -45.0
+Monitor,1,4,
 %CODE
 %OUTPUT
-Angulo incorrecto, tiene que estar entre 0 y 180
+onit
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-94.0, 45.0
+Un perro feliz,3,8,
 %CODE
 %OUTPUT
-2485938240bf200c26bb356bbbb0fa32
-%PREG
-Pregunta 1
+482608e4786a250ea3e0f4bd497ce9b5
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-14.0, 75.0
+Los gatos son curiosos,5,14,
 %CODE
 %OUTPUT
-7c5aba41f53293b712fd86d08ed5b36e
-%PREG
-Pregunta 1
+47ba2c3730646f52d529b861079f0723
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-392.0, 120.0
+Las estrellas brillan,4,10,
 %CODE
 %OUTPUT
-3977a34a21a2ddb5f2255ec45dc1ccb4
-%PREG
-Pregunta 1
+317cd37e22f53aec5a74b77bd40accd0
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-687.0, 30.0
+El sol sale cada dia,0,12,
 %CODE
 %OUTPUT
-18e7b58d69d55d698eb6f87482a55a71
-%PREG
-Pregunta 1
+c8f1ae0acd0e004d6ba4683597ec939f
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-454.0, 90.0
+Hay un universo por descubrir,10,20,
 %CODE
 %OUTPUT
-146fbb8287b7c404806493fdd83073c4
-%PREG
-Pregunta 1
+e15ecad936ee6f9ca30c221c8d9ed590
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-199.0, 45.0
+Un nuevo comienzo,4,10,
 %CODE
 %OUTPUT
-61de977d0a60d512eb5d675fc7fc3b5f
-%PREG
-Pregunta 1
+18ce780f3bf1874f48374075555355ea
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-135.0, 60.0
+El universo es infinito,0,7,
 %CODE
 %OUTPUT
-46a7cca16366fc9d6a92ee77d0f2ee9c
-%PREG
-Pregunta 1
+bb895ef37a760460a63af6240036f39a
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-255.0, 150.0
+Viaje al centro de la Tierra,6,15,
 %CODE
 %OUTPUT
-9e0c9fbe684c115ea5223e35e3c4c6be
-%PREG
-Pregunta 1
+2c9afd09e811d50938b861215ea53223
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-582.0, 135.0
+Programación avanzada,3,12,
 %CODE
 %OUTPUT
-21c80892a4c9e90665c8a43dc01c5a0b
-%PREG
-Pregunta 1
+2d93aa8504f395a5c802ff63ebbd0161
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-500.0, 10.0
+Un día soleado en primavera,2,13,
 %CODE
 %OUTPUT
-a5d99f0b68d8429e6a98e8b7765be404
+490be7fbb43c997477706a14fa849d10

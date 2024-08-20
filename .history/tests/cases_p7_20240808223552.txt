@@ -1,238 +1,212 @@
 %PREG
-Pregunta 4
+Pregunta 7
 %NAME
 Case 1
 %TYPE
 publico
 %PRECODE
 %INPUT
-100.0, 90.0
+a1b2c3,
 %CODE
 %OUTPUT
-509
-%PREG
-Pregunta 1
+123
+abc
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
--10.0, 90.0
+h3ll0w0rld,
 %CODE
 %OUTPUT
-Velocidad incorrecta, tiene que ser mayor a 0
-%PREG
-Pregunta 1
+300
+hllwrld
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-100.0, 200.0
+p4r4l4lep1p3d0,
 %CODE
 %OUTPUT
-Angulo incorrecto, tiene que estar entre 0 y 180
-%PREG
-Pregunta 1
+444130
+prlleppd
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
--10.0, 200.0
+12345abcde,
 %CODE
 %OUTPUT
-Ambos valores son incorrectos
-%PREG
-Pregunta 1
+12345
+abcde
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-50.0, 45.0
+0a0b0c0,
 %CODE
 %OUTPUT
-63
-%PREG
-Pregunta 1
+0000
+abc
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-0.0, 45.0
+letrasysolo4d1g1tos,
 %CODE
 %OUTPUT
-Velocidad incorrecta, tiene que ser mayor a 0
-%PREG
-Pregunta 1
+411
+letrasysolodgtos
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-30.0, 0.0
+abcdef,
 %CODE
 %OUTPUT
-0
-%PREG
-Pregunta 1
+
+abcdef
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-150.0, 180.0
+123456,
 %CODE
 %OUTPUT
-0
-%PREG
-Pregunta 1
+123456
+
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-80.0, 135.0
+no123digits,
 %CODE
 %OUTPUT
-163
-%PREG
-Pregunta 1
+123
+nodigits
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-60.0, -45.0
+987zyx654wvu,
 %CODE
 %OUTPUT
-Angulo incorrecto, tiene que estar entre 0 y 180
+987654
+zyxwvu
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-94.0, 45.0
+g4t0s y p3rr0s,
 %CODE
 %OUTPUT
-2485938240bf200c26bb356bbbb0fa32
-%PREG
-Pregunta 1
+126148354b1bb1cd4550c244596595cd
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-14.0, 75.0
+c0m1d4 para t0d0s,
 %CODE
 %OUTPUT
-7c5aba41f53293b712fd86d08ed5b36e
-%PREG
-Pregunta 1
+223637ce64cc1098b20f05c73e16d51d
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-392.0, 120.0
+m4nt3qu1ll4,
 %CODE
 %OUTPUT
-3977a34a21a2ddb5f2255ec45dc1ccb4
-%PREG
-Pregunta 1
+b42402e9eeb249eee099d464e7cfcbdc
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-687.0, 30.0
+b1c1cl3t4,
 %CODE
 %OUTPUT
-18e7b58d69d55d698eb6f87482a55a71
-%PREG
-Pregunta 1
+b42e0d523ee99decbd3904d0e9ede099
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-454.0, 90.0
+f3l1c1d4d y 4l3gr14,
 %CODE
 %OUTPUT
-146fbb8287b7c404806493fdd83073c4
-%PREG
-Pregunta 1
+3ec32446f9097eccff97ae0a2975881e
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-199.0, 45.0
+solo letras,
 %CODE
 %OUTPUT
-61de977d0a60d512eb5d675fc7fc3b5f
-%PREG
-Pregunta 1
+7a3191bbc10c44ba4e8c6be16d94b09a
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-135.0, 60.0
+1234567890,
 %CODE
 %OUTPUT
-46a7cca16366fc9d6a92ee77d0f2ee9c
-%PREG
-Pregunta 1
+69d04dbd25756d032139f746b193d6ff
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-255.0, 150.0
+a1b1c1d1e1f1g1,
 %CODE
 %OUTPUT
-9e0c9fbe684c115ea5223e35e3c4c6be
-%PREG
-Pregunta 1
+7243492848d28492f99ba755e96eb390
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-582.0, 135.0
+1a2b3c4d5e,
 %CODE
 %OUTPUT
-21c80892a4c9e90665c8a43dc01c5a0b
-%PREG
-Pregunta 1
+9a27e38bd85c614767e4a6e62b1313c0
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-500.0, 10.0
+000abc111xyz,
 %CODE
 %OUTPUT
-a5d99f0b68d8429e6a98e8b7765be404
+cd981f07c573a757db77ccceaccdddfe

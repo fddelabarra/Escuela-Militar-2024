@@ -1,0 +1,123 @@
+%PREG
+Pregunta 1
+%NAME
+Case 1
+%TYPE
+publico
+%PRECODE
+%INPUT
+5,
+%CODE
+%OUTPUT
+1
+2
+3
+4
+5
+%NAME
+Case 2
+%TYPE
+publico
+%PRECODE
+%INPUT
+3,
+%CODE
+%OUTPUT
+1
+2
+3
+%NAME
+Case 3
+%TYPE
+publico
+%PRECODE
+%INPUT
+10,
+%CODE
+%OUTPUT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+%NAME
+Case 4
+%TYPE
+publico
+%PRECODE
+%INPUT
+1,
+%CODE
+%OUTPUT
+1
+%NAME
+Case 5
+%TYPE
+publico
+%PRECODE
+%INPUT
+7,
+%CODE
+%OUTPUT
+1
+2
+3
+4
+5
+6
+7
+%NAME
+Case 1
+%TYPE
+secreto
+%PRECODE
+%INPUT
+4,
+%CODE
+%OUTPUT
+302c28003d487124d97c242de94da856
+%NAME
+Case 2
+%TYPE
+secreto
+%PRECODE
+%INPUT
+6,
+%CODE
+%OUTPUT
+f3a4562cd2134c76b4ff170ce6f28fee
+%NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+%INPUT
+12,
+%CODE
+%OUTPUT
+f4699b80440c0403b31fce987f9cd8af
+%NAME
+Case 4
+%TYPE
+secreto
+%PRECODE
+%INPUT
+2,
+%CODE
+%OUTPUT
+6ddb4095eb719e2a9f0a3f95677d24e0
+%NAME
+Case 5
+%TYPE
+secreto
+%PRECODE
+%INPUT
+8,
+%CODE
+%OUTPUT
+cb7f5e5c765b1fc78547062ee6770596

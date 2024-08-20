@@ -1,0 +1,72 @@
+%PREG
+Pregunta 3
+%NAME
+Case 1
+%TYPE
+publico
+%PRECODE
+%INPUT
+jugo,20,
+%CODE
+%OUTPUT
+puedes comprar un jugo en caja.
+%NAME
+Case 2
+%TYPE
+publico
+%PRECODE
+%INPUT
+bebida,8,
+%CODE
+%OUTPUT
+puedes comprar agua.
+%NAME
+Case 3
+%TYPE
+publico
+%PRECODE
+%INPUT
+jugo,35,
+%CODE
+%OUTPUT
+puedes comprar un jugo natural.
+%NAME
+Case 4
+%TYPE
+publico
+%PRECODE
+%INPUT
+bebida,30,
+%CODE
+%OUTPUT
+puedes comprar una bebida grande.
+%NAME
+Case 1
+%TYPE
+secreto
+%PRECODE
+%INPUT
+jugo,5,
+%CODE
+%OUTPUT
+182a64cb6236e7b1444e0bbe674295ac
+%NAME
+Case 2
+%TYPE
+secreto
+%PRECODE
+%INPUT
+bebida,15,
+%CODE
+%OUTPUT
+5c9f836240b358ce6d8b06786c22ee28
+%NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+%INPUT
+jugo,30,
+%CODE
+%OUTPUT
+2410c4d6382f443598468b28b169860a
