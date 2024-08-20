@@ -5,11 +5,12 @@ Case 1
 %TYPE
 publico
 %PRECODE
+from random import seed
+seed(101)
 %INPUT
-
 %CODE
 %OUTPUT
-
+5.212907858144424
 %NAME
 Case 2
 %TYPE
