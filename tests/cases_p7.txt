@@ -1,7 +1,7 @@
 %PREG
 Pregunta 7
 %NAME
-Case 100
+Case 1
 %TYPE
 publico
 %PRECODE
@@ -27,7 +27,7 @@ Recolectando muestra 5...
 Nivel de energia actual: -11
 Estado de la mision: Mision fallida
 %NAME
-Case 200
+Case 2
 %TYPE
 publico
 %PRECODE
@@ -50,7 +50,7 @@ Recolectando muestra 4...
 Nivel de energia actual: 9
 Estado de la mision: Mision exitosa
 %NAME
-Case 300
+Case 3
 %TYPE
 publico
 %PRECODE
@@ -64,7 +64,7 @@ Recolectando muestra 1...
 Nivel de energia actual: 102
 Estado de la mision: Mision exitosa
 %NAME
-Case 400
+Case 4
 %TYPE
 publico
 %PRECODE
@@ -84,7 +84,7 @@ Recolectando muestra 3...
 Nivel de energia actual: -11
 Estado de la mision: Mision fallida
 %NAME
-Case 500
+Case 5
 %TYPE
 publico
 %PRECODE
@@ -110,7 +110,7 @@ Recolectando muestra 5...
 Nivel de energia actual: -10
 Estado de la mision: Mision fallida
 %NAME
-Case 600
+Case 6
 %TYPE
 publico
 %PRECODE
@@ -130,7 +130,7 @@ Recolectando muestra 3...
 Nivel de energia actual: 87
 Estado de la mision: Mision exitosa
 %NAME
-Case 700
+Case 7
 %TYPE
 publico
 %PRECODE
@@ -147,7 +147,7 @@ Recolectando muestra 2...
 Nivel de energia actual: 156
 Estado de la mision: Mision exitosa
 %NAME
-Case 800
+Case 8
 %TYPE
 publico
 %PRECODE
@@ -170,7 +170,7 @@ Recolectando muestra 4...
 Nivel de energia actual: 81
 Estado de la mision: Mision exitosa
 %NAME
-Case 900
+Case 9
 %TYPE
 publico
 %PRECODE
@@ -196,7 +196,7 @@ Recolectando muestra 5...
 Nivel de energia actual: 49
 Estado de la mision: Mision exitosa
 %NAME
-Case 0
+Case 10
 %TYPE
 publico
 %PRECODE
@@ -213,7 +213,7 @@ Recolectando muestra 2...
 Nivel de energia actual: 67
 Estado de la mision: Mision exitosa
 %NAME
-Case 100
+Case 1
 %TYPE
 secreto
 %PRECODE
@@ -225,7 +225,7 @@ seed(1100)
 %OUTPUT
 1e58fc6270cecee1f81b3990cfa5c986
 %NAME
-Case 200
+Case 2
 %TYPE
 secreto
 %PRECODE
@@ -237,7 +237,7 @@ seed(1200)
 %OUTPUT
 aaa0542fc813f0aacae3c279516c98ac
 %NAME
-Case 300
+Case 3
 %TYPE
 secreto
 %PRECODE
@@ -249,7 +249,7 @@ seed(1300)
 %OUTPUT
 fc5f77077e0083a8eea57400820ed670
 %NAME
-Case 400
+Case 4
 %TYPE
 secreto
 %PRECODE
@@ -261,7 +261,7 @@ seed(1400)
 %OUTPUT
 ab1492fc6548d5b7d94e39729a70e747
 %NAME
-Case 500
+Case 5
 %TYPE
 secreto
 %PRECODE
@@ -273,7 +273,7 @@ seed(1500)
 %OUTPUT
 ea36cf5c582393beef27b08d064333ec
 %NAME
-Case 600
+Case 6
 %TYPE
 secreto
 %PRECODE
@@ -285,7 +285,7 @@ seed(1600)
 %OUTPUT
 bf9e44d88942327a250019be3281b9ac
 %NAME
-Case 700
+Case 7
 %TYPE
 secreto
 %PRECODE
@@ -297,7 +297,7 @@ seed(1700)
 %OUTPUT
 65c8b7a3364d762b39ab3b47512aeffb
 %NAME
-Case 800
+Case 8
 %TYPE
 secreto
 %PRECODE
@@ -309,7 +309,7 @@ seed(1800)
 %OUTPUT
 30966a4fff945f85c1fa0108b86257aa
 %NAME
-Case 900
+Case 9
 %TYPE
 secreto
 %PRECODE
@@ -321,7 +321,7 @@ seed(1900)
 %OUTPUT
 4f5f5eab64669958deceb605e8f7d2ad
 %NAME
-Case 0
+Case 10
 %TYPE
 secreto
 %PRECODE
