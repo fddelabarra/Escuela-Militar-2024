@@ -8,245 +8,245 @@ publico
 from random import seed
 seed(101)
 %INPUT
-hola mundo,
+mensaje de prueba 1,
 %CODE
 %OUTPUT
-Mensaje Cifrado: krod pxqgr
-Mensaje Descifrado: hola mundo
+Mensaje Cifrado: phqvdmh gh suxhed 1
+Mensaje Descifrado: mensaje de prueba 1
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 from random import seed
-seed(202)
+seed(102)
 %INPUT
-mensaje de prueba,
+mensaje de prueba 2,
 %CODE
 %OUTPUT
-Mensaje Cifrado: ogpuclg fg rtwgdc
-Mensaje Descifrado: mensaje de prueba
+Mensaje Cifrado: nfotbkf ef qsvfcb 2
+Mensaje Descifrado: mensaje de prueba 2
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 from random import seed
-seed(303)
+seed(103)
 %INPUT
-zorro rapido,
+mensaje de prueba 3,
 %CODE
 %OUTPUT
-Mensaje Cifrado: apssp sbqjep
-Mensaje Descifrado: zorro rapido
+Mensaje Cifrado: phqvdmh gh suxhed 3
+Mensaje Descifrado: mensaje de prueba 3
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 from random import seed
-seed(404)
+seed(104)
 %INPUT
-gato perezoso,
+mensaje de prueba 4,
 %CODE
 %OUTPUT
-Mensaje Cifrado: hbup qfsfaptp
-Mensaje Descifrado: gato perezoso
+Mensaje Cifrado: nfotbkf ef qsvfcb 4
+Mensaje Descifrado: mensaje de prueba 4
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 from random import seed
-seed(505)
+seed(105)
 %INPUT
-cifrado y descifrado,
+mensaje de prueba 5,
 %CODE
 %OUTPUT
-Mensaje Cifrado: djgsbep z eftdjgsbep
-Mensaje Descifrado: cifrado y descifrado
+Mensaje Cifrado: phqvdmh gh suxhed 5
+Mensaje Descifrado: mensaje de prueba 5
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 from random import seed
-seed(606)
+seed(106)
 %INPUT
-prueba con espacios,
+mensaje de prueba 6,
 %CODE
 %OUTPUT
-Mensaje Cifrado: suxhed frq hvsdflrv
-Mensaje Descifrado: prueba con espacios
+Mensaje Cifrado: phqvdmh gh suxhed 6
+Mensaje Descifrado: mensaje de prueba 6
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 from random import seed
-seed(707)
+seed(107)
 %INPUT
-casos de prueba,
+mensaje de prueba 7,
 %CODE
 %OUTPUT
-Mensaje Cifrado: dbtpt ef qsvfcb
-Mensaje Descifrado: casos de prueba
+Mensaje Cifrado: nfotbkf ef qsvfcb 7
+Mensaje Descifrado: mensaje de prueba 7
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 from random import seed
-seed(808)
+seed(108)
 %INPUT
-alfabeto completo,
+mensaje de prueba 8,
 %CODE
 %OUTPUT
-Mensaje Cifrado: cnhcdgvq eqorngvq
-Mensaje Descifrado: alfabeto completo
+Mensaje Cifrado: nfotbkf ef qsvfcb 8
+Mensaje Descifrado: mensaje de prueba 8
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 from random import seed
-seed(909)
+seed(109)
 %INPUT
-test aleatorio,
+mensaje de prueba 9,
 %CODE
 %OUTPUT
-Mensaje Cifrado: uftu bmfbupsjp
-Mensaje Descifrado: test aleatorio
+Mensaje Cifrado: ogpuclg fg rtwgdc 9
+Mensaje Descifrado: mensaje de prueba 9
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 from random import seed
-seed(1001)
+seed(110)
 %INPUT
-cifrado seguro,
+mensaje de prueba 10,
 %CODE
 %OUTPUT
-Mensaje Cifrado: djgsbep tfhvsp
-Mensaje Descifrado: cifrado seguro
+Mensaje Cifrado: ogpuclg fg rtwgdc 10
+Mensaje Descifrado: mensaje de prueba 10
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 from random import seed
-seed(1102)
+seed(201)
 %INPUT
-mensaje secreto,
+mensaje secreto 1,
 %CODE
 %OUTPUT
-6cb063d7ad3bfaa1f648b3cc09fa6cee
+45337b7335c808b5ceda5a1c975592df
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 from random import seed
-seed(1203)
+seed(202)
 %INPUT
-prueba oculta,
+mensaje secreto 2,
 %CODE
 %OUTPUT
-45566708331fb569ad366961da4383ff
+d790c6f6dd68e2eed2a328e61b2568b1
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 from random import seed
-seed(1304)
+seed(203)
 %INPUT
-contenido cifrado,
+mensaje secreto 3,
 %CODE
 %OUTPUT
-56da35b6fa9aa4afbdf81c427a9a9c44
+0531083ff1cbd1350d19bbe9815b6661
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 from random import seed
-seed(1405)
+seed(204)
 %INPUT
-descifra esto,
+mensaje secreto 4,
 %CODE
 %OUTPUT
-88e06156b63097b3ac9289295f2e8079
+6cbcd3f1ecfa8fdfd07c824c4b1f1ad0
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 from random import seed
-seed(1506)
+seed(205)
 %INPUT
-vuelve a leer,
+mensaje secreto 5,
 %CODE
 %OUTPUT
-3baa27e712359d2bc5be633cc7bac13d
+3060afbea1dd63a3e555e4c17caef848
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 from random import seed
-seed(1607)
+seed(206)
 %INPUT
-mantener seguro,
+mensaje secreto 6,
 %CODE
 %OUTPUT
-e58f518a8da8f923a0e34599afbfb0f9
+552e9d9b986b761303dd04c8b71fbd52
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 from random import seed
-seed(1708)
+seed(207)
 %INPUT
-alfabeto simple,
+mensaje secreto 7,
 %CODE
 %OUTPUT
-fb16da992b2f685a42666aac21498363
+aa3c676d52691cb414dedc0cd03f124a
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 from random import seed
-seed(1809)
+seed(208)
 %INPUT
-codificacion,
+mensaje secreto 8,
 %CODE
 %OUTPUT
-bb7043bb0ca578ab26e45d7359a8abbf
+0580c8111a9ccfa146097dc4603353fe
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 from random import seed
-seed(1900)
+seed(209)
 %INPUT
-encuentra la pista,
+mensaje secreto 9,
 %CODE
 %OUTPUT
-796b43f05dccf1ff1743c382f2e07b76
+faa838a4fb329340972b5eaa733d869f
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 from random import seed
-seed(2001)
+seed(210)
 %INPUT
-rompiendo el cifrado,
+mensaje secreto 10,
 %CODE
 %OUTPUT
-9f1c205083a881ae707f404c737af1b3
+274287195274018dbc1aa8b281ff002f
