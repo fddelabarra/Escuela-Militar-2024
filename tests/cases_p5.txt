@@ -6,196 +6,207 @@ Case 1
 publico
 %PRECODE
 %INPUT
-
+hola mundo
 %CODE
 %OUTPUT
-
+Mensaje Cifrado: ipmb nvoep
+Mensaje Descifrado: hola mundo
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+mensaje de prueba
 %CODE
 %OUTPUT
-
+Mensaje Cifrado: ogpuclg fg rtwgdc
+Mensaje Descifrado: mensaje de prueba
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+zorro rapido
 %CODE
 %OUTPUT
-
+Mensaje Cifrado: cruur udslgr
+Mensaje Descifrado: zorro rapido
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+gato perezoso
 %CODE
 %OUTPUT
-
+Mensaje Cifrado: jdwr shuhcrvr
+Mensaje Descifrado: gato perezoso
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+cifrado y descifrado
 %CODE
 %OUTPUT
-
+Mensaje Cifrado: djgsbep z eftdjgsbep
+Mensaje Descifrado: cifrado y descifrado
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+prueba con espacios
 %CODE
 %OUTPUT
-
+Mensaje Cifrado: rtwgdc eqp gurcekqu
+Mensaje Descifrado: prueba con espacios
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+casos de prueba
 %CODE
 %OUTPUT
-
+Mensaje Cifrado: fdvrv gh suxhed
+Mensaje Descifrado: casos de prueba
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+alfabeto completo
 %CODE
 %OUTPUT
-
+Mensaje Cifrado: bmgbcfup dpnqmfup
+Mensaje Descifrado: alfabeto completo
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+test aleatorio
 %CODE
 %OUTPUT
-
+Mensaje Cifrado: vguv cngcvqtkq
+Mensaje Descifrado: test aleatorio
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-
+cifrado seguro
 %CODE
 %OUTPUT
-
+Mensaje Cifrado: fliudgr vhjxur
+Mensaje Descifrado: cifrado seguro
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+mensaje secreto
 %CODE
 %OUTPUT
-
+6a9665ebdfa0ebe7a6473c3abd8bc56e
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+prueba oculta
 %CODE
 %OUTPUT
-
+45566708331fb569ad366961da4383ff
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+contenido cifrado
 %CODE
 %OUTPUT
-
+17bf6b106a6c432873b5c20b0adda53a
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+descifra esto
 %CODE
 %OUTPUT
-
+88e06156b63097b3ac9289295f2e8079
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+vuelve a leer
 %CODE
 %OUTPUT
-
+7486c68c2cf1574d93f64da9f45ea873
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+mantener seguro
 %CODE
 %OUTPUT
-
+e58f518a8da8f923a0e34599afbfb0f9
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+alfabeto simple
 %CODE
 %OUTPUT
-
+fb16da992b2f685a42666aac21498363
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+codificacion
 %CODE
 %OUTPUT
-
+cbb91581c08209b218e315ec5c36001a
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+encuentra la pista
 %CODE
 %OUTPUT
-
+796b43f05dccf1ff1743c382f2e07b76
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
+rompiendo el cifrado
 %CODE
 %OUTPUT
+68babb6973d22e3318bbbcd2f2f2208b
