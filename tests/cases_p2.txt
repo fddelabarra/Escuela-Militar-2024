@@ -16,187 +16,207 @@ Case 2
 %TYPE
 publico
 %PRECODE
+from random import seed
+seed(202)
 %INPUT
-
 %CODE
 %OUTPUT
-
+5.504660289710533
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
+from random import seed
+seed(303)
 %INPUT
-
 %CODE
 %OUTPUT
-
+5.509132728190981
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
+from random import seed
+seed(404)
 %INPUT
-
 %CODE
 %OUTPUT
-
+3.5658438707594278
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
+from random import seed
+seed(505)
 %INPUT
-
 %CODE
 %OUTPUT
-
+5.572117474820076
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
+from random import seed
+seed(606)
 %INPUT
-
 %CODE
 %OUTPUT
-
+4.457810200298191
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
+from random import seed
+seed(707)
 %INPUT
-
 %CODE
 %OUTPUT
-
+5.370080614039969
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
+from random import seed
+seed(808)
 %INPUT
-
 %CODE
 %OUTPUT
-
+4.966795473428065
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
+from random import seed
+seed(909)
 %INPUT
-
 %CODE
 %OUTPUT
-
+4.826148220779507
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
+from random import seed
+seed(1001)
 %INPUT
-
 %CODE
 %OUTPUT
-
+5.6880617811153344
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
+from random import seed
+seed(1102)
 %INPUT
-
 %CODE
 %OUTPUT
-
+ccb04d622ddc8c62ee24580971509694
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
+from random import seed
+seed(1203)
 %INPUT
-
 %CODE
 %OUTPUT
-
+ff81200f98473182b38ef5c970cbaa84
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
+from random import seed
+seed(1304)
 %INPUT
-
 %CODE
 %OUTPUT
-
+f1f7c62f7ffb93e8da5ca98599c60b9a
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
+from random import seed
+seed(1405)
 %INPUT
-
 %CODE
 %OUTPUT
-
+bf32652e02e2600f1937d64bebe7ea85
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
+from random import seed
+seed(1506)
 %INPUT
-
 %CODE
 %OUTPUT
-
+390fb2c06d6866d705eede9dfadb36ee
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
+from random import seed
+seed(1607)
 %INPUT
-
 %CODE
 %OUTPUT
-
+d30d30fc06dba4ef50eeed349175e618
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
+from random import seed
+seed(1708)
 %INPUT
-
 %CODE
 %OUTPUT
-
+2cd086f2184b01db9cb2d3394d0af7dd
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
+from random import seed
+seed(1809)
 %INPUT
-
 %CODE
 %OUTPUT
-
+f3d5905c09d8c1efb44541c23c6a02fe
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
+from random import seed
+seed(1900)
 %INPUT
-
 %CODE
 %OUTPUT
-
+0902c1731cbb15be6c5f5ce31f05198d
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
+from random import seed
+seed(2001)
 %INPUT
-
 %CODE
 %OUTPUT
+97edef7cceaa820d46acaf13f94658db
