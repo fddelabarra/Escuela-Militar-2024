@@ -8,7 +8,7 @@ publico
 from random import seed
 seed(101)
 %INPUT
-hola mundo
+hola mundo,
 %CODE
 %OUTPUT
 Mensaje Cifrado: krod pxqgr
@@ -21,7 +21,7 @@ publico
 from random import seed
 seed(202)
 %INPUT
-mensaje de prueba
+mensaje de prueba,
 %CODE
 %OUTPUT
 Mensaje Cifrado: ogpuclg fg rtwgdc
@@ -34,7 +34,7 @@ publico
 from random import seed
 seed(303)
 %INPUT
-zorro rapido
+zorro rapido,
 %CODE
 %OUTPUT
 Mensaje Cifrado: apssp sbqjep
@@ -47,7 +47,7 @@ publico
 from random import seed
 seed(404)
 %INPUT
-gato perezoso
+gato perezoso,
 %CODE
 %OUTPUT
 Mensaje Cifrado: hbup qfsfaptp
@@ -60,7 +60,7 @@ publico
 from random import seed
 seed(505)
 %INPUT
-cifrado y descifrado
+cifrado y descifrado,
 %CODE
 %OUTPUT
 Mensaje Cifrado: djgsbep z eftdjgsbep
@@ -73,7 +73,7 @@ publico
 from random import seed
 seed(606)
 %INPUT
-prueba con espacios
+prueba con espacios,
 %CODE
 %OUTPUT
 Mensaje Cifrado: suxhed frq hvsdflrv
@@ -86,7 +86,7 @@ publico
 from random import seed
 seed(707)
 %INPUT
-casos de prueba
+casos de prueba,
 %CODE
 %OUTPUT
 Mensaje Cifrado: dbtpt ef qsvfcb
@@ -99,7 +99,7 @@ publico
 from random import seed
 seed(808)
 %INPUT
-alfabeto completo
+alfabeto completo,
 %CODE
 %OUTPUT
 Mensaje Cifrado: cnhcdgvq eqorngvq
