@@ -5,248 +5,197 @@ Case 1
 %TYPE
 publico
 %PRECODE
-from random import seed
-seed(101)
 %INPUT
-mensaje de prueba 1,
+
 %CODE
 %OUTPUT
-Mensaje Cifrado: phqvdmh gh suxhed 1
-Mensaje Descifrado: mensaje de prueba 1
+
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
-from random import seed
-seed(102)
 %INPUT
-mensaje de prueba 2,
+
 %CODE
 %OUTPUT
-Mensaje Cifrado: nfotbkf ef qsvfcb 2
-Mensaje Descifrado: mensaje de prueba 2
+
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
-from random import seed
-seed(103)
 %INPUT
-mensaje de prueba 3,
+
 %CODE
 %OUTPUT
-Mensaje Cifrado: phqvdmh gh suxhed 3
-Mensaje Descifrado: mensaje de prueba 3
+
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
-from random import seed
-seed(104)
 %INPUT
-mensaje de prueba 4,
+
 %CODE
 %OUTPUT
-Mensaje Cifrado: nfotbkf ef qsvfcb 4
-Mensaje Descifrado: mensaje de prueba 4
+
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
-from random import seed
-seed(105)
 %INPUT
-mensaje de prueba 5,
+
 %CODE
 %OUTPUT
-Mensaje Cifrado: phqvdmh gh suxhed 5
-Mensaje Descifrado: mensaje de prueba 5
+
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
-from random import seed
-seed(106)
 %INPUT
-mensaje de prueba 6,
+
 %CODE
 %OUTPUT
-Mensaje Cifrado: phqvdmh gh suxhed 6
-Mensaje Descifrado: mensaje de prueba 6
+
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
-from random import seed
-seed(107)
 %INPUT
-mensaje de prueba 7,
+
 %CODE
 %OUTPUT
-Mensaje Cifrado: nfotbkf ef qsvfcb 7
-Mensaje Descifrado: mensaje de prueba 7
+
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
-from random import seed
-seed(108)
 %INPUT
-mensaje de prueba 8,
+
 %CODE
 %OUTPUT
-Mensaje Cifrado: nfotbkf ef qsvfcb 8
-Mensaje Descifrado: mensaje de prueba 8
+
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
-from random import seed
-seed(109)
 %INPUT
-mensaje de prueba 9,
+
 %CODE
 %OUTPUT
-Mensaje Cifrado: ogpuclg fg rtwgdc 9
-Mensaje Descifrado: mensaje de prueba 9
+
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
-from random import seed
-seed(110)
 %INPUT
-mensaje de prueba 10,
+
 %CODE
 %OUTPUT
-Mensaje Cifrado: ogpuclg fg rtwgdc 10
-Mensaje Descifrado: mensaje de prueba 10
+
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
-from random import seed
-seed(201)
 %INPUT
-mensaje secreto 1,
+
 %CODE
 %OUTPUT
-45337b7335c808b5ceda5a1c975592df
+
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
-from random import seed
-seed(202)
 %INPUT
-mensaje secreto 2,
+
 %CODE
 %OUTPUT
-d790c6f6dd68e2eed2a328e61b2568b1
+
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
-from random import seed
-seed(203)
 %INPUT
-mensaje secreto 3,
+
 %CODE
 %OUTPUT
-0531083ff1cbd1350d19bbe9815b6661
+
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
-from random import seed
-seed(204)
 %INPUT
-mensaje secreto 4,
+
 %CODE
 %OUTPUT
-6cbcd3f1ecfa8fdfd07c824c4b1f1ad0
+
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
-from random import seed
-seed(205)
 %INPUT
-mensaje secreto 5,
+
 %CODE
 %OUTPUT
-3060afbea1dd63a3e555e4c17caef848
+
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
-from random import seed
-seed(206)
 %INPUT
-mensaje secreto 6,
+
 %CODE
 %OUTPUT
-552e9d9b986b761303dd04c8b71fbd52
+
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
-from random import seed
-seed(207)
 %INPUT
-mensaje secreto 7,
+
 %CODE
 %OUTPUT
-aa3c676d52691cb414dedc0cd03f124a
+
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
-from random import seed
-seed(208)
 %INPUT
-mensaje secreto 8,
+
 %CODE
 %OUTPUT
-0580c8111a9ccfa146097dc4603353fe
+
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
-from random import seed
-seed(209)
 %INPUT
-mensaje secreto 9,
+
 %CODE
 %OUTPUT
-faa838a4fb329340972b5eaa733d869f
+
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
-from random import seed
-seed(210)
 %INPUT
-mensaje secreto 10,
+
 %CODE
 %OUTPUT
-274287195274018dbc1aa8b281ff002f

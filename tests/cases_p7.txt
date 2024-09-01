@@ -5,330 +5,197 @@ Case 1
 %TYPE
 publico
 %PRECODE
-from random import seed
-seed(100)
 %INPUT
-88,5,
+
 %CODE
 %OUTPUT
-Recolectando muestra 1...
-Nivel de energia actual: 74
-Estado de la mision: En progreso
-Recolectando muestra 2...
-Nivel de energia actual: 50
-Estado de la mision: En progreso
-Recolectando muestra 3...
-Nivel de energia actual: 26
-Estado de la mision: En progreso
-Recolectando muestra 4...
-Nivel de energia actual: 11
-Estado de la mision: En progreso
-Recolectando muestra 5...
-Nivel de energia actual: -11
-Estado de la mision: Mision fallida
+
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
-from random import seed
-seed(200)
 %INPUT
-60,4,
+
 %CODE
 %OUTPUT
-Recolectando muestra 1...
-Nivel de energia actual: 49
-Estado de la mision: En progreso
-Recolectando muestra 2...
-Nivel de energia actual: 33
-Estado de la mision: En progreso
-Recolectando muestra 3...
-Nivel de energia actual: 23
-Estado de la mision: En progreso
-Recolectando muestra 4...
-Nivel de energia actual: 9
-Estado de la mision: Mision exitosa
+
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
-from random import seed
-seed(300)
 %INPUT
-131,1,
+
 %CODE
 %OUTPUT
-Recolectando muestra 1...
-Nivel de energia actual: 102
-Estado de la mision: Mision exitosa
+
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
-from random import seed
-seed(400)
 %INPUT
-53,5,
+
 %CODE
 %OUTPUT
-Recolectando muestra 1...
-Nivel de energia actual: 34
-Estado de la mision: En progreso
-Recolectando muestra 2...
-Nivel de energia actual: 7
-Estado de la mision: En progreso
-Recolectando muestra 3...
-Nivel de energia actual: -11
-Estado de la mision: Mision fallida
+
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
-from random import seed
-seed(500)
 %INPUT
-110,5,
+
 %CODE
 %OUTPUT
-Recolectando muestra 1...
-Nivel de energia actual: 86
-Estado de la mision: En progreso
-Recolectando muestra 2...
-Nivel de energia actual: 60
-Estado de la mision: En progreso
-Recolectando muestra 3...
-Nivel de energia actual: 32
-Estado de la mision: En progreso
-Recolectando muestra 4...
-Nivel de energia actual: 8
-Estado de la mision: En progreso
-Recolectando muestra 5...
-Nivel de energia actual: -10
-Estado de la mision: Mision fallida
+
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
-from random import seed
-seed(600)
 %INPUT
-156,3,
+
 %CODE
 %OUTPUT
-Recolectando muestra 1...
-Nivel de energia actual: 138
-Estado de la mision: En progreso
-Recolectando muestra 2...
-Nivel de energia actual: 117
-Estado de la mision: En progreso
-Recolectando muestra 3...
-Nivel de energia actual: 87
-Estado de la mision: Mision exitosa
+
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
-from random import seed
-seed(700)
 %INPUT
-187,2,
+
 %CODE
 %OUTPUT
-Recolectando muestra 1...
-Nivel de energia actual: 172
-Estado de la mision: En progreso
-Recolectando muestra 2...
-Nivel de energia actual: 156
-Estado de la mision: Mision exitosa
+
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
-from random import seed
-seed(800)
 %INPUT
-170,4,
+
 %CODE
 %OUTPUT
-Recolectando muestra 1...
-Nivel de energia actual: 145
-Estado de la mision: En progreso
-Recolectando muestra 2...
-Nivel de energia actual: 117
-Estado de la mision: En progreso
-Recolectando muestra 3...
-Nivel de energia actual: 106
-Estado de la mision: En progreso
-Recolectando muestra 4...
-Nivel de energia actual: 81
-Estado de la mision: Mision exitosa
+
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
-from random import seed
-seed(900)
 %INPUT
-141,5,
+
 %CODE
 %OUTPUT
-Recolectando muestra 1...
-Nivel de energia actual: 112
-Estado de la mision: En progreso
-Recolectando muestra 2...
-Nivel de energia actual: 95
-Estado de la mision: En progreso
-Recolectando muestra 3...
-Nivel de energia actual: 74
-Estado de la mision: En progreso
-Recolectando muestra 4...
-Nivel de energia actual: 61
-Estado de la mision: En progreso
-Recolectando muestra 5...
-Nivel de energia actual: 49
-Estado de la mision: Mision exitosa
+
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
-from random import seed
-seed(1000)
 %INPUT
-103,2,
+
 %CODE
 %OUTPUT
-Recolectando muestra 1...
-Nivel de energia actual: 80
-Estado de la mision: En progreso
-Recolectando muestra 2...
-Nivel de energia actual: 67
-Estado de la mision: Mision exitosa
+
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
-from random import seed
-seed(1100)
 %INPUT
-139,4,
+
 %CODE
 %OUTPUT
-1e58fc6270cecee1f81b3990cfa5c986
+
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
-from random import seed
-seed(1200)
 %INPUT
-118,1,
+
 %CODE
 %OUTPUT
-aaa0542fc813f0aacae3c279516c98ac
+
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
-from random import seed
-seed(1300)
 %INPUT
-141,3,
+
 %CODE
 %OUTPUT
-fc5f77077e0083a8eea57400820ed670
+
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
-from random import seed
-seed(1400)
 %INPUT
-73,5,
+
 %CODE
 %OUTPUT
-ab1492fc6548d5b7d94e39729a70e747
+
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
-from random import seed
-seed(1500)
 %INPUT
-146,2,
+
 %CODE
 %OUTPUT
-ea36cf5c582393beef27b08d064333ec
+
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
-from random import seed
-seed(1600)
 %INPUT
-162,2,
+
 %CODE
 %OUTPUT
-bf9e44d88942327a250019be3281b9ac
+
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
-from random import seed
-seed(1700)
 %INPUT
-164,2,
+
 %CODE
 %OUTPUT
-65c8b7a3364d762b39ab3b47512aeffb
+
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
-from random import seed
-seed(1800)
 %INPUT
-165,5,
+
 %CODE
 %OUTPUT
-30966a4fff945f85c1fa0108b86257aa
+
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
-from random import seed
-seed(1900)
 %INPUT
-112,3,
+
 %CODE
 %OUTPUT
-4f5f5eab64669958deceb605e8f7d2ad
+
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
-from random import seed
-seed(2000)
 %INPUT
-150,3,
+
 %CODE
 %OUTPUT
-dfb82b5efbf11a6129cc7e32c43a39bd

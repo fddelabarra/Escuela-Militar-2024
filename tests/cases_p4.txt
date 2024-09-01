@@ -6,197 +6,196 @@ Case 1
 publico
 %PRECODE
 %INPUT
-100.0, 90.0
+
 %CODE
 %OUTPUT
-509
+
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
--10.0, 90.0
+
 %CODE
 %OUTPUT
-Velocidad incorrecta, tiene que ser mayor a 0
+
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-100.0, 200.0
+
 %CODE
 %OUTPUT
-Angulo incorrecto, tiene que estar entre 0 y 180
+
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
--10.0, 200.0
+
 %CODE
 %OUTPUT
-Ambos valores son incorrectos
+
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-50.0, 45.0
+
 %CODE
 %OUTPUT
-63
+
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-0.0, 45.0
+
 %CODE
 %OUTPUT
-Velocidad incorrecta, tiene que ser mayor a 0
+
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-30.0, 0.0
+
 %CODE
 %OUTPUT
-0
+
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-150.0, 180.0
+
 %CODE
 %OUTPUT
-0
+
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-80.0, 135.0
+
 %CODE
 %OUTPUT
-163
+
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-60.0, -45.0
+
 %CODE
 %OUTPUT
-Angulo incorrecto, tiene que estar entre 0 y 180
+
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-94.0, 45.0
+
 %CODE
 %OUTPUT
-2485938240bf200c26bb356bbbb0fa32
+
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-14.0, 75.0
+
 %CODE
 %OUTPUT
-7c5aba41f53293b712fd86d08ed5b36e
+
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-392.0, 120.0
+
 %CODE
 %OUTPUT
-3977a34a21a2ddb5f2255ec45dc1ccb4
+
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-687.0, 30.0
+
 %CODE
 %OUTPUT
-18e7b58d69d55d698eb6f87482a55a71
+
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-454.0, 90.0
+
 %CODE
 %OUTPUT
-146fbb8287b7c404806493fdd83073c4
+
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-199.0, 45.0
+
 %CODE
 %OUTPUT
-61de977d0a60d512eb5d675fc7fc3b5f
+
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-135.0, 60.0
+
 %CODE
 %OUTPUT
-46a7cca16366fc9d6a92ee77d0f2ee9c
+
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-255.0, 150.0
+
 %CODE
 %OUTPUT
-9e0c9fbe684c115ea5223e35e3c4c6be
+
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-582.0, 135.0
+
 %CODE
 %OUTPUT
-21c80892a4c9e90665c8a43dc01c5a0b
+
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-500.0, 10.0
+
 %CODE
 %OUTPUT
-a5d99f0b68d8429e6a98e8b7765be404
