@@ -8,6 +8,7 @@ publico
 %INPUT
 98.6
 %CODE
+print(fahrenheit_a_celsius(98.6))
 %OUTPUT
 37.0
 %NAME
@@ -18,6 +19,7 @@ publico
 %INPUT
 32.0
 %CODE
+print(fahrenheit_a_celsius(32.0))
 %OUTPUT
 0.0
 %NAME
@@ -28,6 +30,7 @@ publico
 %INPUT
 212.0
 %CODE
+print(fahrenheit_a_celsius(212.0))
 %OUTPUT
 100.0
 %NAME
@@ -38,6 +41,7 @@ publico
 %INPUT
 -40.0
 %CODE
+print(fahrenheit_a_celsius(-40.0))
 %OUTPUT
 -40.0
 %NAME
@@ -48,6 +52,7 @@ publico
 %INPUT
 0.0
 %CODE
+print(fahrenheit_a_celsius(0.0))
 %OUTPUT
 -17.8
 %NAME
@@ -58,6 +63,7 @@ publico
 %INPUT
 100.0
 %CODE
+print(fahrenheit_a_celsius(100.0))
 %OUTPUT
 37.8
 %NAME
@@ -68,6 +74,7 @@ publico
 %INPUT
 68.0
 %CODE
+print(fahrenheit_a_celsius(68.0))
 %OUTPUT
 20.0
 %NAME
@@ -78,6 +85,7 @@ publico
 %INPUT
 -58.0
 %CODE
+print(fahrenheit_a_celsius(-58.0))
 %OUTPUT
 -50.0
 %NAME
@@ -88,6 +96,7 @@ publico
 %INPUT
 451.0
 %CODE
+print(fahrenheit_a_celsius(451.0))
 %OUTPUT
 232.8
 %NAME
@@ -98,6 +107,7 @@ publico
 %INPUT
 85.0
 %CODE
+print(fahrenheit_a_celsius(85.0))
 %OUTPUT
 29.4
 %NAME
@@ -108,6 +118,7 @@ secreto
 %INPUT
 104.0
 %CODE
+print(fahrenheit_a_celsius(104.0))
 %OUTPUT
 56e0fb4dfd2a7caa6092f397f19d80a7
 %NAME
@@ -118,6 +129,7 @@ secreto
 %INPUT
 500.0
 %CODE
+print(fahrenheit_a_celsius(500.0))
 %OUTPUT
 d8b2d3345f5ad6dc0ff59882346f04e8
 %NAME
@@ -128,6 +140,7 @@ secreto
 %INPUT
 -100.0
 %CODE
+print(fahrenheit_a_celsius(-100.0))
 %OUTPUT
 9d7fa49568b8b1da0f99ff1aeecf7e72
 %NAME
@@ -138,6 +151,7 @@ secreto
 %INPUT
 77.0
 %CODE
+print(fahrenheit_a_celsius(77.0))
 %OUTPUT
 25523d8ed0e8ecca39577f0977895c71
 %NAME
@@ -148,6 +162,7 @@ secreto
 %INPUT
 40.0
 %CODE
+print(fahrenheit_a_celsius(40.0))
 %OUTPUT
 341738f6c93bccb12a86aa7deb895df3
 %NAME
@@ -158,6 +173,7 @@ secreto
 %INPUT
 320.0
 %CODE
+print(fahrenheit_a_celsius(320.0))
 %OUTPUT
 f9a192e290865b81e37257a311c6b55d
 %NAME
@@ -168,6 +184,7 @@ secreto
 %INPUT
 150.0
 %CODE
+print(fahrenheit_a_celsius(150.0))
 %OUTPUT
 30a4e95ec738c303d59714cf2e8f1462
 %NAME
@@ -178,6 +195,7 @@ secreto
 %INPUT
 160.0
 %CODE
+print(fahrenheit_a_celsius(160.0))
 %OUTPUT
 17ed1c797ae34d0c9754db57e93ea643
 %NAME
@@ -188,6 +206,7 @@ secreto
 %INPUT
 1000.0
 %CODE
+print(fahrenheit_a_celsius(1000.0))
 %OUTPUT
 b6395c811c343b9e23b0f936147872c1
 %NAME
@@ -198,5 +217,6 @@ secreto
 %INPUT
 1.0
 %CODE
+print(fahrenheit_a_celsius(1.0))
 %OUTPUT
 6ea235632782e5a77b23bc82ebbf9704
