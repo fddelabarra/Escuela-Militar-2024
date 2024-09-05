@@ -7,7 +7,7 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(max(10000, 25000, 15000))
+print(maximo_de_tres(10000, 25000, 15000))
 %OUTPUT
 25000
 %NAME
@@ -17,7 +17,7 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(max(300, 300, 300))
+print(maximo_de_tres(300, 300, 300))
 %OUTPUT
 300
 %NAME
@@ -27,7 +27,7 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(max(1500, 750, 3000))
+print(maximo_de_tres(1500, 750, 3000))
 %OUTPUT
 3000
 %NAME
@@ -37,7 +37,7 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(max(9999, 10000, 10001))
+print(maximo_de_tres(9999, 10000, 10001))
 %OUTPUT
 10001
 %NAME
@@ -47,7 +47,7 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(max(-5, -10, 0))
+print(maximo_de_tres(-5, -10, 0))
 %OUTPUT
 0
 %NAME
@@ -57,7 +57,7 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(max(-20, -30, -10))
+print(maximo_de_tres(-20, -30, -10))
 %OUTPUT
 -10
 %NAME
@@ -67,7 +67,7 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(max(500, 500, 250))
+print(maximo_de_tres(500, 500, 250))
 %OUTPUT
 500
 %NAME
@@ -77,7 +77,7 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(max(12345, 54321, 6789))
+print(maximo_de_tres(12345, 54321, 6789))
 %OUTPUT
 54321
 %NAME
@@ -87,7 +87,7 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(max(0, 100, 50))
+print(maximo_de_tres(0, 100, 50))
 %OUTPUT
 100
 %NAME
@@ -97,7 +97,7 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(max(-100, -200, -150))
+print(maximo_de_tres(-100, -200, -150))
 %OUTPUT
 -100
 %NAME
@@ -107,7 +107,7 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(max(25, 50, 75))
+print(maximo_de_tres(25, 50, 75))
 %OUTPUT
 9f4c0b1fca5cb6f886aa2e54442b1e1b
 %NAME
@@ -117,7 +117,7 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(max(-1000, 0, 1000))
+print(maximo_de_tres(-1000, 0, 1000))
 %OUTPUT
 ad865d2f63b9feb2552c220385fbb7e3
 %NAME
@@ -127,7 +127,7 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(max(2500, 2500, 5000))
+print(maximo_de_tres(2500, 2500, 5000))
 %OUTPUT
 c753594026422daeea1169edbbc80260
 %NAME
@@ -137,7 +137,7 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(max(11111, 22222, 33333))
+print(maximo_de_tres(11111, 22222, 33333))
 %OUTPUT
 c318305bcc43e0d4f2af300ab5dcc05b
 %NAME
@@ -147,7 +147,7 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(max(999999, 888888, 777777))
+print(maximo_de_tres(999999, 888888, 777777))
 %OUTPUT
 d668e9dbda7d1d7385cbb2b118313b12
 %NAME
@@ -157,7 +157,7 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(max(-300, -400, -500))
+print(maximo_de_tres(-300, -400, -500))
 %OUTPUT
 3d6eda3fe34ca535129fb7f99a379a54
 %NAME
@@ -167,7 +167,7 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(max(1, 1, 2))
+print(maximo_de_tres(1, 1, 2))
 %OUTPUT
 26ab0db90d72e28ad0ba1e22ee510510
 %NAME
@@ -177,7 +177,7 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(max(-1, -2, -3))
+print(maximo_de_tres(-1, -2, -3))
 %OUTPUT
 eb844645e8e61de0a4cf4b991e65e63e
 %NAME
@@ -187,7 +187,7 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(max(1000000, 1000000, 999999))
+print(maximo_de_tres(1000000, 1000000, 999999))
 %OUTPUT
 b39ffd5aa5029d696193c8362dcb1d19
 %NAME
@@ -197,6 +197,6 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(max(123, 456, 789))
+print(maximo_de_tres(123, 456, 789))
 %OUTPUT
 aa3f5bb8c988fa9b75a1cdb1dc4d93fc
