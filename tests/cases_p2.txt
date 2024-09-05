@@ -6,8 +6,8 @@ Case 1
 publico
 %PRECODE
 %INPUT
-10000,25000,15000,
 %CODE
+print(max(10000, 25000, 15000))
 %OUTPUT
 25000
 %NAME
@@ -16,8 +16,8 @@ Case 2
 publico
 %PRECODE
 %INPUT
-300,300,300,
 %CODE
+print(max(300, 300, 300))
 %OUTPUT
 300
 %NAME
@@ -26,8 +26,8 @@ Case 3
 publico
 %PRECODE
 %INPUT
-1500,750,3000,
 %CODE
+print(max(1500, 750, 3000))
 %OUTPUT
 3000
 %NAME
@@ -36,8 +36,8 @@ Case 4
 publico
 %PRECODE
 %INPUT
-9999,10000,10001,
 %CODE
+print(max(9999, 10000, 10001))
 %OUTPUT
 10001
 %NAME
@@ -46,8 +46,8 @@ Case 5
 publico
 %PRECODE
 %INPUT
--5,-10,0,
 %CODE
+print(max(-5, -10, 0))
 %OUTPUT
 0
 %NAME
@@ -56,8 +56,8 @@ Case 6
 publico
 %PRECODE
 %INPUT
--20,-30,-10,
 %CODE
+print(max(-20, -30, -10))
 %OUTPUT
 -10
 %NAME
@@ -66,8 +66,8 @@ Case 7
 publico
 %PRECODE
 %INPUT
-500,500,250,
 %CODE
+print(max(500, 500, 250))
 %OUTPUT
 500
 %NAME
@@ -76,8 +76,8 @@ Case 8
 publico
 %PRECODE
 %INPUT
-12345,54321,6789,
 %CODE
+print(max(12345, 54321, 6789))
 %OUTPUT
 54321
 %NAME
@@ -86,8 +86,8 @@ Case 9
 publico
 %PRECODE
 %INPUT
-0,100,50,
 %CODE
+print(max(0, 100, 50))
 %OUTPUT
 100
 %NAME
@@ -96,8 +96,8 @@ Case 10
 publico
 %PRECODE
 %INPUT
--100,-200,-150,
 %CODE
+print(max(-100, -200, -150))
 %OUTPUT
 -100
 %NAME
@@ -106,8 +106,8 @@ Case 1
 secreto
 %PRECODE
 %INPUT
-25,50,75,
 %CODE
+print(max(25, 50, 75))
 %OUTPUT
 9f4c0b1fca5cb6f886aa2e54442b1e1b
 %NAME
@@ -116,8 +116,8 @@ Case 2
 secreto
 %PRECODE
 %INPUT
--1000,0,1000,
 %CODE
+print(max(-1000, 0, 1000))
 %OUTPUT
 ad865d2f63b9feb2552c220385fbb7e3
 %NAME
@@ -126,8 +126,8 @@ Case 3
 secreto
 %PRECODE
 %INPUT
-2500,2500,5000,
 %CODE
+print(max(2500, 2500, 5000))
 %OUTPUT
 c753594026422daeea1169edbbc80260
 %NAME
@@ -136,8 +136,8 @@ Case 4
 secreto
 %PRECODE
 %INPUT
-11111,22222,33333,
 %CODE
+print(max(11111, 22222, 33333))
 %OUTPUT
 c318305bcc43e0d4f2af300ab5dcc05b
 %NAME
@@ -146,8 +146,8 @@ Case 5
 secreto
 %PRECODE
 %INPUT
-999999,888888,777777,
 %CODE
+print(max(999999, 888888, 777777))
 %OUTPUT
 d668e9dbda7d1d7385cbb2b118313b12
 %NAME
@@ -156,8 +156,8 @@ Case 6
 secreto
 %PRECODE
 %INPUT
--300,-400,-500,
 %CODE
+print(max(-300, -400, -500))
 %OUTPUT
 3d6eda3fe34ca535129fb7f99a379a54
 %NAME
@@ -166,8 +166,8 @@ Case 7
 secreto
 %PRECODE
 %INPUT
-1,1,2,
 %CODE
+print(max(1, 1, 2))
 %OUTPUT
 26ab0db90d72e28ad0ba1e22ee510510
 %NAME
@@ -176,8 +176,8 @@ Case 8
 secreto
 %PRECODE
 %INPUT
--1,-2,-3,
 %CODE
+print(max(-1, -2, -3))
 %OUTPUT
 eb844645e8e61de0a4cf4b991e65e63e
 %NAME
@@ -186,8 +186,8 @@ Case 9
 secreto
 %PRECODE
 %INPUT
-1000000,1000000,999999,
 %CODE
+print(max(1000000, 1000000, 999999))
 %OUTPUT
 b39ffd5aa5029d696193c8362dcb1d19
 %NAME
@@ -196,7 +196,7 @@ Case 10
 secreto
 %PRECODE
 %INPUT
-123,456,789,
 %CODE
+print(max(123, 456, 789))
 %OUTPUT
 aa3f5bb8c988fa9b75a1cdb1dc4d93fc
