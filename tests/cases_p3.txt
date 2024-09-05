@@ -6,8 +6,8 @@ Case 1
 publico
 %PRECODE
 %INPUT
-1,2,3,4,
 %CODE
+print(suma_de_cuadrados(1, 2, 3, 4))
 %OUTPUT
 30
 %NAME
@@ -16,8 +16,8 @@ Case 2
 publico
 %PRECODE
 %INPUT
-0,0,0,0,
 %CODE
+print(suma_de_cuadrados(0, 0, 0, 0))
 %OUTPUT
 0
 %NAME
@@ -26,8 +26,8 @@ Case 3
 publico
 %PRECODE
 %INPUT
--1,-2,-3,-4,
 %CODE
+print(suma_de_cuadrados(-1, -2, -3, -4))
 %OUTPUT
 30
 %NAME
@@ -36,8 +36,8 @@ Case 4
 publico
 %PRECODE
 %INPUT
-10,20,30,40,
 %CODE
+print(suma_de_cuadrados(10, 20, 30, 40))
 %OUTPUT
 3000
 %NAME
@@ -46,8 +46,8 @@ Case 5
 publico
 %PRECODE
 %INPUT
-5,5,5,5,
 %CODE
+print(suma_de_cuadrados(5, 5, 5, 5))
 %OUTPUT
 100
 %NAME
@@ -56,8 +56,8 @@ Case 6
 publico
 %PRECODE
 %INPUT
-100,200,300,400,
 %CODE
+print(suma_de_cuadrados(100, 200, 300, 400))
 %OUTPUT
 300000
 %NAME
@@ -66,8 +66,8 @@ Case 7
 publico
 %PRECODE
 %INPUT
--10,-20,-30,-40,
 %CODE
+print(suma_de_cuadrados(-10, -20, -30, -40))
 %OUTPUT
 3000
 %NAME
@@ -76,8 +76,8 @@ Case 8
 publico
 %PRECODE
 %INPUT
-6,7,8,9,
 %CODE
+print(suma_de_cuadrados(6, 7, 8, 9))
 %OUTPUT
 230
 %NAME
@@ -86,8 +86,8 @@ Case 9
 publico
 %PRECODE
 %INPUT
-1,1,1,1,
 %CODE
+print(suma_de_cuadrados(1, 1, 1, 1))
 %OUTPUT
 4
 %NAME
@@ -96,8 +96,8 @@ Case 10
 publico
 %PRECODE
 %INPUT
--100,100,-100,100,
 %CODE
+print(suma_de_cuadrados(-100, 100, -100, 100))
 %OUTPUT
 40000
 %NAME
@@ -106,8 +106,8 @@ Case 1
 secreto
 %PRECODE
 %INPUT
-25,50,75,100,
 %CODE
+print(suma_de_cuadrados(25, 50, 75, 100))
 %OUTPUT
 8951a380bf91e1f35c8d0aae43ec7ff0
 %NAME
@@ -116,8 +116,8 @@ Case 2
 secreto
 %PRECODE
 %INPUT
--1000,0,1000,-1000,
 %CODE
+print(suma_de_cuadrados(-1000, 0, 1000, -1000))
 %OUTPUT
 7a05c0449fc2e13554f87dd2aa7ef612
 %NAME
@@ -126,8 +126,8 @@ Case 3
 secreto
 %PRECODE
 %INPUT
-500,500,500,500,
 %CODE
+print(suma_de_cuadrados(500, 500, 500, 500))
 %OUTPUT
 b39ffd5aa5029d696193c8362dcb1d19
 %NAME
@@ -136,8 +136,8 @@ Case 4
 secreto
 %PRECODE
 %INPUT
-111,222,333,444,
 %CODE
+print(suma_de_cuadrados(111, 222, 333, 444))
 %OUTPUT
 4a568e754f2619206eee0e46ac754bab
 %NAME
@@ -146,8 +146,8 @@ Case 5
 secreto
 %PRECODE
 %INPUT
-999,888,777,666,
 %CODE
+print(suma_de_cuadrados(999, 888, 777, 666))
 %OUTPUT
 352d929df4c90386068fddb54a079d15
 %NAME
@@ -156,8 +156,8 @@ Case 6
 secreto
 %PRECODE
 %INPUT
--300,300,-300,300,
 %CODE
+print(suma_de_cuadrados(-300, 300, -300, 300))
 %OUTPUT
 315646754b4c4aba9af5ef3c79d88dd1
 %NAME
@@ -166,8 +166,8 @@ Case 7
 secreto
 %PRECODE
 %INPUT
-1,2,3,4,
 %CODE
+print(suma_de_cuadrados(1, 2, 3, 4))
 %OUTPUT
 d5b4c7d9b06b60a7846c4529834c9812
 %NAME
@@ -176,8 +176,8 @@ Case 8
 secreto
 %PRECODE
 %INPUT
--1,-2,-3,-4,
 %CODE
+print(suma_de_cuadrados(-1, -2, -3, -4))
 %OUTPUT
 d5b4c7d9b06b60a7846c4529834c9812
 %NAME
@@ -186,8 +186,8 @@ Case 9
 secreto
 %PRECODE
 %INPUT
-1000,1000,1000,1000,
 %CODE
+print(suma_de_cuadrados(1000, 1000, 1000, 1000))
 %OUTPUT
 117bde3c12d75d4febc958d034b466cc
 %NAME
@@ -196,7 +196,7 @@ Case 10
 secreto
 %PRECODE
 %INPUT
-123,456,789,101,
 %CODE
+print(suma_de_cuadrados(123, 456, 789, 101))
 %OUTPUT
 def0f4146ed612199f38d75949fa19b1
