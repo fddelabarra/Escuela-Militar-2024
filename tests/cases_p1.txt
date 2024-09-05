@@ -6,7 +6,6 @@ Case 1
 publico
 %PRECODE
 %INPUT
-98.6
 %CODE
 print(fahrenheit_a_celsius(98.6))
 %OUTPUT
@@ -17,7 +16,6 @@ Case 2
 publico
 %PRECODE
 %INPUT
-32.0
 %CODE
 print(fahrenheit_a_celsius(32.0))
 %OUTPUT
@@ -28,7 +26,6 @@ Case 3
 publico
 %PRECODE
 %INPUT
-212.0
 %CODE
 print(fahrenheit_a_celsius(212.0))
 %OUTPUT
@@ -39,7 +36,6 @@ Case 4
 publico
 %PRECODE
 %INPUT
--40.0
 %CODE
 print(fahrenheit_a_celsius(-40.0))
 %OUTPUT
@@ -50,7 +46,6 @@ Case 5
 publico
 %PRECODE
 %INPUT
-0.0
 %CODE
 print(fahrenheit_a_celsius(0.0))
 %OUTPUT
@@ -61,7 +56,6 @@ Case 6
 publico
 %PRECODE
 %INPUT
-100.0
 %CODE
 print(fahrenheit_a_celsius(100.0))
 %OUTPUT
@@ -72,7 +66,6 @@ Case 7
 publico
 %PRECODE
 %INPUT
-68.0
 %CODE
 print(fahrenheit_a_celsius(68.0))
 %OUTPUT
@@ -83,7 +76,6 @@ Case 8
 publico
 %PRECODE
 %INPUT
--58.0
 %CODE
 print(fahrenheit_a_celsius(-58.0))
 %OUTPUT
@@ -94,7 +86,6 @@ Case 9
 publico
 %PRECODE
 %INPUT
-451.0
 %CODE
 print(fahrenheit_a_celsius(451.0))
 %OUTPUT
@@ -105,7 +96,6 @@ Case 10
 publico
 %PRECODE
 %INPUT
-85.0
 %CODE
 print(fahrenheit_a_celsius(85.0))
 %OUTPUT
@@ -116,7 +106,6 @@ Case 1
 secreto
 %PRECODE
 %INPUT
-104.0
 %CODE
 print(fahrenheit_a_celsius(104.0))
 %OUTPUT
@@ -127,7 +116,6 @@ Case 2
 secreto
 %PRECODE
 %INPUT
-500.0
 %CODE
 print(fahrenheit_a_celsius(500.0))
 %OUTPUT
@@ -138,7 +126,6 @@ Case 3
 secreto
 %PRECODE
 %INPUT
--100.0
 %CODE
 print(fahrenheit_a_celsius(-100.0))
 %OUTPUT
@@ -149,7 +136,6 @@ Case 4
 secreto
 %PRECODE
 %INPUT
-77.0
 %CODE
 print(fahrenheit_a_celsius(77.0))
 %OUTPUT
@@ -160,7 +146,6 @@ Case 5
 secreto
 %PRECODE
 %INPUT
-40.0
 %CODE
 print(fahrenheit_a_celsius(40.0))
 %OUTPUT
@@ -171,7 +156,6 @@ Case 6
 secreto
 %PRECODE
 %INPUT
-320.0
 %CODE
 print(fahrenheit_a_celsius(320.0))
 %OUTPUT
@@ -182,7 +166,6 @@ Case 7
 secreto
 %PRECODE
 %INPUT
-150.0
 %CODE
 print(fahrenheit_a_celsius(150.0))
 %OUTPUT
@@ -193,7 +176,6 @@ Case 8
 secreto
 %PRECODE
 %INPUT
-160.0
 %CODE
 print(fahrenheit_a_celsius(160.0))
 %OUTPUT
@@ -204,7 +186,6 @@ Case 9
 secreto
 %PRECODE
 %INPUT
-1000.0
 %CODE
 print(fahrenheit_a_celsius(1000.0))
 %OUTPUT
@@ -215,7 +196,6 @@ Case 10
 secreto
 %PRECODE
 %INPUT
-1.0
 %CODE
 print(fahrenheit_a_celsius(1.0))
 %OUTPUT
