@@ -93,8 +93,8 @@ Case 9
 publico
 %PRECODE
 %INPUT
-print(frio_calor(24))
 %CODE
+print(frio_calor(24))
 %OUTPUT
 Hoy hara calor, saldre con ropa delgada
 None
@@ -129,7 +129,7 @@ secreto
 %CODE
 print(frio_calor(-6))
 %OUTPUT
-bea192a1a4b0456885a35bbf5e5cccc7
+77abe10bf8e17006dec5f930c71f0df9
 %NAME
 Case 3
 %TYPE
@@ -149,7 +149,7 @@ secreto
 %CODE
 print(frio_calor(-7))
 %OUTPUT
-bea192a1a4b0456885a35bbf5e5cccc7
+77abe10bf8e17006dec5f930c71f0df9
 %NAME
 Case 5
 %TYPE
@@ -169,7 +169,7 @@ secreto
 %CODE
 print(frio_calor(19))
 %OUTPUT
-b36f05d95991da75c0789886815882c5
+ed508c6d19565d0d5e01de3ffd3bb341
 %NAME
 Case 7
 %TYPE
@@ -189,7 +189,7 @@ secreto
 %CODE
 print(frio_calor(35))
 %OUTPUT
-b36f05d95991da75c0789886815882c5
+ed508c6d19565d0d5e01de3ffd3bb341
 %NAME
 Case 9
 %TYPE
@@ -209,4 +209,4 @@ secreto
 %CODE
 print(frio_calor(0))
 %OUTPUT
-bea192a1a4b0456885a35bbf5e5cccc7
+77abe10bf8e17006dec5f930c71f0df9
