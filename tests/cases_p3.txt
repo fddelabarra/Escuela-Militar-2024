@@ -18,9 +18,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(es_verdad(8586, 429))
+es_verdad(15, 20)
 %OUTPUT
-El primer numero es mayor al segundo
+El segundo numero es mayor al primero
 True
 %NAME
 Case 3
@@ -29,7 +29,8 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(es_verdad(1914, 8850))
+resultado = es_verdad(1914, 8850)
+print(resultado)
 %OUTPUT
 El segundo numero es mayor al primero
 False
@@ -56,6 +57,30 @@ print(es_verdad(1467, 8372))
 El segundo numero es mayor al primero
 False
 %NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+es_verdad(8364, 4660)
+%OUTPUT
+El primer numero es mayor al segundo
+%NAME
+Case 7
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+resultado = es_verdad(1719, 7101)
+print()
+print(resultado)
+%OUTPUT
+El segundo numero es mayor al primero
+
+False
+%NAME
 Case 1
 %TYPE
 secreto
@@ -72,9 +97,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(es_verdad(7311, 8359))
+es_verdad(6765, 2023)
 %OUTPUT
-2cf28ad8d81c2fc32532ffa2db2d86ff
+bcdfa5138a685ed30229d7013449e372
 %NAME
 Case 3
 %TYPE
@@ -122,9 +147,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(es_verdad(5831, 4677))
+es_verdad(661, 2864)
 %OUTPUT
-ea331e9af35abf875e86f21b08165676
+8f2ebc1c54c7dd25b6d0b1ff7e08ef72
 %NAME
 Case 8
 %TYPE
