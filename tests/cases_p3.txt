@@ -21,7 +21,6 @@ publico
 es_verdad(15, 20)
 %OUTPUT
 El segundo numero es mayor al primero
-True
 %NAME
 Case 3
 %TYPE
