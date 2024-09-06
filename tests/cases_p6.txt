@@ -7,9 +7,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(10000, 25000, 15000))
+print(suma_de_cuadrados(1, 2, 3, 4))
 %OUTPUT
-25000
+30
 %NAME
 Case 2
 %TYPE
@@ -17,9 +17,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(300, 300, 300))
+print(suma_de_cuadrados(0, 0, 0, 0))
 %OUTPUT
-300
+0
 %NAME
 Case 3
 %TYPE
@@ -27,9 +27,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(1500, 750, 3000))
+print(suma_de_cuadrados(-1, -2, -3, -4))
 %OUTPUT
-3000
+30
 %NAME
 Case 4
 %TYPE
@@ -37,9 +37,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(9999, 10000, 10001))
+print(suma_de_cuadrados(10, 20, 30, 40))
 %OUTPUT
-10001
+3000
 %NAME
 Case 5
 %TYPE
@@ -47,9 +47,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(-5, -10, 0))
+print(suma_de_cuadrados(5, 5, 5, 5))
 %OUTPUT
-0
+100
 %NAME
 Case 6
 %TYPE
@@ -57,9 +57,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(-20, -30, -10))
+print(suma_de_cuadrados(100, 200, 300, 400))
 %OUTPUT
--10
+300000
 %NAME
 Case 7
 %TYPE
@@ -67,9 +67,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(500, 500, 250))
+print(suma_de_cuadrados(-10, -20, -30, -40))
 %OUTPUT
-500
+3000
 %NAME
 Case 8
 %TYPE
@@ -77,9 +77,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(12345, 54321, 6789))
+print(suma_de_cuadrados(6, 7, 8, 9))
 %OUTPUT
-54321
+230
 %NAME
 Case 9
 %TYPE
@@ -87,9 +87,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(0, 100, 50))
+print(suma_de_cuadrados(1, 1, 1, 1))
 %OUTPUT
-100
+4
 %NAME
 Case 10
 %TYPE
@@ -97,9 +97,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(-100, -200, -150))
+print(suma_de_cuadrados(-100, 100, -100, 100))
 %OUTPUT
--100
+40000
 %NAME
 Case 1
 %TYPE
@@ -107,9 +107,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(25, 50, 75))
+print(suma_de_cuadrados(25, 50, 75, 100))
 %OUTPUT
-9f4c0b1fca5cb6f886aa2e54442b1e1b
+8951a380bf91e1f35c8d0aae43ec7ff0
 %NAME
 Case 2
 %TYPE
@@ -117,9 +117,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(-1000, 0, 1000))
+print(suma_de_cuadrados(-1000, 0, 1000, -1000))
 %OUTPUT
-ad865d2f63b9feb2552c220385fbb7e3
+7a05c0449fc2e13554f87dd2aa7ef612
 %NAME
 Case 3
 %TYPE
@@ -127,9 +127,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(2500, 2500, 5000))
+print(suma_de_cuadrados(500, 500, 500, 500))
 %OUTPUT
-c753594026422daeea1169edbbc80260
+b39ffd5aa5029d696193c8362dcb1d19
 %NAME
 Case 4
 %TYPE
@@ -137,9 +137,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(11111, 22222, 33333))
+print(suma_de_cuadrados(111, 222, 333, 444))
 %OUTPUT
-c318305bcc43e0d4f2af300ab5dcc05b
+4a568e754f2619206eee0e46ac754bab
 %NAME
 Case 5
 %TYPE
@@ -147,9 +147,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(999999, 888888, 777777))
+print(suma_de_cuadrados(999, 888, 777, 666))
 %OUTPUT
-d668e9dbda7d1d7385cbb2b118313b12
+352d929df4c90386068fddb54a079d15
 %NAME
 Case 6
 %TYPE
@@ -157,9 +157,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(-300, -400, -500))
+print(suma_de_cuadrados(-300, 300, -300, 300))
 %OUTPUT
-3d6eda3fe34ca535129fb7f99a379a54
+315646754b4c4aba9af5ef3c79d88dd1
 %NAME
 Case 7
 %TYPE
@@ -167,9 +167,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(1, 1, 2))
+print(suma_de_cuadrados(1, 2, 3, 4))
 %OUTPUT
-26ab0db90d72e28ad0ba1e22ee510510
+d5b4c7d9b06b60a7846c4529834c9812
 %NAME
 Case 8
 %TYPE
@@ -177,9 +177,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(-1, -2, -3))
+print(suma_de_cuadrados(-1, -2, -3, -4))
 %OUTPUT
-eb844645e8e61de0a4cf4b991e65e63e
+d5b4c7d9b06b60a7846c4529834c9812
 %NAME
 Case 9
 %TYPE
@@ -187,9 +187,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(1000000, 1000000, 999999))
+print(suma_de_cuadrados(1000, 1000, 1000, 1000))
 %OUTPUT
-b39ffd5aa5029d696193c8362dcb1d19
+117bde3c12d75d4febc958d034b466cc
 %NAME
 Case 10
 %TYPE
@@ -197,6 +197,6 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(123, 456, 789))
+print(suma_de_cuadrados(123, 456, 789, 101))
 %OUTPUT
-aa3f5bb8c988fa9b75a1cdb1dc4d93fc
+def0f4146ed612199f38d75949fa19b1
