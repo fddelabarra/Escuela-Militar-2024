@@ -7,9 +7,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(fahrenheit_a_celsius(98.6))
+print(area_de_cuadrado(5))
 %OUTPUT
-37.0
+25
 %NAME
 Case 2
 %TYPE
@@ -17,9 +17,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(fahrenheit_a_celsius(32.0))
+print(area_de_cuadrado(100))
 %OUTPUT
-0.0
+10000
 %NAME
 Case 3
 %TYPE
@@ -27,9 +27,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(fahrenheit_a_celsius(212.0))
+print(area_de_cuadrado(74))
 %OUTPUT
-100.0
+5476
 %NAME
 Case 4
 %TYPE
@@ -37,9 +37,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(fahrenheit_a_celsius(-40.0))
+print(area_de_cuadrado(53686))
 %OUTPUT
--40.0
+2882186596
 %NAME
 Case 5
 %TYPE
@@ -47,9 +47,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(fahrenheit_a_celsius(0.0))
+print(area_de_cuadrado(73635))
 %OUTPUT
--17.8
+5422113225
 %NAME
 Case 6
 %TYPE
@@ -57,9 +57,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(fahrenheit_a_celsius(100.0))
+print(area_de_cuadrado(19036))
 %OUTPUT
-37.8
+362369296
 %NAME
 Case 7
 %TYPE
@@ -67,9 +67,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(fahrenheit_a_celsius(68.0))
+print(area_de_cuadrado(18901))
 %OUTPUT
-20.0
+357247801
 %NAME
 Case 8
 %TYPE
@@ -77,9 +77,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(fahrenheit_a_celsius(-58.0))
+print(area_de_cuadrado(25064))
 %OUTPUT
--50.0
+628204096
 %NAME
 Case 9
 %TYPE
@@ -87,9 +87,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(fahrenheit_a_celsius(451.0))
+print(area_de_cuadrado(39106))
 %OUTPUT
-232.8
+1529279236
 %NAME
 Case 10
 %TYPE
@@ -97,9 +97,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(fahrenheit_a_celsius(85.0))
+print(area_de_cuadrado(72904))
 %OUTPUT
-29.4
+5314993216
 %NAME
 Case 1
 %TYPE
@@ -107,9 +107,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(fahrenheit_a_celsius(104.0))
+print(area_de_cuadrado(82624))
 %OUTPUT
-56e0fb4dfd2a7caa6092f397f19d80a7
+a17acad50e1d7a36c5f6f62f8252b1f4
 %NAME
 Case 2
 %TYPE
@@ -117,9 +117,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(fahrenheit_a_celsius(500.0))
+print(area_de_cuadrado(71972))
 %OUTPUT
-d8b2d3345f5ad6dc0ff59882346f04e8
+ed92a59905d8988051b4c65a841c1b01
 %NAME
 Case 3
 %TYPE
@@ -127,9 +127,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(fahrenheit_a_celsius(-100.0))
+print(area_de_cuadrado(49940))
 %OUTPUT
-9d7fa49568b8b1da0f99ff1aeecf7e72
+bec5c5bbb3d6695ae64f986291af6193
 %NAME
 Case 4
 %TYPE
@@ -137,9 +137,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(fahrenheit_a_celsius(77.0))
+print(area_de_cuadrado(6038))
 %OUTPUT
-25523d8ed0e8ecca39577f0977895c71
+fa404b22ec8c7b4fd0b1381349197f59
 %NAME
 Case 5
 %TYPE
@@ -147,9 +147,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(fahrenheit_a_celsius(40.0))
+print(area_de_cuadrado(1967))
 %OUTPUT
-341738f6c93bccb12a86aa7deb895df3
+7c6af7418ac8da864346a7d10358b261
 %NAME
 Case 6
 %TYPE
@@ -157,9 +157,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(fahrenheit_a_celsius(320.0))
+print(area_de_cuadrado(40035))
 %OUTPUT
-f9a192e290865b81e37257a311c6b55d
+c0770fb8716a26392d8f00988bdffa3c
 %NAME
 Case 7
 %TYPE
@@ -167,9 +167,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(fahrenheit_a_celsius(150.0))
+print(area_de_cuadrado(47178))
 %OUTPUT
-30a4e95ec738c303d59714cf2e8f1462
+2cabc65bfd7121b557b834a6a06e064a
 %NAME
 Case 8
 %TYPE
@@ -177,9 +177,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(fahrenheit_a_celsius(160.0))
+print(area_de_cuadrado(4367))
 %OUTPUT
-17ed1c797ae34d0c9754db57e93ea643
+2ff0a9041e11fabe818db33cdc341e74
 %NAME
 Case 9
 %TYPE
@@ -187,9 +187,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(fahrenheit_a_celsius(1000.0))
+print(area_de_cuadrado(95675))
 %OUTPUT
-b6395c811c343b9e23b0f936147872c1
+f70c1daf8f241a2d3ac3cba32245975e
 %NAME
 Case 10
 %TYPE
@@ -197,6 +197,6 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(fahrenheit_a_celsius(1.0))
+print(area_de_cuadrado(45151))
 %OUTPUT
-6ea235632782e5a77b23bc82ebbf9704
+13dd683f8cd30f90f58f70cac21b5675

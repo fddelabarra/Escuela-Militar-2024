@@ -7,9 +7,10 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(suma_de_cuadrados(1, 2, 3, 4))
+print(es_verdad(15, 20))
 %OUTPUT
-30
+El segundo numero es mayor al primero
+False
 %NAME
 Case 2
 %TYPE
@@ -17,9 +18,10 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(suma_de_cuadrados(0, 0, 0, 0))
+print(es_verdad(8586, 429))
 %OUTPUT
-0
+El primer numero es mayor al segundo
+True
 %NAME
 Case 3
 %TYPE
@@ -27,9 +29,10 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(suma_de_cuadrados(-1, -2, -3, -4))
+print(es_verdad(1914, 8850))
 %OUTPUT
-30
+El segundo numero es mayor al primero
+False
 %NAME
 Case 4
 %TYPE
@@ -37,9 +40,10 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(suma_de_cuadrados(10, 20, 30, 40))
+print(es_verdad(6023, 707))
 %OUTPUT
-3000
+El primer numero es mayor al segundo
+True
 %NAME
 Case 5
 %TYPE
@@ -47,59 +51,10 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(suma_de_cuadrados(5, 5, 5, 5))
+print(es_verdad(1467, 8372))
 %OUTPUT
-100
-%NAME
-Case 6
-%TYPE
-publico
-%PRECODE
-%INPUT
-%CODE
-print(suma_de_cuadrados(100, 200, 300, 400))
-%OUTPUT
-300000
-%NAME
-Case 7
-%TYPE
-publico
-%PRECODE
-%INPUT
-%CODE
-print(suma_de_cuadrados(-10, -20, -30, -40))
-%OUTPUT
-3000
-%NAME
-Case 8
-%TYPE
-publico
-%PRECODE
-%INPUT
-%CODE
-print(suma_de_cuadrados(6, 7, 8, 9))
-%OUTPUT
-230
-%NAME
-Case 9
-%TYPE
-publico
-%PRECODE
-%INPUT
-%CODE
-print(suma_de_cuadrados(1, 1, 1, 1))
-%OUTPUT
-4
-%NAME
-Case 10
-%TYPE
-publico
-%PRECODE
-%INPUT
-%CODE
-print(suma_de_cuadrados(-100, 100, -100, 100))
-%OUTPUT
-40000
+El segundo numero es mayor al primero
+False
 %NAME
 Case 1
 %TYPE
@@ -107,9 +62,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(suma_de_cuadrados(25, 50, 75, 100))
+print(es_verdad(5439, 1657))
 %OUTPUT
-8951a380bf91e1f35c8d0aae43ec7ff0
+ea331e9af35abf875e86f21b08165676
 %NAME
 Case 2
 %TYPE
@@ -117,9 +72,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(suma_de_cuadrados(-1000, 0, 1000, -1000))
+print(es_verdad(7311, 8359))
 %OUTPUT
-7a05c0449fc2e13554f87dd2aa7ef612
+2cf28ad8d81c2fc32532ffa2db2d86ff
 %NAME
 Case 3
 %TYPE
@@ -127,9 +82,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(suma_de_cuadrados(500, 500, 500, 500))
+print(es_verdad(5380, 1272))
 %OUTPUT
-b39ffd5aa5029d696193c8362dcb1d19
+ea331e9af35abf875e86f21b08165676
 %NAME
 Case 4
 %TYPE
@@ -137,9 +92,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(suma_de_cuadrados(111, 222, 333, 444))
+print(es_verdad(2950, 7003))
 %OUTPUT
-4a568e754f2619206eee0e46ac754bab
+2cf28ad8d81c2fc32532ffa2db2d86ff
 %NAME
 Case 5
 %TYPE
@@ -147,9 +102,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(suma_de_cuadrados(999, 888, 777, 666))
+print(es_verdad(1402, 6663))
 %OUTPUT
-352d929df4c90386068fddb54a079d15
+2cf28ad8d81c2fc32532ffa2db2d86ff
 %NAME
 Case 6
 %TYPE
@@ -157,9 +112,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(suma_de_cuadrados(-300, 300, -300, 300))
+print(es_verdad(5591, 7838))
 %OUTPUT
-315646754b4c4aba9af5ef3c79d88dd1
+2cf28ad8d81c2fc32532ffa2db2d86ff
 %NAME
 Case 7
 %TYPE
@@ -167,9 +122,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(suma_de_cuadrados(1, 2, 3, 4))
+print(es_verdad(5831, 4677))
 %OUTPUT
-d5b4c7d9b06b60a7846c4529834c9812
+ea331e9af35abf875e86f21b08165676
 %NAME
 Case 8
 %TYPE
@@ -177,9 +132,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(suma_de_cuadrados(-1, -2, -3, -4))
+print(es_verdad(6283, 5051))
 %OUTPUT
-d5b4c7d9b06b60a7846c4529834c9812
+ea331e9af35abf875e86f21b08165676
 %NAME
 Case 9
 %TYPE
@@ -187,9 +142,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(suma_de_cuadrados(1000, 1000, 1000, 1000))
+print(es_verdad(414, 5864))
 %OUTPUT
-117bde3c12d75d4febc958d034b466cc
+2cf28ad8d81c2fc32532ffa2db2d86ff
 %NAME
 Case 10
 %TYPE
@@ -197,6 +152,6 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(suma_de_cuadrados(123, 456, 789, 101))
+print(es_verdad(3561, 7466))
 %OUTPUT
-def0f4146ed612199f38d75949fa19b1
+2cf28ad8d81c2fc32532ffa2db2d86ff

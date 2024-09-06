@@ -6,196 +6,197 @@ Case 1
 publico
 %PRECODE
 %INPUT
-
 %CODE
+verificar_primo(7)
 %OUTPUT
-
+El número 7 es primo
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-
 %CODE
+verificar_primo(10)
 %OUTPUT
-
+El número 10 no es primo
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-
 %CODE
+verificar_primo(13)
 %OUTPUT
-
+El número 13 es primo
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-
 %CODE
+verificar_primo(1)
 %OUTPUT
-
+El número 1 no es primo
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-
 %CODE
+verificar_primo(29)
 %OUTPUT
-
+El número 29 es primo
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-
 %CODE
+verificar_primo(4)
 %OUTPUT
-
+El número 4 no es primo
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-
 %CODE
+verificar_primo(2)
 %OUTPUT
-
+El número 2 es primo
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-
 %CODE
+verificar_primo(9)
 %OUTPUT
-
+El número 9 no es primo
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-
 %CODE
+verificar_primo(11)
 %OUTPUT
-
+El número 11 es primo
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-
 %CODE
+verificar_primo(15)
 %OUTPUT
-
+El número 15 no es primo
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
 %CODE
+verificar_primo(97)
 %OUTPUT
-
+23736a532fd41dd362c579acb93d56f8
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
 %CODE
+verificar_primo(100)
 %OUTPUT
-
+6a6fc7d50196867ca25322a77bfc49ed
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
 %CODE
+verificar_primo(103)
 %OUTPUT
-
+a0a4a16e92e5aae759893ff3a4245f22
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
 %CODE
+verificar_primo(50)
 %OUTPUT
-
+86b147a7baf55ba06a218ca00fad2247
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
 %CODE
+verificar_primo(89)
 %OUTPUT
-
+d30ce0336bd6ac19f995f1d511a51710
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
 %CODE
+verificar_primo(37)
 %OUTPUT
-
+3aa64c5fa630f1e0f874ccc8634fe99b
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
 %CODE
+verificar_primo(121)
 %OUTPUT
-
+eccdaf323f3763d2a841b7abb78f3aae
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
 %CODE
+verificar_primo(199)
 %OUTPUT
-
+40c79601a6f1c4801f1a2f6e927bd75a
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
 %CODE
+verificar_primo(77)
 %OUTPUT
-
+0b53c37390644c45b1ae2d7becad9cb5
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-
 %CODE
+verificar_primo(200)
 %OUTPUT
+e263f0ff8e8a13cc11d6881d4833277c
