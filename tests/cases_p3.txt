@@ -7,10 +7,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(es_verdad(15, 20))
+
 %OUTPUT
-El segundo numero es mayor al primero
-False
+
 %NAME
 Case 2
 %TYPE
@@ -18,9 +17,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-es_verdad(15, 20)
+
 %OUTPUT
-El segundo numero es mayor al primero
+
 %NAME
 Case 3
 %TYPE
@@ -28,11 +27,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-resultado = es_verdad(1914, 8850)
-print(resultado)
+
 %OUTPUT
-El segundo numero es mayor al primero
-False
+
 %NAME
 Case 4
 %TYPE
@@ -40,10 +37,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(es_verdad(6023, 707))
+
 %OUTPUT
-El primer numero es mayor al segundo
-True
+
 %NAME
 Case 5
 %TYPE
@@ -51,10 +47,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(es_verdad(1467, 8372))
+
 %OUTPUT
-El segundo numero es mayor al primero
-False
+
 %NAME
 Case 6
 %TYPE
@@ -62,9 +57,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-es_verdad(8364, 4660)
+
 %OUTPUT
-El primer numero es mayor al segundo
+
 %NAME
 Case 7
 %TYPE
@@ -72,13 +67,39 @@ publico
 %PRECODE
 %INPUT
 %CODE
-resultado = es_verdad(1719, 7101)
-print()
-print(resultado)
-%OUTPUT
-El segundo numero es mayor al primero
 
-False
+%OUTPUT
+
+%NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+
+%OUTPUT
+
+%NAME
+Case 9
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+
+%OUTPUT
+
+%NAME
+Case 10
+%TYPE
+publico
+%PRECODE
+%INPUT
+%CODE
+
+%OUTPUT
+
 %NAME
 Case 1
 %TYPE
@@ -86,9 +107,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(es_verdad(5439, 1657))
+
 %OUTPUT
-ea331e9af35abf875e86f21b08165676
+
 %NAME
 Case 2
 %TYPE
@@ -96,9 +117,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-es_verdad(6765, 2023)
+
 %OUTPUT
-bcdfa5138a685ed30229d7013449e372
+
 %NAME
 Case 3
 %TYPE
@@ -106,9 +127,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(es_verdad(5380, 1272))
+
 %OUTPUT
-ea331e9af35abf875e86f21b08165676
+
 %NAME
 Case 4
 %TYPE
@@ -116,9 +137,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(es_verdad(2950, 7003))
+
 %OUTPUT
-2cf28ad8d81c2fc32532ffa2db2d86ff
+
 %NAME
 Case 5
 %TYPE
@@ -126,9 +147,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(es_verdad(1402, 6663))
+
 %OUTPUT
-2cf28ad8d81c2fc32532ffa2db2d86ff
+
 %NAME
 Case 6
 %TYPE
@@ -136,9 +157,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(es_verdad(5591, 7838))
+
 %OUTPUT
-2cf28ad8d81c2fc32532ffa2db2d86ff
+
 %NAME
 Case 7
 %TYPE
@@ -146,9 +167,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-es_verdad(661, 2864)
+
 %OUTPUT
-8f2ebc1c54c7dd25b6d0b1ff7e08ef72
+
 %NAME
 Case 8
 %TYPE
@@ -156,9 +177,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(es_verdad(6283, 5051))
+
 %OUTPUT
-ea331e9af35abf875e86f21b08165676
+
 %NAME
 Case 9
 %TYPE
@@ -166,9 +187,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(es_verdad(414, 5864))
+
 %OUTPUT
-2cf28ad8d81c2fc32532ffa2db2d86ff
+
 %NAME
 Case 10
 %TYPE
@@ -176,6 +197,5 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(es_verdad(3561, 7466))
+
 %OUTPUT
-2cf28ad8d81c2fc32532ffa2db2d86ff

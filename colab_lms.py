@@ -1,7 +1,7 @@
 import diff_match_patch as dmp_module
 global DEBUG_LOCAL
 DEBUG_LOCAL = False
-PATH_CASES = 'https://raw.githubusercontent.com/fddelabarra/Escuela-Militar-2024/Guia-6/cases_urls.txt'
+PATH_CASES = 'https://raw.githubusercontent.com/fddelabarra/Escuela-Militar-2024/Guia-7/cases_urls.txt'
 
 ###################################################################################################################################
 import io, sys, traceback, hashlib, urllib.request

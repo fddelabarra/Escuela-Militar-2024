@@ -7,9 +7,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-frio_calor(-2)
+
 %OUTPUT
-Que frio, tendre que abrigarme
+
 %NAME
 Case 2
 %TYPE
@@ -17,10 +17,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(frio_calor(-2))
+
 %OUTPUT
-Que frio, tendre que abrigarme
-None
+
 %NAME
 Case 3
 %TYPE
@@ -28,9 +27,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-frio_calor(36)
+
 %OUTPUT
-Hoy hara calor, saldre con ropa delgada
+
 %NAME
 Case 4
 %TYPE
@@ -38,10 +37,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(frio_calor(36))
+
 %OUTPUT
-Hoy hara calor, saldre con ropa delgada
-None
+
 %NAME
 Case 5
 %TYPE
@@ -49,13 +47,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-resultado = frio_calor(19)
-print()
-print(resultado)
-%OUTPUT
-Hoy hara calor, saldre con ropa delgada
 
-None
+%OUTPUT
+
 %NAME
 Case 6
 %TYPE
@@ -63,10 +57,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(frio_calor(19))
+
 %OUTPUT
-Hoy hara calor, saldre con ropa delgada
-None
+
 %NAME
 Case 7
 %TYPE
@@ -74,9 +67,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-resultado = frio_calor(3)
+
 %OUTPUT
-Que frio, tendre que abrigarme
+
 %NAME
 Case 8
 %TYPE
@@ -84,9 +77,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-resultado = frio_calor(24)
+
 %OUTPUT
-Hoy hara calor, saldre con ropa delgada
+
 %NAME
 Case 9
 %TYPE
@@ -94,10 +87,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(frio_calor(24))
+
 %OUTPUT
-Hoy hara calor, saldre con ropa delgada
-None
+
 %NAME
 Case 10
 %TYPE
@@ -105,11 +97,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-resultado = frio_calor(-3)
-print("Esta funcion imprime", resultado)
+
 %OUTPUT
-Que frio, tendre que abrigarme
-Esta funcion imprime None
+
 %NAME
 Case 1
 %TYPE
@@ -117,9 +107,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-frio_calor(-6)
+
 %OUTPUT
-bea192a1a4b0456885a35bbf5e5cccc7
+
 %NAME
 Case 2
 %TYPE
@@ -127,9 +117,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(frio_calor(-6))
+
 %OUTPUT
-77abe10bf8e17006dec5f930c71f0df9
+
 %NAME
 Case 3
 %TYPE
@@ -137,9 +127,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-frio_calor(-7)
+
 %OUTPUT
-bea192a1a4b0456885a35bbf5e5cccc7
+
 %NAME
 Case 4
 %TYPE
@@ -147,9 +137,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(frio_calor(-7))
+
 %OUTPUT
-77abe10bf8e17006dec5f930c71f0df9
+
 %NAME
 Case 5
 %TYPE
@@ -157,9 +147,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-frio_calor(19)
+
 %OUTPUT
-b36f05d95991da75c0789886815882c5
+
 %NAME
 Case 6
 %TYPE
@@ -167,9 +157,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(frio_calor(19))
+
 %OUTPUT
-ed508c6d19565d0d5e01de3ffd3bb341
+
 %NAME
 Case 7
 %TYPE
@@ -177,9 +167,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-frio_calor(35)
+
 %OUTPUT
-b36f05d95991da75c0789886815882c5
+
 %NAME
 Case 8
 %TYPE
@@ -187,9 +177,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(frio_calor(35))
+
 %OUTPUT
-ed508c6d19565d0d5e01de3ffd3bb341
+
 %NAME
 Case 9
 %TYPE
@@ -197,9 +187,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-frio_calor(0)
+
 %OUTPUT
-bea192a1a4b0456885a35bbf5e5cccc7
+
 %NAME
 Case 10
 %TYPE
@@ -207,6 +197,5 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(frio_calor(0))
+
 %OUTPUT
-77abe10bf8e17006dec5f930c71f0df9

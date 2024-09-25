@@ -7,9 +7,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(10000, 25000, 15000))
+
 %OUTPUT
-25000
+
 %NAME
 Case 2
 %TYPE
@@ -17,9 +17,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(300, 300, 300))
+
 %OUTPUT
-300
+
 %NAME
 Case 3
 %TYPE
@@ -27,9 +27,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(1500, 750, 3000))
+
 %OUTPUT
-3000
+
 %NAME
 Case 4
 %TYPE
@@ -37,9 +37,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(9999, 10000, 10001))
+
 %OUTPUT
-10001
+
 %NAME
 Case 5
 %TYPE
@@ -47,9 +47,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(-5, -10, 0))
+
 %OUTPUT
-0
+
 %NAME
 Case 6
 %TYPE
@@ -57,9 +57,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(-20, -30, -10))
+
 %OUTPUT
--10
+
 %NAME
 Case 7
 %TYPE
@@ -67,9 +67,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(500, 500, 250))
+
 %OUTPUT
-500
+
 %NAME
 Case 8
 %TYPE
@@ -77,9 +77,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(12345, 54321, 6789))
+
 %OUTPUT
-54321
+
 %NAME
 Case 9
 %TYPE
@@ -87,9 +87,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(0, 100, 50))
+
 %OUTPUT
-100
+
 %NAME
 Case 10
 %TYPE
@@ -97,9 +97,9 @@ publico
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(-100, -200, -150))
+
 %OUTPUT
--100
+
 %NAME
 Case 1
 %TYPE
@@ -107,9 +107,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(25, 50, 75))
+
 %OUTPUT
-9f4c0b1fca5cb6f886aa2e54442b1e1b
+
 %NAME
 Case 2
 %TYPE
@@ -117,9 +117,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(-1000, 0, 1000))
+
 %OUTPUT
-ad865d2f63b9feb2552c220385fbb7e3
+
 %NAME
 Case 3
 %TYPE
@@ -127,9 +127,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(2500, 2500, 5000))
+
 %OUTPUT
-c753594026422daeea1169edbbc80260
+
 %NAME
 Case 4
 %TYPE
@@ -137,9 +137,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(11111, 22222, 33333))
+
 %OUTPUT
-c318305bcc43e0d4f2af300ab5dcc05b
+
 %NAME
 Case 5
 %TYPE
@@ -147,9 +147,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(999999, 888888, 777777))
+
 %OUTPUT
-d668e9dbda7d1d7385cbb2b118313b12
+
 %NAME
 Case 6
 %TYPE
@@ -157,9 +157,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(-300, -400, -500))
+
 %OUTPUT
-3d6eda3fe34ca535129fb7f99a379a54
+
 %NAME
 Case 7
 %TYPE
@@ -167,9 +167,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(1, 1, 2))
+
 %OUTPUT
-26ab0db90d72e28ad0ba1e22ee510510
+
 %NAME
 Case 8
 %TYPE
@@ -177,9 +177,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(-1, -2, -3))
+
 %OUTPUT
-eb844645e8e61de0a4cf4b991e65e63e
+
 %NAME
 Case 9
 %TYPE
@@ -187,9 +187,9 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(1000000, 1000000, 999999))
+
 %OUTPUT
-b39ffd5aa5029d696193c8362dcb1d19
+
 %NAME
 Case 10
 %TYPE
@@ -197,6 +197,5 @@ secreto
 %PRECODE
 %INPUT
 %CODE
-print(maximo_de_tres(123, 456, 789))
+
 %OUTPUT
-aa3f5bb8c988fa9b75a1cdb1dc4d93fc
