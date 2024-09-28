@@ -1,5 +1,5 @@
 %PREG
-Pregunta 7
+Pregunta 4
 %NAME
 Case 1
 %TYPE
