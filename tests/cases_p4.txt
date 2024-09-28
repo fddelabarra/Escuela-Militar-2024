@@ -18,7 +18,7 @@ Case 2
 publico
 %PRECODE
 %INPUT
-John,Jane,Jack,Jill,end,2,
+John,Jane,Jack,Jill,end,2,2,
 %CODE
 %OUTPUT
 Jack
@@ -51,7 +51,7 @@ Case 5
 publico
 %PRECODE
 %INPUT
-Tom,Tim,Ted,Tara,end,3,
+Tom,Tim,Ted,Tara,end,3,3,
 %CODE
 %OUTPUT
 Tara
@@ -61,108 +61,57 @@ Case 6
 publico
 %PRECODE
 %INPUT
-Alice,Bob,Charlie,David,Eve,end,0,2,
+Peter,Paul,Mary,John,end,1,3,
 %CODE
 %OUTPUT
-Alice
-Bob
-Charlie
+Paul
+Mary
+John
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-Jake,Elwood,Ray,Matt,end,1,
+Harry,Hermione,Ron,end,0,2,
 %CODE
 %OUTPUT
-Elwood
+Harry
+Hermione
+Ron
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-Frodo,Sam,Gandalf,Aragorn,end,0,3,
+Bruce,Clark,Diana,end,2,2,
 %CODE
 %OUTPUT
-Frodo
-Sam
-Gandalf
-Aragorn
+Diana
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-Leia,Han,Luke,Vader,end,2,
+Tony,Steve,Natasha,end,0,1,
 %CODE
 %OUTPUT
-Luke
+Tony
+Steve
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-Nina,Max,Leo,Mia,end,0,1,
+Logan,Scott,Jean,end,2,2,
 %CODE
 %OUTPUT
-Nina
-Max
+Jean
 %NAME
 Case 1
-%TYPE
-secreto
-%PRECODE
-%INPUT
-Peter,Paul,Mary,John,end,1,3,
-%CODE
-%OUTPUT
-2fcca3a14c71029a640fd114d732434a
-%NAME
-Case 2
-%TYPE
-secreto
-%PRECODE
-%INPUT
-Harry,Hermione,Ron,end,0,2,
-%CODE
-%OUTPUT
-d960affad48e5dc53e9226d82c980051
-%NAME
-Case 3
-%TYPE
-secreto
-%PRECODE
-%INPUT
-Bruce,Clark,Diana,end,2,
-%CODE
-%OUTPUT
-2bceab40df4b8df33bca3cab1f602c85
-%NAME
-Case 4
-%TYPE
-secreto
-%PRECODE
-%INPUT
-Tony,Steve,Natasha,end,0,1,
-%CODE
-%OUTPUT
-e0afdf4f9994e2c223c361d9d22a85db
-%NAME
-Case 5
-%TYPE
-secreto
-%PRECODE
-%INPUT
-Logan,Scott,Jean,end,2,
-%CODE
-%OUTPUT
-b195d8b5aee9b903334bc8360099a90f
-%NAME
-Case 6
 %TYPE
 secreto
 %PRECODE
@@ -172,7 +121,7 @@ Katniss,Peeta,Gale,end,0,2,
 %OUTPUT
 4848d93cc8a1e4949ae7dbd91a0b71d4
 %NAME
-Case 7
+Case 2
 %TYPE
 secreto
 %PRECODE
@@ -182,32 +131,82 @@ Bilbo,Thorin,Kili,Fili,end,1,3,
 %OUTPUT
 1247b8e58a55725a605c7d1f64f504c8
 %NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+%INPUT
+Frodo,Sam,Gandalf,end,0,2,
+%CODE
+%OUTPUT
+4f614c32ace13e5a4fc91d6f7369be5e
+%NAME
+Case 4
+%TYPE
+secreto
+%PRECODE
+%INPUT
+Leia,Han,Luke,Vader,end,1,2,
+%CODE
+%OUTPUT
+08865f5656a60cf617abeff1f12e567c
+%NAME
+Case 5
+%TYPE
+secreto
+%PRECODE
+%INPUT
+Leia,Han,Luke,Vader,end,0,3,
+%CODE
+%OUTPUT
+b53b7ba1c3919b835bfd5ec40426045b
+%NAME
+Case 6
+%TYPE
+secreto
+%PRECODE
+%INPUT
+Bilbo,Thorin,Kili,Fili,end,1,1,
+%CODE
+%OUTPUT
+12c03fb5988c91b250c6c3262fb2a515
+%NAME
+Case 7
+%TYPE
+secreto
+%PRECODE
+%INPUT
+Nina,Max,Leo,Mia,end,0,2,
+%CODE
+%OUTPUT
+4ad3078808de0581ad14b857677b2fa5
+%NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-Harry,Ron,Hermione,end,1,
+Katniss,Peeta,Gale,end,2,2,
 %CODE
 %OUTPUT
-ce2987e3c0e7a1639877e05f5bfa2dae
+98b922b30d7ec1c4b418f062e985b1f3
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-Bruce,Clark,Diana,Barry,end,0,1,
+Tom,Tim,Ted,Tara,end,1,2,
 %CODE
 %OUTPUT
-9ea7f42d07edf00502b43dd8970d192e
+a26d67ecf738cc82703e3462117bd493
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-Peter,Tony,Steve,Natasha,end,2,3,
+Peter,Paul,Mary,John,end,0,1,
 %CODE
 %OUTPUT
-1b28694e5a61b16b847afa9e3827aa9e
+282dcbd2917fd86af07aa11541e4c46a
