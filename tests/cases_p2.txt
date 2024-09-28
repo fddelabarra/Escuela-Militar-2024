@@ -1,5 +1,5 @@
 %PREG
-Pregunta 2
+Pregunta 6
 %NAME
 Case 1
 %TYPE
@@ -12,34 +12,31 @@ publico
 8
 3
 5
-2
-%NAME
+2%NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-1,4,7,9,end,3,1,end,
+1,4,7,9,end,3,0,end,
 %CODE
 %OUTPUT
 9
-4
 1
-7
-%NAME
+4
+7%NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-10,20,30,40,end,1,2,end,
+10,20,30,40,end,2,1,end,
 %CODE
 %OUTPUT
-20
-40
-10
 30
-%NAME
+20
+10
+40%NAME
 Case 4
 %TYPE
 publico
@@ -50,33 +47,30 @@ publico
 %OUTPUT
 60
 50
-70
-%NAME
+70%NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-11,22,33,end,0,end,
+11,22,33,end,2,end,
 %CODE
 %OUTPUT
-11
-22
 33
-%NAME
+11
+22%NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-5,6,7,8,end,0,1,end,
+5,6,7,8,end,3,0,end,
 %CODE
 %OUTPUT
-5
-7
-6
 8
-%NAME
+5
+6
+7%NAME
 Case 7
 %TYPE
 publico
@@ -87,8 +81,7 @@ publico
 %OUTPUT
 16
 14
-15
-%NAME
+15%NAME
 Case 8
 %TYPE
 publico
@@ -99,20 +92,18 @@ publico
 %OUTPUT
 2
 4
-6
-%NAME
+6%NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-9,8,7,end,0,1,end,
+9,8,7,end,2,0,end,
 %CODE
 %OUTPUT
-9
 7
-8
-%NAME
+9
+8%NAME
 Case 10
 %TYPE
 publico
@@ -123,18 +114,16 @@ publico
 %OUTPUT
 10
 5
-15
-%NAME
+15%NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-8,9,10,11,end,0,2,end,
+8,9,10,11,end,2,0,end,
 %CODE
 %OUTPUT
-f1f1c76a617765269f6b8dd6281f75e6
-%NAME
+8c03fd005043dcaa8052f89ba40b3408%NAME
 Case 2
 %TYPE
 secreto
@@ -143,8 +132,7 @@ secreto
 21,22,23,end,1,end,
 %CODE
 %OUTPUT
-619f7158a2a52a306b48e6693007f60c
-%NAME
+619f7158a2a52a306b48e6693007f60c%NAME
 Case 3
 %TYPE
 secreto
@@ -153,18 +141,16 @@ secreto
 1,2,3,4,end,1,end,
 %CODE
 %OUTPUT
-c0cd4b4adbfa8c9fe3a00822dc8badf8
-%NAME
+c0cd4b4adbfa8c9fe3a00822dc8badf8%NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-10,20,30,end,0,2,end,
+10,20,30,end,2,0,end,
 %CODE
 %OUTPUT
-7a274768594435878790f1539a4a2018
-%NAME
+b770e8cf511b6c97278d7003187e7f16%NAME
 Case 5
 %TYPE
 secreto
@@ -173,18 +159,16 @@ secreto
 31,32,33,34,end,3,end,
 %CODE
 %OUTPUT
-b4ca1d92601556e9882623da6d5c0345
-%NAME
+b4ca1d92601556e9882623da6d5c0345%NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-99,98,97,end,0,end,
+99,98,97,end,2,end,
 %CODE
 %OUTPUT
-95252c111b7c723324c46d54b2b433bb
-%NAME
+a65b58b03ea8fa2989fa84f9be5297ca%NAME
 Case 7
 %TYPE
 secreto
@@ -193,8 +177,7 @@ secreto
 44,55,66,end,1,end,
 %CODE
 %OUTPUT
-86802032984b796c8af47a63f3f41a59
-%NAME
+86802032984b796c8af47a63f3f41a59%NAME
 Case 8
 %TYPE
 secreto
@@ -203,24 +186,22 @@ secreto
 3,5,7,end,1,end,
 %CODE
 %OUTPUT
-bd47fab51dacf9eac92ff34ab8294d9d
-%NAME
+bd47fab51dacf9eac92ff34ab8294d9d%NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-8,7,6,end,0,end,
+8,7,6,end,2,end,
 %CODE
 %OUTPUT
-a81e0be108bf4f97392818854abc3cab
-%NAME
+61adb358c218839646d2ddb47e938667%NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-13,14,15,end,2,end,
+13,14,15,end,1,end,
 %CODE
 %OUTPUT
-dd62e3b0bf81cf843576d2c70c58bed9
+9d65e28375421ae1129b80abb59b2c8f
