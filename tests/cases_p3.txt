@@ -67,6 +67,73 @@ publico
 7
 11
 %NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+%INPUT
+2,4,6,8,end,1,12,
+%CODE
+%OUTPUT
+2
+12
+6
+8
+%NAME
+Case 7
+%TYPE
+publico
+%PRECODE
+%INPUT
+7,14,21,28,end,3,35,
+%CODE
+%OUTPUT
+7
+14
+21
+35
+%NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+%INPUT
+100,150,200,end,2,250,
+%CODE
+%OUTPUT
+100
+150
+250
+%NAME
+Case 9
+%TYPE
+publico
+%PRECODE
+%INPUT
+9,19,29,39,49,end,4,59,
+%CODE
+%OUTPUT
+9
+19
+29
+39
+59
+%NAME
+Case 10
+%TYPE
+publico
+%PRECODE
+%INPUT
+5,10,15,20,25,30,end,5,35,
+%CODE
+%OUTPUT
+5
+10
+15
+20
+25
+35
+%NAME
 Case 1
 %TYPE
 secreto
@@ -116,3 +183,53 @@ secreto
 %CODE
 %OUTPUT
 e5cfd58cabc4af0a5a70e81820a3cc92
+%NAME
+Case 6
+%TYPE
+secreto
+%PRECODE
+%INPUT
+8,16,24,32,end,2,28,
+%CODE
+%OUTPUT
+7017e57a1fe61600975a2abda5b7ea87
+%NAME
+Case 7
+%TYPE
+secreto
+%PRECODE
+%INPUT
+3,6,9,12,15,end,3,18,
+%CODE
+%OUTPUT
+abe4bb1ae90e447950c74adfb240efa7
+%NAME
+Case 8
+%TYPE
+secreto
+%PRECODE
+%INPUT
+200,300,400,end,1,350,
+%CODE
+%OUTPUT
+e33923c235203a522372c51e0c03815a
+%NAME
+Case 9
+%TYPE
+secreto
+%PRECODE
+%INPUT
+5,25,50,100,end,3,150,
+%CODE
+%OUTPUT
+f669091822ede50a12d3823971932ea0
+%NAME
+Case 10
+%TYPE
+secreto
+%PRECODE
+%INPUT
+10,20,30,40,50,end,4,60,
+%CODE
+%OUTPUT
+5c60502e8fc54ead53cb039d159c952e
