@@ -13,7 +13,8 @@ publico
 2
 9
 4
-5%NAME
+5
+%NAME
 Case 2
 %TYPE
 publico
@@ -24,7 +25,8 @@ publico
 %OUTPUT
 10
 25
-30%NAME
+30
+%NAME
 Case 3
 %TYPE
 publico
@@ -37,7 +39,8 @@ publico
 6
 7
 15
-9%NAME
+9
+%NAME
 Case 4
 %TYPE
 publico
@@ -48,7 +51,8 @@ publico
 %OUTPUT
 150
 200
-300%NAME
+300
+%NAME
 Case 5
 %TYPE
 publico
@@ -61,7 +65,8 @@ publico
 3
 5
 7
-11%NAME
+11
+%NAME
 Case 1
 %TYPE
 secreto
@@ -70,7 +75,8 @@ secreto
 50,60,70,80,end,2,65,
 %CODE
 %OUTPUT
-d03da3c092f2e35515d2c9ddbf8dfe4a%NAME
+d03da3c092f2e35515d2c9ddbf8dfe4a
+%NAME
 Case 2
 %TYPE
 secreto
@@ -79,7 +85,8 @@ secreto
 11,22,33,44,55,end,3,40,
 %CODE
 %OUTPUT
-c1bc4c0a66247769971f18de75913951%NAME
+c1bc4c0a66247769971f18de75913951
+%NAME
 Case 3
 %TYPE
 secreto
@@ -88,7 +95,8 @@ secreto
 5,10,15,20,25,end,0,30,
 %CODE
 %OUTPUT
-ef814d6be6c5dd1e86aab63e5d495899%NAME
+ef814d6be6c5dd1e86aab63e5d495899
+%NAME
 Case 4
 %TYPE
 secreto
@@ -97,7 +105,8 @@ secreto
 3,6,9,end,1,8,
 %CODE
 %OUTPUT
-6a1537edd74b3e20b5fac195093d3b61%NAME
+6a1537edd74b3e20b5fac195093d3b61
+%NAME
 Case 5
 %TYPE
 secreto

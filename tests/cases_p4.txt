@@ -11,7 +11,8 @@ Alice,Bob,Charlie,David,end,1,3,
 %OUTPUT
 Bob
 Charlie
-David%NAME
+David
+%NAME
 Case 2
 %TYPE
 publico
@@ -20,7 +21,8 @@ publico
 Alice,Bob,Charlie,David,end,2,
 %CODE
 %OUTPUT
-Charlie%NAME
+Charlie
+%NAME
 Case 3
 %TYPE
 publico
@@ -31,7 +33,8 @@ John,Jane,Jack,Jill,end,0,2,
 %OUTPUT
 John
 Jane
-Jack%NAME
+Jack
+%NAME
 Case 4
 %TYPE
 publico
@@ -40,7 +43,8 @@ publico
 Sam,Chris,Kate,Lee,end,1,
 %CODE
 %OUTPUT
-Chris%NAME
+Chris
+%NAME
 Case 5
 %TYPE
 publico
@@ -49,7 +53,8 @@ publico
 Paul,Mary,Luke,Susan,end,3,3,
 %CODE
 %OUTPUT
-Susan%NAME
+Susan
+%NAME
 Case 1
 %TYPE
 secreto
@@ -58,7 +63,8 @@ secreto
 Tom,Harry,Emily,Alice,end,0,2,
 %CODE
 %OUTPUT
-bf1e52da67fb2b77b28e89694f5bdfbe%NAME
+bf1e52da67fb2b77b28e89694f5bdfbe
+%NAME
 Case 2
 %TYPE
 secreto
@@ -67,7 +73,8 @@ secreto
 Anna,Greg,Eva,Olivia,end,2,
 %CODE
 %OUTPUT
-9e63a39a10fc40de5566bb966158c643%NAME
+9e63a39a10fc40de5566bb966158c643
+%NAME
 Case 3
 %TYPE
 secreto
@@ -76,7 +83,8 @@ secreto
 Mark,Leo,Nina,Ruby,end,1,3,
 %CODE
 %OUTPUT
-7ff0d4aa705fc4fbb047b93e152a41b4%NAME
+7ff0d4aa705fc4fbb047b93e152a41b4
+%NAME
 Case 4
 %TYPE
 secreto
@@ -85,7 +93,8 @@ secreto
 Adam,Liam,Noah,Sophia,end,0,
 %CODE
 %OUTPUT
-beebb1e19f8d003914ed0a85e3176fcd%NAME
+beebb1e19f8d003914ed0a85e3176fcd
+%NAME
 Case 5
 %TYPE
 secreto
