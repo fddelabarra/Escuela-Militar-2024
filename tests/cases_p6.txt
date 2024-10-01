@@ -6,10 +6,10 @@ Case 1
 publico
 %PRECODE
 %INPUT
+manzana-pera-uva,gato-perro-raton,sol-luna-estrella,end,1,2,
 %CODE
-
 %OUTPUT
-
+raton
 %NAME
 Case 2
 %TYPE
