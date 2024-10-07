@@ -1,0 +1,207 @@
+%PREG
+Pregunta 6
+%NAME
+Case 1
+%TYPE
+publico
+%PRECODE
+%INPUT
+3,5,8,2,end,2,0,end,
+%CODE
+%OUTPUT
+8
+3
+5
+2%NAME
+Case 2
+%TYPE
+publico
+%PRECODE
+%INPUT
+1,4,7,9,end,3,0,end,
+%CODE
+%OUTPUT
+9
+1
+4
+7%NAME
+Case 3
+%TYPE
+publico
+%PRECODE
+%INPUT
+10,20,30,40,end,2,1,end,
+%CODE
+%OUTPUT
+30
+20
+10
+40%NAME
+Case 4
+%TYPE
+publico
+%PRECODE
+%INPUT
+50,60,70,end,1,end,
+%CODE
+%OUTPUT
+60
+50
+70%NAME
+Case 5
+%TYPE
+publico
+%PRECODE
+%INPUT
+11,22,33,end,2,end,
+%CODE
+%OUTPUT
+33
+11
+22%NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+%INPUT
+5,6,7,8,end,3,0,end,
+%CODE
+%OUTPUT
+8
+5
+6
+7%NAME
+Case 7
+%TYPE
+publico
+%PRECODE
+%INPUT
+14,15,16,end,2,end,
+%CODE
+%OUTPUT
+16
+14
+15%NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+%INPUT
+2,4,6,end,0,end,
+%CODE
+%OUTPUT
+2
+4
+6%NAME
+Case 9
+%TYPE
+publico
+%PRECODE
+%INPUT
+9,8,7,end,2,0,end,
+%CODE
+%OUTPUT
+7
+9
+8%NAME
+Case 10
+%TYPE
+publico
+%PRECODE
+%INPUT
+5,10,15,end,1,end,
+%CODE
+%OUTPUT
+10
+5
+15%NAME
+Case 1
+%TYPE
+secreto
+%PRECODE
+%INPUT
+8,9,10,11,end,2,0,end,
+%CODE
+%OUTPUT
+8c03fd005043dcaa8052f89ba40b3408%NAME
+Case 2
+%TYPE
+secreto
+%PRECODE
+%INPUT
+21,22,23,end,1,end,
+%CODE
+%OUTPUT
+619f7158a2a52a306b48e6693007f60c%NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+%INPUT
+1,2,3,4,end,1,end,
+%CODE
+%OUTPUT
+c0cd4b4adbfa8c9fe3a00822dc8badf8%NAME
+Case 4
+%TYPE
+secreto
+%PRECODE
+%INPUT
+10,20,30,end,2,0,end,
+%CODE
+%OUTPUT
+b770e8cf511b6c97278d7003187e7f16%NAME
+Case 5
+%TYPE
+secreto
+%PRECODE
+%INPUT
+31,32,33,34,end,3,end,
+%CODE
+%OUTPUT
+b4ca1d92601556e9882623da6d5c0345%NAME
+Case 6
+%TYPE
+secreto
+%PRECODE
+%INPUT
+99,98,97,end,2,end,
+%CODE
+%OUTPUT
+a65b58b03ea8fa2989fa84f9be5297ca%NAME
+Case 7
+%TYPE
+secreto
+%PRECODE
+%INPUT
+44,55,66,end,1,end,
+%CODE
+%OUTPUT
+86802032984b796c8af47a63f3f41a59%NAME
+Case 8
+%TYPE
+secreto
+%PRECODE
+%INPUT
+3,5,7,end,1,end,
+%CODE
+%OUTPUT
+bd47fab51dacf9eac92ff34ab8294d9d%NAME
+Case 9
+%TYPE
+secreto
+%PRECODE
+%INPUT
+8,7,6,end,2,end,
+%CODE
+%OUTPUT
+61adb358c218839646d2ddb47e938667%NAME
+Case 10
+%TYPE
+secreto
+%PRECODE
+%INPUT
+13,14,15,end,1,end,
+%CODE
+%OUTPUT
+9d65e28375421ae1129b80abb59b2c8f

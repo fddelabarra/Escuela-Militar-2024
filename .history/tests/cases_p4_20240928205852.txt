@@ -1,0 +1,213 @@
+%PREG
+Pregunta 4
+
+%NAME
+Case 1
+%TYPE
+publico
+%PRECODE
+%INPUT
+Alice,Bob,Charlie,David,end,1,3,
+%CODE
+%OUTPUT
+Bob
+Charlie
+David
+%NAME
+Case 2
+%TYPE
+publico
+%PRECODE
+%INPUT
+John,Jane,Jack,Jill,end,2,2,
+%CODE
+%OUTPUT
+Jack
+%NAME
+Case 3
+%TYPE
+publico
+%PRECODE
+%INPUT
+Mike,Luke,Matt,Mark,end,0,2,
+%CODE
+%OUTPUT
+Mike
+Luke
+Matt
+%NAME
+Case 4
+%TYPE
+publico
+%PRECODE
+%INPUT
+Anna,Elsa,Kristoff,Sven,end,1,2,
+%CODE
+%OUTPUT
+Elsa
+Kristoff
+%NAME
+Case 5
+%TYPE
+publico
+%PRECODE
+%INPUT
+Tom,Tim,Ted,Tara,end,3,3,
+%CODE
+%OUTPUT
+Tara
+%NAME
+Case 6
+%TYPE
+publico
+%PRECODE
+%INPUT
+Peter,Paul,Mary,John,end,1,3,
+%CODE
+%OUTPUT
+Paul
+Mary
+John
+%NAME
+Case 7
+%TYPE
+publico
+%PRECODE
+%INPUT
+Harry,Hermione,Ron,end,0,2,
+%CODE
+%OUTPUT
+Harry
+Hermione
+Ron
+%NAME
+Case 8
+%TYPE
+publico
+%PRECODE
+%INPUT
+Bruce,Clark,Diana,end,2,2,
+%CODE
+%OUTPUT
+Diana
+%NAME
+Case 9
+%TYPE
+publico
+%PRECODE
+%INPUT
+Tony,Steve,Natasha,end,0,1,
+%CODE
+%OUTPUT
+Tony
+Steve
+%NAME
+Case 10
+%TYPE
+publico
+%PRECODE
+%INPUT
+Logan,Scott,Jean,end,2,2,
+%CODE
+%OUTPUT
+Jean
+%NAME
+Case 1
+%TYPE
+secreto
+%PRECODE
+%INPUT
+Katniss,Peeta,Gale,end,0,2,
+%CODE
+%OUTPUT
+4848d93cc8a1e4949ae7dbd91a0b71d4
+%NAME
+Case 2
+%TYPE
+secreto
+%PRECODE
+%INPUT
+Bilbo,Thorin,Kili,Fili,end,1,3,
+%CODE
+%OUTPUT
+1247b8e58a55725a605c7d1f64f504c8
+%NAME
+Case 3
+%TYPE
+secreto
+%PRECODE
+%INPUT
+Frodo,Sam,Gandalf,end,0,2,
+%CODE
+%OUTPUT
+4f614c32ace13e5a4fc91d6f7369be5e
+%NAME
+Case 4
+%TYPE
+secreto
+%PRECODE
+%INPUT
+Leia,Han,Luke,Vader,end,1,2,
+%CODE
+%OUTPUT
+08865f5656a60cf617abeff1f12e567c
+%NAME
+Case 5
+%TYPE
+secreto
+%PRECODE
+%INPUT
+Leia,Han,Luke,Vader,end,0,3,
+%CODE
+%OUTPUT
+b53b7ba1c3919b835bfd5ec40426045b
+%NAME
+Case 6
+%TYPE
+secreto
+%PRECODE
+%INPUT
+Bilbo,Thorin,Kili,Fili,end,1,1,
+%CODE
+%OUTPUT
+12c03fb5988c91b250c6c3262fb2a515
+%NAME
+Case 7
+%TYPE
+secreto
+%PRECODE
+%INPUT
+Nina,Max,Leo,Mia,end,0,2,
+%CODE
+%OUTPUT
+4ad3078808de0581ad14b857677b2fa5
+%NAME
+Case 8
+%TYPE
+secreto
+%PRECODE
+%INPUT
+Katniss,Peeta,Gale,end,2,2,
+%CODE
+%OUTPUT
+98b922b30d7ec1c4b418f062e985b1f3
+%NAME
+Case 9
+%TYPE
+secreto
+%PRECODE
+%INPUT
+Tom,Tim,Ted,Tara,end,1,2,
+%CODE
+%OUTPUT
+a26d67ecf738cc82703e3462117bd493
+%NAME
+Case 10
+%TYPE
+secreto
+%PRECODE
+%INPUT
+Peter,Paul,Mary,John,end,0,1,
+%CODE
+%OUTPUT
+282dcbd2917fd86af07aa11541e4c46a
