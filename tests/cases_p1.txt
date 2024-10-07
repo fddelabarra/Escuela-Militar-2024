@@ -6,207 +6,218 @@ Case 1
 publico
 %PRECODE
 %INPUT
-cocinar,limpiar,estudiar,end,limpiar,
+5,92 68 87,85 94 63,99 63 79,98 76 91,68 78 85,
 %CODE
 %OUTPUT
-cocinar
-estudiar
+82.33
+80.67
+80.33
+88.33
+77.00
 %NAME
 Case 2
 %TYPE
 publico
 %PRECODE
 %INPUT
-leer,dormir,trabajar,end,dormir,
+2,91 77 74,96 88 100,
 %CODE
 %OUTPUT
-leer
-trabajar
+80.67
+94.67
 %NAME
 Case 3
 %TYPE
 publico
 %PRECODE
 %INPUT
-lavar,ordenar,escribir,end,ordenar,
+2,100 60 87,92 76 70,
 %CODE
 %OUTPUT
-lavar
-escribir
+82.33
+79.33
 %NAME
 Case 4
 %TYPE
 publico
 %PRECODE
 %INPUT
-comprar,vender,dibujar,end,vender,
+2,77 91 83,68 92 100,
 %CODE
 %OUTPUT
-comprar
-dibujar
+83.67
+86.67
 %NAME
 Case 5
 %TYPE
 publico
 %PRECODE
 %INPUT
-correr,saltar,pintar,end,correr,
+2,97 67 86,97 94 64,
 %CODE
 %OUTPUT
-saltar
-pintar
+83.33
+85.00
 %NAME
 Case 6
 %TYPE
 publico
 %PRECODE
 %INPUT
-caminar,bailar,cantar,end,bailar,
+3,62 65 92,82 75 73,64 68 60,
 %CODE
 %OUTPUT
-caminar
-cantar
+73.00
+76.67
+64.00
 %NAME
 Case 7
 %TYPE
 publico
 %PRECODE
 %INPUT
-leer,escribir,jugar,end,leer,
+4,88 99 62,75 74 70,67 71 76,97 64 62,
 %CODE
 %OUTPUT
-escribir
-jugar
+83.00
+73.00
+71.33
+74.33
 %NAME
 Case 8
 %TYPE
 publico
 %PRECODE
 %INPUT
-saltar,nadar,boxear,end,nadar,
+5,71 91 98,95 70 83,72 85 96,70 87 94,81 86 88,
 %CODE
 %OUTPUT
-saltar
-boxear
+86.67
+82.67
+84.33
+83.67
+85.00
 %NAME
 Case 9
 %TYPE
 publico
 %PRECODE
 %INPUT
-trabajar,comer,leer,end,comer,
+3,98 79 99,67 90 60,90 69 74,
 %CODE
 %OUTPUT
-trabajar
-leer
+92.00
+72.33
+77.67
 %NAME
 Case 10
 %TYPE
 publico
 %PRECODE
 %INPUT
-escribir,leer,descansar,end,escribir,
+3,84 83 63,92 91 78,100 98 61,
 %CODE
 %OUTPUT
-leer
-descansar
+76.67
+87.00
+86.33
 %NAME
 Case 1
 %TYPE
 secreto
 %PRECODE
 %INPUT
-limpiar,escribir,dormir,end,escribir,
+5,92 68 87,85 94 63,99 63 79,98 76 91,68 78 85,
 %CODE
 %OUTPUT
-03947c0ae9f6c1e00488d8a6f9059f35
+050e77da30ec33f063df276a26db922a
 %NAME
 Case 2
 %TYPE
 secreto
 %PRECODE
 %INPUT
-lavar,caminar,descansar,end,lavar,
+2,91 77 74,96 88 100,
 %CODE
 %OUTPUT
-aba016751a6efeaa2ceec4924a7bcccf
+478cb4a9c605fcad4a0df244a48fe7a7
 %NAME
 Case 3
 %TYPE
 secreto
 %PRECODE
 %INPUT
-pintar,saltar,cantar,end,pintar,
+2,100 60 87,92 76 70,
 %CODE
 %OUTPUT
-ef9d66b536433cd3431c34e908c505a6
+4c11d95b373f09c619eaf9d302a30df1
 %NAME
 Case 4
 %TYPE
 secreto
 %PRECODE
 %INPUT
-comer,beber,jugar,end,beber,
+2,77 91 83,68 92 100,
 %CODE
 %OUTPUT
-ec2109b19f683c64c8900a692399af2e
+9835dc3270dfdab7e3fda29dcef1f2b8
 %NAME
 Case 5
 %TYPE
 secreto
 %PRECODE
 %INPUT
-nadar,correr,bailar,end,nadar,
+2,97 67 86,97 94 64,
 %CODE
 %OUTPUT
-ef4496d69c1344985b3ada24bfda4718
+b11fb15bae2171b3b4e235f3914e4dd6
 %NAME
 Case 6
 %TYPE
 secreto
 %PRECODE
 %INPUT
-leer,trabajar,descansar,end,leer,
+3,62 65 92,82 75 73,64 68 60,
 %CODE
 %OUTPUT
-8234555901baa59126b07ae9ae008f23
+0bea0d41b8cc508101d5b44916be5b5a
 %NAME
 Case 7
 %TYPE
 secreto
 %PRECODE
 %INPUT
-jugar,cantar,dormir,end,cantar,
+4,88 99 62,75 74 70,67 71 76,97 64 62,
 %CODE
 %OUTPUT
-6af3b76464c4c1202f804573f967586c
+0977bd81308bfb3afdf9d207cadea791
 %NAME
 Case 8
 %TYPE
 secreto
 %PRECODE
 %INPUT
-limpiar,jugar,comer,end,comer,
+5,71 91 98,95 70 83,72 85 96,70 87 94,81 86 88,
 %CODE
 %OUTPUT
-f37106fd77022aebbe3b0ff31aa32e76
+c393aa3d7ead082ad185cfcd6e70bbab
 %NAME
 Case 9
 %TYPE
 secreto
 %PRECODE
 %INPUT
-lavar,escribir,saltar,end,lavar,
+3,98 79 99,67 90 60,90 69 74,
 %CODE
 %OUTPUT
-c3f2dabf3505be5c6763d3891797951c
+62aa6f17e7e0ad4d86c1949848c9e918
 %NAME
 Case 10
 %TYPE
 secreto
 %PRECODE
 %INPUT
-pintar,bailar,cantar,end,pintar,
+3,84 83 63,92 91 78,100 98 61,
 %CODE
 %OUTPUT
-9d6c5d63ab3387ed7142b7e9bb1851d0
+9b675404f8eb3ec3d10f2b00b350501c
